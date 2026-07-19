@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+data/seen_jobs.json
+output/
+.env
