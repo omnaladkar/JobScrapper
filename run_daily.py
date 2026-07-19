@@ -44,7 +44,7 @@ if smtp_host and smtp_user and smtp_pass and email_to:
     try:
         msg = MIMEText(report, _charset="utf-8")
         msg["Subject"] = f"Job Report - {datetime.now().strftime('%Y-%m-%d')}"
-        msg["From"] = smtp_user
+        msg["From"] = email_to
         msg["To"] = email_to
         with smtplib.SMTP(smtp_host, int(smtp_port)) as s:
             s.starttls()
