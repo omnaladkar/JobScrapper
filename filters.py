@@ -19,6 +19,8 @@ def match_location(location_text):
     if not location_text:
         return False
     lower = location_text.lower()
+    if "india" in lower:
+        return True
     return any(city.lower() in lower for city in CITIES)
 
 
@@ -50,7 +52,7 @@ def match_keywords(title, description=""):
 
 
 def exclude_job(title, description=""):
-    text = (title + " " + description).lower()
+    text = title.lower()
     for kw in EXCLUDE_KEYWORDS:
         if kw in text:
             return True
@@ -85,16 +87,31 @@ def calculate_match_score(title, location, description=""):
         count = text.count(kw)
         score += min(count * 10, 30)
 
-    bonus_keywords = ["microservice", "aws", "kafka", "rest api", "restapi"]
-    for kw in bonus_keywords:
+    framework_keywords = [
+        "microservice", "aws", "kafka", "rest api", "restapi",
+        "lambda", "sqs", "sns", "eventbridge", "step function",
+        "redis", "mysql", "aurora", "docker", "kubernetes",
+        "node.js", "nodejs", "typescript",
+        "spring security", "spring cloud",
+    ]
+    for kw in framework_keywords:
         if kw in text:
             score += 10
 
-    if "software engineer" in text:
-        score += 5
+    bonus_titles = ["software engineer", "backend engineer", "sde", "java developer"]
+    for kw in bonus_titles:
+        if kw in title.lower():
+            score += 5
 
-    if match_location(location):
-        score += 15
+    if "software engineer ii" in title.lower() or "sde ii" in title.lower():
+        score += 10
+
+    if location:
+        lower_loc = location.lower()
+        if "india" in lower_loc:
+            score += 10
+        if any(city.lower() in lower_loc for city in CITIES):
+            score += 10
 
     return min(score, 100)
 

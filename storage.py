@@ -43,20 +43,22 @@ def save_new_jobs(jobs):
         json.dump(jobs, f, indent=2, ensure_ascii=False)
 
 
-def generate_report(jobs):
+def generate_report(jobs, lookback_days=0):
     if not jobs:
         return "No new jobs found today."
     lines = [f"# Daily Job Report - {datetime.now().strftime('%Y-%m-%d')}", ""]
+    if lookback_days:
+        lines.append(f"Looking back {lookback_days} days (score >= 40)")
+        lines.append("")
     lines.append(f"Total new jobs found: {len(jobs)}")
-    lines.append(f"{'Company':25} {'Role':50} {'Location':20} {'Match Score':10}")
-    lines.append("-" * 105)
-    for job in sorted(jobs, key=lambda x: x["match_score"], reverse=True):
-        lines.append(
-            f"{job['company'][:24]:25} "
-            f"{job['role'][:49]:50} "
-            f"{job['location'][:19]:20} "
-            f"{job['match_score']:>3}/100"
-        )
-    lines.append("")
+    lines.append(f"")
+    for i, job in enumerate(sorted(jobs, key=lambda x: x["match_score"], reverse=True), 1):
+        lines.append(f"{i}. {job['company']} - {job['role']}")
+        lines.append(f"   Location: {job['location']}")
+        lines.append(f"   Score: {job['match_score']}/100")
+        url = job.get("apply_url") or job.get("url", "")
+        if url:
+            lines.append(f"   Apply: {url}")
+        lines.append("")
     lines.append(f"Generated at: {datetime.now().isoformat()}")
     return "\n".join(lines)

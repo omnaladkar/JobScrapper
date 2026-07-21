@@ -5,4 +5,4 @@ name = "job-scraper"
 builder = "nixpacks"
 
 [deploy]
-startCommand = "python run_daily.py"
+startCommand = "bash start.sh"

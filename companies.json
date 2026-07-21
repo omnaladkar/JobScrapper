@@ -1,5 +1,4 @@
 [
-  {"name": "TCS", "ats": "greenhouse", "board": "tcs"},
   {"name": "PhonePe", "ats": "greenhouse", "board": "phonepe"},
   {"name": "InMobi", "ats": "greenhouse", "board": "inmobi"},
   {"name": "Postman", "ats": "greenhouse", "board": "postman"},
@@ -19,5 +18,13 @@
   {"name": "Twilio", "ats": "greenhouse", "board": "twilio"},
   {"name": "HubSpot", "ats": "greenhouse", "board": "hubspot"},
   {"name": "Robinhood", "ats": "greenhouse", "board": "robinhood"},
-  {"name": "Lyft", "ats": "greenhouse", "board": "lyft"}
+  {"name": "Lyft", "ats": "greenhouse", "board": "lyft"},
+  {"name": "GoDaddy", "ats": "greenhouse", "board": "godaddy"},
+  {"name": "Fastly", "ats": "greenhouse", "board": "fastly"},
+  {"name": "Atlassian", "ats": "greenhouse", "board": "atlassian"},
+  {"name": "Freshworks", "ats": "greenhouse", "board": "freshworks"},
+  {"name": "Chargebee", "ats": "greenhouse", "board": "chargebee"},
+  {"name": "Razorpay", "ats": "greenhouse", "board": "razorpay"},
+  {"name": "Microsoft", "ats": "careerpage", "career_url": "https://careers.microsoft.com/us/en/search-results?keywords=java+spring+boot&location=India", "job_link_pattern": "apply\\.careers\\.microsoft\\.com/careers/job/"},
+  {"name": "Amazon", "ats": "amazon", "query": "java spring boot", "location": "India"}
 ]
