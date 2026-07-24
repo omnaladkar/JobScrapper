@@ -7,7 +7,7 @@ from scrapers import SCRAPERS
 from filters import filter_jobs
 from storage import load_seen_jobs, deduplicate, save_new_jobs, save_seen_jobs, generate_report
 
-MIN_SCORE = 40
+MIN_SCORE = 30
 companies = load_companies()
 seen = load_seen_jobs()
 all_jobs = []
