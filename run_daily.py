@@ -57,25 +57,29 @@ smtp_user = os.environ.get("SMTP_USER")
 smtp_pass = os.environ.get("SMTP_PASS")
 email_to = os.environ.get("EMAIL_TO")
 
-if smtp_pass and smtp_pass.startswith("SG."):
+sendgrid_key = os.environ.get("SENDGRID_API_KEY") or smtp_pass
+sendgrid_to = os.environ.get("SENDGRID_TO") or email_to
+sendgrid_from = os.environ.get("SENDGRID_FROM") or email_to
+
+if sendgrid_key and sendgrid_key.startswith("SG."):
     try:
         import requests
         r = requests.post(
             "https://api.sendgrid.com/v3/mail/send",
             headers={
-                "Authorization": f"Bearer {smtp_pass}",
+                "Authorization": f"Bearer {sendgrid_key}",
                 "Content-Type": "application/json",
             },
             json={
-                "personalizations": [{"to": [{"email": email_to}]}],
-                "from": {"email": email_to},
+                "personalizations": [{"to": [{"email": sendgrid_to}]}],
+                "from": {"email": sendgrid_from},
                 "subject": f"Job Report - {datetime.now().strftime('%Y-%m-%d')}",
                 "content": [{"type": "text/plain", "value": report}],
             },
             timeout=30,
         )
         if r.status_code == 202:
-            print(f"Email sent to {email_to} via SendGrid API", flush=True)
+            print(f"Email sent to {sendgrid_to} via SendGrid API", flush=True)
         else:
             print(f"SendGrid API error: {r.status_code} {r.text[:200]}", flush=True)
     except Exception as e:

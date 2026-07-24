@@ -48,7 +48,7 @@ def generate_report(jobs, lookback_days=0):
         return "No new jobs found today."
     lines = [f"# Daily Job Report - {datetime.now().strftime('%Y-%m-%d')}", ""]
     if lookback_days:
-        lines.append(f"Looking back {lookback_days} days (score >= 40)")
+        lines.append(f"Looking back {lookback_days} days (score >= 30)")
         lines.append("")
     lines.append(f"Total new jobs found: {len(jobs)}")
     lines.append(f"")
