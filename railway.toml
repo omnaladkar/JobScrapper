@@ -6,3 +6,4 @@ builder = "nixpacks"
 
 [deploy]
 startCommand = "bash start.sh"
+cronSchedule = "30 2 * * *"
