@@ -61,6 +61,9 @@ sendgrid_key = os.environ.get("SENDGRID_API_KEY") or smtp_pass
 sendgrid_to = os.environ.get("SENDGRID_TO") or email_to
 sendgrid_from = os.environ.get("SENDGRID_FROM") or email_to
 
+recipients = [e.strip() for e in (sendgrid_to or "").split(",") if e.strip()]
+recipient_list = [{"email": e} for e in recipients]
+
 if sendgrid_key and sendgrid_key.startswith("SG."):
     try:
         import requests
@@ -71,7 +74,7 @@ if sendgrid_key and sendgrid_key.startswith("SG."):
                 "Content-Type": "application/json",
             },
             json={
-                "personalizations": [{"to": [{"email": sendgrid_to}]}],
+                "personalizations": [{"to": recipient_list}],
                 "from": {"email": sendgrid_from},
                 "subject": f"Job Report - {datetime.now().strftime('%Y-%m-%d')}",
                 "content": [{"type": "text/plain", "value": report}],
@@ -79,7 +82,7 @@ if sendgrid_key and sendgrid_key.startswith("SG."):
             timeout=30,
         )
         if r.status_code == 202:
-            print(f"Email sent to {sendgrid_to} via SendGrid API", flush=True)
+            print(f"Email sent to {', '.join(recipients)} via SendGrid API", flush=True)
         else:
             print(f"SendGrid API error: {r.status_code} {r.text[:200]}", flush=True)
     except Exception as e:
@@ -88,7 +91,7 @@ elif smtp_host and smtp_user and smtp_pass and email_to:
     msg = MIMEText(report, _charset="utf-8")
     msg["Subject"] = f"Job Report - {datetime.now().strftime('%Y-%m-%d')}"
     msg["From"] = email_to
-    msg["To"] = email_to
+    msg["To"] = ", ".join(recipients)
     for port, use_ssl in [(int(smtp_port), False), (465, True), (587, False)]:
         try:
             if use_ssl:
@@ -100,7 +103,7 @@ elif smtp_host and smtp_user and smtp_pass and email_to:
                     s.starttls()
                     s.login(smtp_user, smtp_pass)
                     s.send_message(msg)
-            print(f"Email sent to {email_to} (port {port})", flush=True)
+            print(f"Email sent to {', '.join(recipients)} (port {port})", flush=True)
             break
         except Exception as e:
             print(f"  Port {port} failed: {e}", flush=True)

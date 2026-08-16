@@ -33,6 +33,13 @@
   {"name": "Affirm", "ats": "greenhouse", "board": "affirm"},
   {"name": "Brex", "ats": "greenhouse", "board": "brex"},
   {"name": "Pendo", "ats": "greenhouse", "board": "pendo"},
+  {"name": "Databricks", "ats": "greenhouse", "board": "databricks"},
+  {"name": "HighRadius", "ats": "greenhouse", "board": "highradius"},
+  {"name": "Roblox", "ats": "greenhouse", "board": "roblox"},
+  {"name": "Turing", "ats": "greenhouse", "board": "turing"},
+  {"name": "Agoda", "ats": "greenhouse", "board": "agoda"},
+  {"name": "Workato", "ats": "greenhouse", "board": "workato"},
+  {"name": "Coursera", "ats": "greenhouse", "board": "coursera"},
   {"name": "Microsoft", "ats": "careerpage", "career_url": "https://careers.microsoft.com/us/en/search-results?keywords=java+spring+boot&location=India", "job_link_pattern": "apply\\.careers\\.microsoft\\.com/careers/job/"},
   {"name": "Amazon", "ats": "amazon", "query": "java spring boot", "location": "India"}
 ]
