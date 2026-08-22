@@ -1,0 +1,317 @@
+# Daily Job Report - 2026-08-22
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 62
+
+1. HighRadius - Agent Developer Test III
+   Location: Hyderabad, Telangana, India
+   Score: 100/100
+   Apply: https://www.highradius.com/about/careers-list/?gh_jid=7611164003
+
+2. Parspec - AI Ops Engineer
+   Location: Hybrid - Bangalore, India
+   Score: 100/100
+   Apply: https://jobs.ashbyhq.com/parspec/9d5fb76b-924b-4172-b512-93cdd70070c3/application
+
+3. Gushwork - SDE 2/3 (Backend)
+   Location: Bengaluru
+   Score: 100/100
+   Apply: https://jobs.lever.co/gushwork/c9e4bdeb-2e2d-4ec8-92f0-203d52e4b17b/apply
+
+4. InMobi - SDE II - AI
+   Location: Bangalore
+   Score: 95/100
+   Apply: https://job-boards.greenhouse.io/inmobi/jobs/8073988
+
+5. HighRadius - Java Developer IV
+   Location: Hyderabad, Telangana, India
+   Score: 95/100
+   Apply: https://www.highradius.com/about/careers-list/?gh_jid=7608628003
+
+6. HighRadius - Software Development Engineer - IV
+   Location: Hyderabad, Telangana, India
+   Score: 90/100
+   Apply: https://www.highradius.com/about/careers-list/?gh_jid=7608435003
+
+7. HackerRank - Software Development Engineer in Test II
+   Location: Hybrid in Bangalore, India
+   Score: 90/100
+   Apply: https://job-boards.greenhouse.io/hackerrank/jobs/7771695
+
+8. Atomicwork - Backend Engineer
+   Location: Bengaluru, India
+   Score: 85/100
+   Apply: https://job-boards.greenhouse.io/atomicwork/jobs/4143684008
+
+9. Atomicwork - SDET
+   Location: Bengaluru, Karnataka
+   Score: 85/100
+   Apply: https://job-boards.greenhouse.io/atomicwork/jobs/4547914008
+
+10. HighRadius - Python SDE-III
+   Location: Hyderabad, Telangana, India
+   Score: 75/100
+   Apply: https://www.highradius.com/about/careers-list/?gh_jid=7490263003
+
+11. Sarvam AI - Backend Engineer, Chanakya
+   Location: Bengaluru
+   Score: 75/100
+   Apply: https://jobs.ashbyhq.com/sarvam/86ae80f8-b7eb-43a4-afde-fef58e77e23e/application
+
+12. Sarvam AI - Backend Engineer - Studio Media Platform
+   Location: Bengaluru
+   Score: 75/100
+   Apply: https://jobs.ashbyhq.com/sarvam/b07dfd8a-208d-43c1-a811-f1c447df26f9/application
+
+13. Gushwork - SDE 2/3 (Full Stack)
+   Location: Bengaluru
+   Score: 75/100
+   Apply: https://jobs.lever.co/gushwork/31284853-6fc6-4f6e-90e3-e331d907df74/apply
+
+14. DevRev - Forward Deployed Engineer 
+   Location: Bangalore, India; Chennai, India
+   Score: 70/100
+   Apply: https://job-boards.greenhouse.io/devrev/jobs/5668939004
+
+15. Bureau - Integration Engineer (SDK)
+   Location: Bangalore
+   Score: 70/100
+   Apply: https://jobs.ashbyhq.com/bureau/8786a55b-dd03-450a-872d-9d50feeb4f93/application
+
+16. Rubrik - Software Engineer - Cloud Native Protection
+   Location: Bangalore 
+   Score: 65/100
+   Apply: https://www.rubrik.com/company/careers/departments/job.8121053?gh_jid=8121053
+
+17. SigNoz - Sr Backend Engineer - Platform
+   Location: India
+   Score: 65/100
+   Apply: https://jobs.ashbyhq.com/SigNoz/e8c0ae83-391b-4c68-be61-ca32392d223f/application
+
+18. SigNoz - Sr Backend Engineer - AI
+   Location: India
+   Score: 65/100
+   Apply: https://jobs.ashbyhq.com/SigNoz/d8fd6b52-8499-4dad-9903-f231e39c996d/application
+
+19. Bolna - Software Engineer
+   Location: Bengaluru
+   Score: 65/100
+   Apply: https://jobs.ashbyhq.com/bolna/83af325e-77ba-4ac5-9f45-7985892972ee/application
+
+20. Atomicwork - Backend Engineer - Search
+   Location: Bengaluru, Karnataka
+   Score: 65/100
+   Apply: https://job-boards.greenhouse.io/atomicwork/jobs/4645648008
+
+21. Atomicwork - Workflow Platform Integration Specialist
+   Location: Bengaluru, Karnataka
+   Score: 60/100
+   Apply: https://job-boards.greenhouse.io/atomicwork/jobs/4181576008
+
+22. TrueFoundry - Forward Deployed Engineer - GTM
+   Location: Bengaluru
+   Score: 60/100
+   Apply: https://app.careerpuck.com/job-board/truefoundry/job/5250738008?gh_jid=5250738008
+
+23. GitLab - Backend Engineer, Geo Team
+   Location: Bangalore, India
+   Score: 55/100
+   Apply: https://job-boards.greenhouse.io/gitlab/jobs/8695515002
+
+24. GitLab - Intermediate Backend Engineer
+   Location: Bangalore, India
+   Score: 55/100
+   Apply: https://job-boards.greenhouse.io/gitlab/jobs/8686962002
+
+25. Chargepoint - Software Engineer
+   Location: IN-HR-Gurugram-418-419
+   Score: 55/100
+   Apply: https://www.chargepoint.com/about/opportunities/job/?gh_jid=8370033002
+
+26. Workato - Customer Centric Engineer (US Market) 
+   Location: Hyderabad, India
+   Score: 50/100
+   Apply: https://www.workato.com/careers?gh_jid=8570123002#open-roles
+
+27. Meesho - Forward Deployed Engineer - II
+   Location: Bangalore, Karnataka
+   Score: 50/100
+   Apply: https://jobs.lever.co/meesho/fcceab83-4d26-4ea3-a5bc-b137b7e5ee5a/apply
+
+28. CRED - web developer - Prefr
+   Location: hyderabad
+   Score: 50/100
+   Apply: https://jobs.lever.co/cred/58dfc330-090b-4318-a395-cc7280cf5065/apply
+
+29. DevRev - Solution Engineer : Mumbai
+   Location: Bangalore, India
+   Score: 50/100
+   Apply: https://job-boards.greenhouse.io/devrev/jobs/6139498004
+
+30. HackerRank - Customer Experience Engineer, L1
+   Location: Hybrid in Bangalore, India
+   Score: 50/100
+   Apply: https://job-boards.greenhouse.io/hackerrank/jobs/7830418
+
+31. HackerRank - DevRel Engineer II 
+   Location: Hybrid in Bangalore, India
+   Score: 50/100
+   Apply: https://job-boards.greenhouse.io/hackerrank/jobs/8009429
+
+32. Okta - ServiceNow Developer SAM
+   Location: Bengaluru, India
+   Score: 40/100
+   Apply: https://www.okta.com/company/careers/opportunity/7727730?gh_jid=7727730
+
+33. GitLab - AI Engineer
+   Location: Remote, Bangalore
+   Score: 40/100
+   Apply: https://job-boards.greenhouse.io/gitlab/jobs/8556658002
+
+34. Commvault - Technical Specialist - Tier 1 (Client)
+   Location: Bangalore, India
+   Score: 40/100
+   Apply: https://job-boards.greenhouse.io/commvault/jobs/5395299008
+
+35. Databricks - Forward Deployed Engineer
+   Location: Remote - India
+   Score: 40/100
+   Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=8432827002
+
+36. Databricks - Sr Forward Deployed Engineer
+   Location: Remote - India
+   Score: 40/100
+   Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=8362737002
+
+37. Workato - Forward Deployed Engineer
+   Location: Hyderabad, India
+   Score: 40/100
+   Apply: https://www.workato.com/careers?gh_jid=8526776002#open-roles
+
+38. Workato - Forward Deployed Engineer
+   Location: Hyderabad, India
+   Score: 40/100
+   Apply: https://www.workato.com/careers?gh_jid=8437639002#open-roles
+
+39. Workato - Forward Deployed Engineer
+   Location: Hyderabad, India
+   Score: 40/100
+   Apply: https://www.workato.com/careers?gh_jid=8437661002#open-roles
+
+40. Workato - Forward Deployed Engineer
+   Location: Hyderabad, India
+   Score: 40/100
+   Apply: https://www.workato.com/careers?gh_jid=8437665002#open-roles
+
+41. Workato - Forward Deployed Engineer
+   Location: Hyderabad, India
+   Score: 40/100
+   Apply: https://www.workato.com/careers?gh_jid=8440865002#open-roles
+
+42. Workato - Forward Deployed Engineer
+   Location: Hyderabad, India
+   Score: 40/100
+   Apply: https://www.workato.com/careers?gh_jid=8526757002#open-roles
+
+43. Sarvam AI - Embedded Infrastructure Engineer, Chanakya
+   Location: Delhi
+   Score: 40/100
+   Apply: https://jobs.ashbyhq.com/sarvam/b2201b5e-1e96-497a-962c-bca1768f75fd/application
+
+44. Zeta - SIEM & SecOps Engineer II
+   Location: Hyderabad
+   Score: 40/100
+   Apply: https://jobs.lever.co/zeta/f140e9d7-8d0c-4e24-bace-8568385b6f5c/apply
+
+45. DevRev - Solution Engineer : Delhi
+   Location: India Remote
+   Score: 40/100
+   Apply: https://job-boards.greenhouse.io/devrev/jobs/5831999004
+
+46. Atomicwork - Platform Infrastructure Engineer
+   Location: Bengaluru, Karnataka
+   Score: 40/100
+   Apply: https://job-boards.greenhouse.io/atomicwork/jobs/4170707008
+
+47. SpotDraft - Software Development Engineer - II | Backend
+   Location: SpotDraft HQ, Bengaluru
+   Score: 40/100
+   Apply: https://jobs.ashbyhq.com/spotdraft/17a1ded7-6c15-4593-8a3c-dc04a8e91709/application
+
+48. SpotDraft - Software Development Engineer - II | Backend (AI POD)
+   Location: SpotDraft HQ, Bengaluru
+   Score: 40/100
+   Apply: https://jobs.ashbyhq.com/spotdraft/bb81ae63-d620-408d-80d3-3976619cc6a3/application
+
+49. Okta - Software Engineer
+   Location: Bengaluru, India
+   Score: 35/100
+   Apply: https://www.okta.com/company/careers/opportunity/7919336?gh_jid=7919336
+
+50. Turing - Software Engineer
+   Location: India - Remote
+   Score: 35/100
+   Apply: https://job-boards.greenhouse.io/turing/jobs/6115695004
+
+51. FamPay - SDE 3 - Platform Engineering
+   Location: Bengaluru
+   Score: 35/100
+   Apply: https://jobs.lever.co/fampay/8dfc0511-7187-4e96-939c-ed9a5c656511/apply
+
+52. GitLab - Intermediate Fullstack Engineer - Data Products
+   Location: Bangalore, India
+   Score: 30/100
+   Apply: https://job-boards.greenhouse.io/gitlab/jobs/8623751002
+
+53. Commvault - Data Protection Engineer
+   Location: Bangalore, India
+   Score: 30/100
+   Apply: https://job-boards.greenhouse.io/commvault/jobs/5288186008
+
+54. Commvault - Technical Specialist Associate (Media Management)
+   Location: Bangalore, India
+   Score: 30/100
+   Apply: https://job-boards.greenhouse.io/commvault/jobs/5395125008
+
+55. Cloudflare - Customer Engineer, India (Based in Mumbai)
+   Location: Remote India
+   Score: 30/100
+   Apply: https://boards.greenhouse.io/cloudflare/jobs/7955378?gh_jid=7955378
+
+56. Databricks - Sr SAP Developer
+   Location: Bengaluru, India
+   Score: 30/100
+   Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=8679980002
+
+57. Sarvam AI - Strategic Deployment Engineer, Chanakya
+   Location: Delhi
+   Score: 30/100
+   Apply: https://jobs.ashbyhq.com/sarvam/87d5a5af-ea7d-4b94-a0fa-81dc64e54907/application
+
+58. Nanonets - Forward Deployed Engineer
+   Location: Bengaluru
+   Score: 30/100
+   Apply: https://jobs.ashbyhq.com/nanonets/c3715ba7-2924-4432-b78e-3acc56b8e823/application
+
+59. Saviynt - AI Detection Engineer - SOC Analyst IV
+   Location: Bengaluru
+   Score: 30/100
+   Apply: https://jobs.lever.co/saviynt/5e6c1380-3bd7-49bb-bb6b-7514b89925ba/apply
+
+60. DevRev - Quality Engineer – Automation & AI
+   Location: Bangalore, India
+   Score: 30/100
+   Apply: https://job-boards.greenhouse.io/devrev/jobs/6114345004
+
+61. HackerRank - Customer Experience Engineer, L2
+   Location: Hybrid in Bangalore, India
+   Score: 30/100
+   Apply: https://job-boards.greenhouse.io/hackerrank/jobs/6993983
+
+62. Atomicwork - AI  Engineer - Enterprise Search
+   Location: Bengaluru, India
+   Score: 30/100
+   Apply: https://job-boards.greenhouse.io/atomicwork/jobs/4495248008
+
+Generated at: 2026-08-22T10:23:28.397897
