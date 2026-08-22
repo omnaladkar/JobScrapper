@@ -41,5 +41,14 @@
   {"name": "Workato", "ats": "greenhouse", "board": "workato"},
   {"name": "Coursera", "ats": "greenhouse", "board": "coursera"},
   {"name": "Microsoft", "ats": "careerpage", "career_url": "https://careers.microsoft.com/us/en/search-results?keywords=java+spring+boot&location=India", "job_link_pattern": "apply\\.careers\\.microsoft\\.com/careers/job/"},
-  {"name": "Amazon", "ats": "amazon", "query": "java spring boot", "location": "India"}
+  {"name": "Amazon", "ats": "amazon", "query": "java spring boot", "location": "India"},
+  {"name": "Sarvam AI", "ats": "ashby", "board": "sarvam"},
+  {"name": "SigNoz", "ats": "ashby", "board": "SigNoz"},
+  {"name": "Bolna", "ats": "ashby", "board": "bolna"},
+  {"name": "Composio", "ats": "ashby", "board": "composio"},
+  {"name": "Nanonets", "ats": "ashby", "board": "nanonets"},
+  {"name": "Metaforms AI", "ats": "ashby", "board": "metaforms"},
+  {"name": "Parspec", "ats": "ashby", "board": "parspec"},
+  {"name": "Fi Money", "ats": "lever", "board": "epifi"},
+  {"name": "Gushwork", "ats": "lever", "board": "gushwork"}
 ]
