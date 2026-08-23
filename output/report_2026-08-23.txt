@@ -1,0 +1,12 @@
+# Daily Job Report - 2026-08-23
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 1
+
+1. Databricks - Full Stack Developer (AI Agents)
+   Location: Bengaluru, India
+   Score: 60/100
+   Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002
+
+Generated at: 2026-08-23T03:32:09.562319
