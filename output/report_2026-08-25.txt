@@ -1,0 +1,37 @@
+# Daily Job Report - 2026-08-25
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 6
+
+1. Okta - Software Engineer, Professional Services R&D
+   Location: Bengaluru, India
+   Score: 65/100
+   Apply: https://www.okta.com/company/careers/opportunity/8056119?gh_jid=8056119
+
+2. GitLab - Intermediate Backend Engineer - Database Change Management
+   Location: Bangalore, India
+   Score: 55/100
+   Apply: https://job-boards.greenhouse.io/gitlab/jobs/8722304002
+
+3. Okta - QA Automation Engineer, Professional Services R&D
+   Location: Bengaluru, India
+   Score: 50/100
+   Apply: https://www.okta.com/company/careers/opportunity/8056207?gh_jid=8056207
+
+4. PhonePe - Software Engineer(3-5 years) Backend
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://job-boards.greenhouse.io/phonepe/jobs/7821471003
+
+5. GitLab - Intermediate Software Engineer
+   Location: Bangalore, India
+   Score: 45/100
+   Apply: https://job-boards.greenhouse.io/gitlab/jobs/8721229002
+
+6. Commvault - Technical Specialist - Tier 1 (Server)
+   Location: Bangalore, India
+   Score: 30/100
+   Apply: https://job-boards.greenhouse.io/commvault/jobs/5395302008
+
+Generated at: 2026-08-25T03:28:57.109454
