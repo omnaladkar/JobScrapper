@@ -1,0 +1,17 @@
+# Daily Job Report - 2026-08-26
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 2
+
+1. Workato - Automation Engineer
+   Location: Hyderabad, India
+   Score: 50/100
+   Apply: https://www.workato.com/careers?gh_jid=8616337002#open-roles
+
+2. Interview Kickstart - Software Development Engineer in Test 2
+   Location: India, Remote - India
+   Score: 30/100
+   Apply: https://jobs.ashbyhq.com/interview-kickstart/42d5a3d3-662a-4eca-b354-54c6b57c3cfe/application
+
+Generated at: 2026-08-26T03:35:34.476236
