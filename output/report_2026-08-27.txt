@@ -1,0 +1,12 @@
+# Daily Job Report - 2026-08-27
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 1
+
+1. Zeta - Cloud Network Engineer II
+   Location: Hyderabad
+   Score: 40/100
+   Apply: https://jobs.lever.co/zeta/dad16204-8051-4517-9e50-966f329045b5/apply
+
+Generated at: 2026-08-27T13:01:26.472374
