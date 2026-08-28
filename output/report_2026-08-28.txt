@@ -1,0 +1,27 @@
+# Daily Job Report - 2026-08-28
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 4
+
+1. GoDaddy - Software Development Engineer
+   Location: Gurugram, Haryana, India
+   Score: 100/100
+   Apply: https://careers.godaddy/jobs?gh_jid=7882537003
+
+2. Databricks - Sr Software Engineer - Backend
+   Location: Bengaluru, India
+   Score: 75/100
+   Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=7955601002
+
+3. HackerRank - Customer Experience Engineer, L1
+   Location: Hybrid in Bangalore, India
+   Score: 50/100
+   Apply: https://job-boards.greenhouse.io/hackerrank/jobs/8127535
+
+4. Elastic - AI QA & Evaluation Engineer
+   Location: Bangalore, India
+   Score: 40/100
+   Apply: https://jobs.elastic.co/jobs?gh_jid=8154997&gh_jid=8154997
+
+Generated at: 2026-08-28T14:33:07.500186
