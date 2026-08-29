@@ -1,0 +1,12 @@
+# Daily Job Report - 2026-08-29
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 1
+
+1. Coinbase - Software Engineer, Security Platform
+   Location: Remote - India
+   Score: 45/100
+   Apply: https://www.coinbase.com/careers/positions/8165441?gh_jid=8165441
+
+Generated at: 2026-08-29T09:18:27.162464
