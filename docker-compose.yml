@@ -1,0 +1,16 @@
+services:
+  app:
+    build: .
+    ports:
+      - "8777:8000"
+    volumes:
+      # Persist the SQLite DB + uploads between container restarts
+      - appdata:/app/data
+    environment:
+      - DATABASE_URL=sqlite:////app/data/app.db
+      # Optional: enable Gemini message generation
+      # - AI_PROVIDER=gemini
+      # - GEMINI_API_KEY=your_key
+
+volumes:
+  appdata:

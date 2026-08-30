@@ -14,6 +14,8 @@ and tracks your applications. You take the final LinkedIn/application action man
 
 ## Run locally
 
+### Dev mode (two servers, hot-reload)
+
 ```powershell
 # 1. Backend (terminal 1)
 python -m uvicorn app.main:app --reload --host 127.0.0.1 --port 8777
@@ -28,6 +30,26 @@ Then open **http://localhost:5173** in your browser. The Vite dev server proxies
 backend on port 8777.
 
 You can also run `run_local.cmd` (Windows) or `run_local.sh` (macOS/Linux).
+
+### Production mode (one server, one port)
+
+Build the SPA once, then FastAPI serves both the API and the static site:
+
+```powershell
+cd frontend && npm run build
+cd ..
+python -m uvicorn app.main:app --host 0.0.0.0 --port 8777
+```
+
+Open **http://localhost:8777**. Deep links (e.g. `/jobs/1`) are handled by the SPA router.
+`run_prod.cmd` does the build + run for you.
+
+### Docker (optional, for later deployment)
+
+```bash
+docker compose up --build
+# serves the app at http://localhost:8777, SQLite persists in a named volume
+```
 
 ### Prerequisites
 
@@ -75,12 +97,13 @@ python _api_test.py   # end-to-end path through the FastAPI TestClient
 
 (Run from the project root with a fresh `data/app.db` if you want a clean run.)
 
-## Notes & limitations (Phase 1)
+## Notes & limitations
 
-- Contact finding is **rule-based / best-effort** and reports `NOT FOUND` with confidence `0.0`
-  rather than fabricating details. Verified real contacts must be added manually for now.
-  LLM-based people discovery is a later phase.
-- Resume parsing is rule-based (regex over extracted PDF text). It's good enough for skills/name;
-  section boundaries can over-capture on unusual formats.
-- Storage is SQLite (single-user, local tool) rather than PostgreSQL/Redis from the original spec.
+- **Seeding**: on startup, if the DB is empty, the app auto-loads the accumulated job output from
+  `output/jobs_*.json` (added by the daily GitHub Actions scraper). You can also click **Seed Jobs**
+  on the dashboard or `POST /api/jobs/seed` any time.
+- **Contact discovery (Phase 4)**: the "Seed contacts" button on a job's page mines that job's public
+  posting for a real recruiter/email. Safety first — it **never touches LinkedIn or any account**, and
+  never fabricates a person. When no contact is verifiable it returns `NOT FOUND` (confidence 0.0).
 - The matching engine is deterministic (weighted score + recommendation), not LLM-based.
+- Storage is SQLite (single-user, local tool).
