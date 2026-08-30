@@ -1,128 +1,86 @@
-# Job Scraper
+# Job Search Command Center
 
-Daily job scraper that finds Java/Spring Boot backend roles in India (1-3 years experience) and emails them via SendGrid.
+Personal AI-assisted job-hunting assistant. It finds jobs (reusing the existing scrapers),
+matches them against your profile/resume, helps you find people to contact, drafts messages,
+and tracks your applications. You take the final LinkedIn/application action manually.
 
-## How It Works
+## Stack
 
-- Scrapes 28+ product/startup companies using Greenhouse ATS API + career pages (Playwright) + Amazon API
-- Filters by: India cities, keywords (Java, Spring Boot, AWS, etc.), experience level, excludes senior/support/UI roles
-- Scores jobs based on your tech stack match (0-100)
-- Only emails jobs with score >= 40
-- Includes apply URLs in the email
-- Checks last 3 days for any missed jobs
-- Runs daily at 2:30 AM via Railway cron
+- **Backend**: Python + FastAPI + SQLAlchemy (SQLite by default) — `app/`
+- **Frontend**: React + Vite + Tailwind — `frontend/`
+- **AI**: Google Gemini (free tier) via an `AIService` abstraction with a `NoopAIService` fallback
+  when no `GEMINI_API_KEY` is set. ✅ No fabrication — unverified people are reported as `NOT FOUND`
+  with confidence `0.0`.
 
-## Prerequisites
+## Run locally
 
-- Python 3.10+
-- [Railway](https://railway.com) account (free tier works)
-- [SendGrid](https://sendgrid.com) account (free: 100 emails/day)
+```powershell
+# 1. Backend (terminal 1)
+python -m uvicorn app.main:app --reload --host 127.0.0.1 --port 8777
 
-## Quick Start
-
-```bash
-# Clone
-git clone <repo> job-scraper
-cd job-scraper
-
-# Install
-pip install -r requirements.txt
-playwright install chromium  # only needed if scraping career pages
+# 2. Frontend (terminal 2)
+cd frontend
+npm install
+npm run dev
 ```
 
-## Configuration
+Then open **http://localhost:5173** in your browser. The Vite dev server proxies `/api` to the
+backend on port 8777.
 
-### Companies (`companies.json`)
-List of companies to scrape. Each needs:
-- `name`: Display name
-- `ats`: Scraper type (`greenhouse`, `careerpage`, `amazon`)
-- `board`: Greenhouse board slug (e.g. `stripe` → `boards.greenhouse.io/stripe`)
-- `career_url`: Full career page URL (for `careerpage` ATS)
-- `query`/`location`: Search params (for `amazon` ATS)
+You can also run `run_local.cmd` (Windows) or `run_local.sh` (macOS/Linux).
 
-```json
-{"name": "Stripe", "ats": "greenhouse", "board": "stripe"},
-{"name": "Microsoft", "ats": "careerpage", "career_url": "https://careers.microsoft.com/...", "job_link_pattern": "apply\\.careers\\.microsoft\\.com/careers/job/"},
-{"name": "Amazon", "ats": "amazon", "query": "java spring boot", "location": "India"}
+### Prerequisites
+
+```powershell
+pip install -r api-requirements.txt
 ```
 
-### Filtering (`config.py`)
-- `CITIES`: Target cities (Bangalore, Hyderabad, Pune, Mumbai, Noida, Chennai, Gurgaon, Delhi)
-- `INCLUDE_KEYWORDS`: Title/text keywords to match (java, spring boot, sde ii, associate, etc.)
-- `EXCLUDE_KEYWORDS`: Title keywords to reject (senior, support, ui, salesforce, etc.)
+### Optional: enable Gemini
 
-### Scoring (`filters.py`)
-`calculate_match_score(title, location, description)`:
-- Core stack (Java, Spring Boot, Backend): up to 30
-- Framework keywords (AWS Lambda, SQS, Redis, Docker, etc.): 10 each
-- Title bonus (Software Engineer, SDE, Java Developer): 5 each
-- SDE II / Software Engineer II bonus: +10
-- India location: +10, City match: +10
-
-### Minimum Score (`run_daily.py`)
-Edit `MIN_SCORE = 40` to change the threshold.
-
-## Environment Variables
-
-Set these on Railway (or local `.env`):
+Set these environment variables (or put them in `app/config.py`):
 
 ```
-SENDGRID_API_KEY=SG.xxxxx
-EMAIL_TO=you@gmail.com
+AI_PROVIDER=gemini
+GEMINI_API_KEY=your_key
+GEMINI_MODEL=gemini-2.0-flash   # or whichever free model you want
 ```
 
-The script auto-detects SendGrid API keys (starts with `SG.`) and uses the REST API (port 443). Falls back to SMTP if key doesn't start with `SG.`.
+Without a key, message generation uses the local template fallback (still works).
 
-## Local Testing
+## API overview
 
-```bash
-python run_daily.py
+| Method | Path | Purpose |
+|---|---|---|
+| GET | `/api/health` | Health check |
+| GET/PATCH | `/api/profile` | Read / update profile & preferences |
+| POST | `/api/profile/resume` | Upload PDF resume (extracts skills, etc.) |
+| GET | `/api/profile/resume` | List uploaded resumes |
+| GET | `/api/jobs` | List jobs (filters: `q`, `min_score`, `limit`) |
+| POST | `/api/jobs` | Add a job manually |
+| POST | `/api/jobs/scrape` | Run scrapers & refresh jobs |
+| GET | `/api/jobs/{id}` | Job detail + match breakdown |
+| POST | `/api/jobs/{id}/contacts` | Seed / check contacts for a job |
+| GET | `/api/contacts/job/{job_id}` | Contacts for a job |
+| POST | `/api/contacts/job/{job_id}` | Add a verified contact |
+| POST/GET | `/api/contacts/{id}/message` | Generate / retrieve a message |
+| GET/POST | `/api/applications` | List / create applications |
+| PATCH | `/api/applications/{id}` | Update application status/notes |
+| GET | `/api/dashboard` | Stats + top matches |
+
+## Tests
+
+```powershell
+python _api_test.py   # end-to-end path through the FastAPI TestClient
 ```
 
-## Deploy to Railway
+(Run from the project root with a fresh `data/app.db` if you want a clean run.)
 
-```bash
-# Install Railway CLI
-npm i -g @railway/cli
+## Notes & limitations (Phase 1)
 
-# Login and link
-railway login
-railway link
-
-# Deploy
-railway up --service=just-balance
-```
-
-### Set Cron Schedule
-In Railway Dashboard → Settings → Cron Schedule → paste:
-
-```
-30 2 * * *
-```
-
-This runs the scraper daily at 2:30 AM.
-
-## Add a New Company
-
-1. **Greenhouse**: Find the board slug from `boards.greenhouse.io/<slug>` → add to `companies.json` with `"ats": "greenhouse"`
-2. **Career page**: Add URL with `"ats": "careerpage"`. The scraper tries JSON-LD first, then common selectors, then link pattern matching. Add a `job_link_pattern` regex for reliable extraction.
-3. **Amazon**: Uses the Amazon Jobs JSON API directly. Add with `"ats": "amazon"`.
-
-## Project Structure
-
-```
-├── run_daily.py          # Main pipeline: scrape → filter → email
-├── config.py             # Cities, keywords, exclude lists
-├── filters.py            # Location/exclude/keyword/experience matching + scoring
-├── storage.py            # Seen URLs, dedup, JSON save, report generation
-├── companies.json        # Company list with ATS type and config
-├── scrapers/
-│   ├── __init__.py       # SCRAPERS registry
-│   ├── base.py           # Base scraper with build_job()
-│   ├── greenhouse.py     # Greenhouse ATS scraper (requests)
-│   ├── careerpage.py     # Generic career page scraper (Playwright)
-│   └── amazon.py         # Amazon Jobs API scraper (requests)
-├── requirements.txt      # requests, playwright
-├── start.sh              # Railway entrypoint (installs Playwright, runs scraper)
-└── railway.toml          # Railway service config
-```
+- Contact finding is **rule-based / best-effort** and reports `NOT FOUND` with confidence `0.0`
+  rather than fabricating details. Verified real contacts must be added manually for now.
+  LLM-based people discovery is a later phase.
+- Resume parsing is rule-based (regex over extracted PDF text). It's good enough for skills/name;
+  section boundaries can over-capture on unusual formats.
+- Storage is SQLite (single-user, local tool) rather than PostgreSQL/Redis from the original spec.
+- The matching engine is deterministic (weighted score + recommendation), not LLM-based.
