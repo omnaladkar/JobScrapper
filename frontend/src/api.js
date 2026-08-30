@@ -28,6 +28,7 @@ export const api = {
   job: (id) => request(`/jobs/${id}`),
   createJob: (data) => request('/jobs', { method: 'POST', body: data }),
   scrape: () => request('/jobs/scrape', { method: 'POST' }),
+  seed: () => request('/jobs/seed', { method: 'POST' }),
   jobContacts: (jobId) => request(`/jobs/${jobId}/contacts`, { method: 'POST' }),
   contactsForJob: (jobId) => request(`/contacts/job/${jobId}`),
   addContact: (jobId, data) => request(`/contacts/job/${jobId}`, { method: 'POST', body: data }),

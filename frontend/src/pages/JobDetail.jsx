@@ -148,7 +148,11 @@ export default function JobDetail() {
                   <div className="font-semibold mt-2">{c.name}</div>
                   <div className="text-sm text-slate-600">{c.role}</div>
                   {c.reason && <div className="text-xs text-slate-400 mt-1">{c.reason}</div>}
-                  {c.profile_url && <a href={c.profile_url} target="_blank" rel="noreferrer" className="text-brand-600 text-xs underline mt-1 inline-block">Open LinkedIn Profile</a>}
+                  {c.profile_url && /\S+@\S+\.\S+/.test(c.profile_url) ? (
+                    <a href={`mailto:${c.profile_url}`} className="text-brand-600 text-xs underline mt-1 inline-block">Email {c.name || 'contact'}</a>
+                  ) : c.profile_url ? (
+                    <a href={c.profile_url} target="_blank" rel="noreferrer" className="text-brand-600 text-xs underline mt-1 inline-block">Open LinkedIn Profile</a>
+                  ) : null}
                   <button
                     onClick={() => generateMsg(c.id, c.contact_type === 'recruiter' ? 'recruiter' : 'referral')}
                     className="mt-2 bg-slate-800 text-white px-3 py-1.5 rounded-md text-xs"

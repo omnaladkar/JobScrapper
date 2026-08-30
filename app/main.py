@@ -1,8 +1,13 @@
+import logging
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
-from app.database import init_db
+from app.database import init_db, SessionLocal
+from app import models
+from app.services import job_service
 from app.router import jobs, profile, contacts, applications, dashboard
+
+logger = logging.getLogger("uvicorn.error")
 
 app = FastAPI(title="Personal AI Job Search Command Center", version="0.1.0")
 
@@ -24,6 +29,16 @@ app.include_router(dashboard.router)
 @app.on_event("startup")
 def startup():
     init_db()
+    try:
+        db = SessionLocal()
+        try:
+            if db.query(models.Job).count() == 0:
+                added = job_service.seed_from_output_files(db)
+                logger.info("Seeded %s jobs from output/ on startup", added)
+        finally:
+            db.close()
+    except Exception as exc:
+        logger.warning("Startup seeding skipped: %s", exc)
 
 
 @app.get("/api/health")

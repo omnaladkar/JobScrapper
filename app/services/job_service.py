@@ -38,19 +38,27 @@ def scrape_raw(sleep_seconds: float = 1.0):
 
 def upsert_job(db: Session, raw: dict, profile: dict) -> models.Job:
     apply_url = raw.get("apply_url") or ""
+
+    def _str(val):
+        if isinstance(val, list):
+            if not val:
+                return ""
+            return ", ".join(str(v) for v in val)
+        return "" if val is None else str(val)
+
     job = db.query(models.Job).filter(models.Job.apply_url == apply_url).first()
     if not job:
         job = models.Job(
-            company=raw.get("company", ""),
-            role=raw.get("role", ""),
-            location=raw.get("location", ""),
-            experience=raw.get("experience", ""),
-            posted_date=raw.get("posted_date", ""),
-            description=raw.get("description", ""),
+            company=_str(raw.get("company", "")),
+            role=_str(raw.get("role", "")),
+            location=_str(raw.get("location", "")),
+            experience=_str(raw.get("experience", "")),
+            posted_date=_str(raw.get("posted_date", "")),
+            description=_str(raw.get("description", "")),
             apply_url=apply_url,
-            source=raw.get("source", ""),
-            salary=raw.get("salary", ""),
-            is_manual=raw.get("is_manual", False),
+            source=_str(raw.get("source", "")),
+            salary=_str(raw.get("salary", "")),
+            is_manual=bool(raw.get("is_manual", False)),
         )
         db.add(job)
         db.flush()
@@ -126,6 +134,44 @@ def add_manual_job(db: Session, data: dict) -> models.Job:
     db.commit()
     db.refresh(job)
     return job
+
+
+def seed_from_output_files(db: Session, output_dir: str = "output") -> int:
+    """Load previously-scraped jobs from output/jobs_*.json and upsert them.
+
+    Lets a fresh DB fill up with the accumulated daily scrape results without
+    re-running the (slow) scrapers. Returns number of new jobs added.
+    """
+    import json
+
+    profile = get_active_profile_dict(db)
+    raw_jobs = []
+    output_path = Path(output_dir)
+    if output_path.is_dir():
+        for f in sorted(output_path.glob("jobs_*.json")):
+            try:
+                with open(f, encoding="utf-8") as fh:
+                    data = json.load(fh)
+                if isinstance(data, list):
+                    raw_jobs.extend(data)
+                elif isinstance(data, dict):
+                    raw_jobs.extend(data.values())
+            except Exception:
+                pass
+
+    before = db.query(models.Job).count()
+    for raw in raw_jobs:
+        if not isinstance(raw, dict) or not raw.get("apply_url"):
+            continue
+        # normalize any legacy match_score field away; recompute fresh
+        raw = {k: v for k, v in raw.items() if k != "match_score"}
+        raw.setdefault("is_manual", False)
+        try:
+            upsert_job(db, raw, profile)
+        except Exception:
+            continue
+    db.commit()
+    return max(0, db.query(models.Job).count() - before)
 
 
 def search_jobs(db: Session, query: str = "", locations=None, limit: int = 50, min_score: float = 0.0):

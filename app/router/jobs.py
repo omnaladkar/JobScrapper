@@ -83,6 +83,14 @@ def trigger_scrape(db: Session = Depends(get_db)):
     return {"status": "ok", "new_jobs": new_count}
 
 
+@router.post("/seed", status_code=200)
+def seed_jobs(db: Session = Depends(get_db)):
+    """Load previously-scraped jobs from output/jobs_*.json into the DB."""
+    added = job_service.seed_from_output_files(db)
+    total = db.query(models.Job).count()
+    return {"status": "ok", "new_jobs": added, "total_jobs": total}
+
+
 @router.post("/{job_id}/contacts", response_model=list[schemas.ContactOut])
 def ensure_contacts(job_id: int, db: Session = Depends(get_db)):
     job = db.query(models.Job).filter(models.Job.id == job_id).first()

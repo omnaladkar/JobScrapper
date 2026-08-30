@@ -1,16 +1,17 @@
 """Contact finder.
 
-For high-match jobs, find probable recruiters/employees using ONLY the job's own data
-(company + role). We do NOT fabricate people. When we cannot verify an actual person,
-we return a 'NOT FOUND' placeholder with confidence 0.0.
-
-The real people lookup requires a people-data API (e.g. ProxyCurl). Until that is wired
-up (Phase 3), we return NOT FOUND by default and let the user attach real contacts later.
+For high-match jobs, find probable recruiters/employees. Safety first:
+  - We NEVER touch LinkedIn or any account (no logins, no automation) so the user's
+    account can't get banned.
+  - We only mine the PUBLIC job posting page we already fetch.
+  - We never fabricate people: when nothing can be verified we return a 'NOT FOUND'
+    placeholder with confidence 0.0.
 """
 
 from sqlalchemy.orm import Session
 
 from app import models
+from app.services import discovery
 
 
 def _best_guess_contacts(job: models.Job):
@@ -51,14 +52,43 @@ def _best_guess_contacts(job: models.Job):
     return candidates
 
 
-def find_contacts_for_job(db: Session, job: models.Job, force: bool = False):
-    """Returns the saved contact rows for a job. If none exist and force=True, seed NOT FOUND placeholders."""
+def find_contacts_for_job(db: Session, job: models.Job, force: bool = False, discover: bool = True):
+    """Returns the saved contact rows for a job.
+
+    Tries to mine the public posting for a real contact first (when discover=True).
+    If nothing verified is found, seeds NOT FOUND placeholders. Never fabricates.
+    """
     existing = db.query(models.Contact).filter(models.Contact.job_id == job.id).all()
     if existing:
         return existing
     if not force:
         return []
+
     rows = []
+    if discover and job.apply_url:
+        found = discovery.discover_from_post(job.apply_url, job.company or "", job.role or "")
+        for c in found:
+            row = models.Contact(
+                job_id=job.id,
+                name=c.get("name", "NOT FOUND"),
+                role=c.get("role", ""),
+                company=c.get("company", job.company or ""),
+                contact_type=c.get("contact_type", "employee"),
+                profile_url=c.get("profile_url", ""),
+                source=c.get("source", "posting"),
+                confidence=c.get("confidence", 0.0),
+                relevance=c.get("relevance", 0.0),
+                reason=c.get("reason", ""),
+                verified=c.get("verified", False),
+            )
+            db.add(row)
+            rows.append(row)
+        if rows:
+            db.commit()
+            for r in rows:
+                db.refresh(r)
+            return rows
+
     for c in _best_guess_contacts(job):
         row = models.Contact(
             job_id=job.id,

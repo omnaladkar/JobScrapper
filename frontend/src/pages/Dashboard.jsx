@@ -46,6 +46,18 @@ export default function Dashboard() {
         >
           ↻ Run Scraper
         </button>
+        <button
+          onClick={async () => {
+            try {
+              const r = await api.seed()
+              alert(`Seeded ${r.new_jobs} new jobs (${r.total_jobs} total).`)
+              load()
+            } catch (e) { alert(e.message) }
+          }}
+          className="bg-slate-600 text-white px-4 py-2 rounded-md text-sm hover:bg-slate-700"
+        >
+          Seed Jobs
+        </button>
       </div>
 
       <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-6">
