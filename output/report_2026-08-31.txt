@@ -1,0 +1,22 @@
+# Daily Job Report - 2026-08-31
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 3
+
+1. DevRev - Forward Deployed Engineer
+   Location: Bangalore, India
+   Score: 60/100
+   Apply: https://job-boards.greenhouse.io/devrev/jobs/6174459004
+
+2. Rubrik - Software Engineer - IAM
+   Location: Pune
+   Score: 35/100
+   Apply: https://www.rubrik.com/company/careers/departments/job.7956918?gh_jid=7956918
+
+3. Chargepoint - Junior Platform Engineer
+   Location: India
+   Score: 30/100
+   Apply: https://www.chargepoint.com/about/opportunities/job/?gh_jid=8754680002
+
+Generated at: 2026-08-31T08:50:58.062485
