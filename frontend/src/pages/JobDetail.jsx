@@ -30,6 +30,18 @@ export default function JobDetail() {
     setMessages((prev) => ({ ...prev, [`${contactId}:${role}`]: m.body }))
   }
 
+  const sendEmail = async (contactId, role) => {
+    const r = await api.sendMessage(contactId, { role })
+    if (r.sent) {
+      const note = r.dry_run
+        ? 'Dry-run mode: would send this email but nothing was sent yet (sender not enabled).'
+        : 'Email sent.'
+      alert(`${note}\nTo: ${r.to}\nSubject: ${r.subject}`)
+    } else {
+      alert(`Could not send. Sender not configured (EMAIL_SENDER=${r.configured}).\nAdd Gmail App Password or SendGrid creds first.`)
+    }
+  }
+
   const startApp = async () => {
     try {
       const a = await api.createApplication(id, { status: 'NEW' })
@@ -159,6 +171,14 @@ export default function JobDetail() {
                   >
                     Generate Message
                   </button>
+                  {/\S+@\S+\.\S+/.test(c.profile_url || '') && (
+                    <button
+                      onClick={() => sendEmail(c.id, c.contact_type === 'recruiter' ? 'recruiter' : 'referral')}
+                      className="mt-2 ml-2 bg-emerald-700 text-white px-3 py-1.5 rounded-md text-xs"
+                    >
+                      Send Email
+                    </button>
+                  )}
                   {messages[`${c.id}:${c.contact_type === 'recruiter' ? 'recruiter' : 'referral'}`] && (
                     <div className="mt-2">
                       <pre className="bg-slate-50 border border-slate-200 rounded p-2 text-xs whitespace-pre-wrap">{messages[`${c.id}:${c.contact_type === 'recruiter' ? 'recruiter' : 'referral'}`]}</pre>

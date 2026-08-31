@@ -34,6 +34,8 @@ export const api = {
   addContact: (jobId, data) => request(`/contacts/job/${jobId}`, { method: 'POST', body: data }),
   message: (contactId, role) => request(`/contacts/${contactId}/message`, { method: 'POST', body: { role } }),
   messagesForContact: (contactId) => request(`/contacts/${contactId}/message`),
+  sendMessage: (contactId, { role, to = '', subject = '' }) =>
+    request(`/contacts/${contactId}/send`, { method: 'POST', body: { role, to, subject } }),
   applications: () => request('/applications'),
   createApplication: (jobId, data) => request(`/applications?job_id=${jobId}`, { method: 'POST', body: data }),
   updateApplication: (appId, data) => request(`/applications/${appId}`, { method: 'PATCH', body: data }),

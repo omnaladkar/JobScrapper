@@ -85,6 +85,7 @@ Without a key, message generation uses the local template fallback (still works)
 | GET | `/api/contacts/job/{job_id}` | Contacts for a job |
 | POST | `/api/contacts/job/{job_id}` | Add a verified contact |
 | POST/GET | `/api/contacts/{id}/message` | Generate / retrieve a message |
+| POST | `/api/contacts/{id}/send` | Send a generated message by email (dry-run by default) |
 | GET/POST | `/api/applications` | List / create applications |
 | PATCH | `/api/applications/{id}` | Update application status/notes |
 | GET | `/api/dashboard` | Stats + top matches |
@@ -96,6 +97,30 @@ python _api_test.py   # end-to-end path through the FastAPI TestClient
 ```
 
 (Run from the project root with a fresh `data/app.db` if you want a clean run.)
+
+## Email automation (sending messages)
+
+The app can email a generated message to a discovered contact (e.g. a company's team-recruiting
+inbox). This uses email — not LinkedIn — so there is **no account-ban risk**.
+
+- **Safe by default**: `EMAIL_DRY_RUN=true` means nothing is ever sent until you opt in.
+- The "Seed contacts" button mines the job's public posting for an email. When an email exists,
+  a **Send Email** button appears next to that contact. `POST /api/contacts/{id}/send` does the work.
+
+Configure the sender by copying `.env.example` to `.env` (or setting environment variables) and
+choosing one real sender:
+
+| Option | Steps |
+|---|---|
+| **Gmail App Password** (free, recommended) | Enable 2-Step Verification → create an App Password at myaccount.google.com/apppasswords → set `EMAIL_SENDER=smtp`, `SMTP_USER`, `SMTP_PASSWORD` (the app password), `EMAIL_FROM` |
+| **SendGrid** (already used by the daily scraper) | Set `EMAIL_SENDER=sendgrid`, `SENDGRID_API_KEY`, and a verified `SENDGRID_FROM` |
+
+Set `EMAIL_DRY_RUN=false` only once you've confirmed a real send works (check your sent folder).
+
+### Note on Apify / email-finder enrichment
+Apify actors (e.g. LinkedIn Recruiter Email enrichment, Hunter.io) can be plugged in later to
+**find more recruiter emails** (data enrichment only — they don't send, and don't touch your
+LinkedIn account). That would expand the pool of discoverable contacts feeding the send button.
 
 ## Notes & limitations
 
