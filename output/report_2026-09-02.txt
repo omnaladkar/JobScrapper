@@ -1,0 +1,17 @@
+# Daily Job Report - 2026-09-02
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 2
+
+1. HackerRank - Software Development Engineer in Test II
+   Location: Hybrid in Bangalore, India
+   Score: 90/100
+   Apply: https://job-boards.greenhouse.io/hackerrank/jobs/8155938
+
+2. Microsoft - Software Engineer II
+   Location: Karnataka, Bangalore, India
+   Score: 35/100
+   Apply: https://apply.careers.microsoft.com/careers/job/1970393556875419
+
+Generated at: 2026-09-02T07:17:46.249447
