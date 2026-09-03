@@ -1,0 +1,32 @@
+# Daily Job Report - 2026-09-03
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 5
+
+1. GitLab - Intermediate Backend Engineer
+   Location: Bangalore, India
+   Score: 75/100
+   Apply: https://job-boards.greenhouse.io/gitlab/jobs/8736877002
+
+2. DevRev - Forward Deployed Engineer
+   Location: Chennai, India
+   Score: 70/100
+   Apply: https://job-boards.greenhouse.io/devrev/jobs/6180278004
+
+3. GitLab - Intermediate Backend Engineer, India
+   Location: Remote, India
+   Score: 65/100
+   Apply: https://job-boards.greenhouse.io/gitlab/jobs/8775507002
+
+4. DevRev - Forward Deployed Engineer
+   Location: India Remote
+   Score: 60/100
+   Apply: https://job-boards.greenhouse.io/devrev/jobs/6180279004
+
+5. Netradyne - Associate Database Engineer
+   Location: Bengaluru, Karnataka, India
+   Score: 40/100
+   Apply: https://www.netradyne.com/company/careers?gh_jid=4729961005
+
+Generated at: 2026-09-03T07:21:46.716450
