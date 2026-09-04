@@ -94,14 +94,20 @@ Each job in `lib/jobs.ts`:
 
 ## Deployment
 
-Deploy to **Vercel** — the repo is configured with `vercel.json` at the repo root that points at the `web/` subdirectory:
+Deploy to **Vercel**. The site lives in the `web/` subdirectory of the `omnaladkar/JobScrapper`
+repo, so deploy from inside `web/` (treats it as the project root):
 
 ```bash
-# from the repo root
-vercel deploy --prod
+vercel login                 # once
+vercel                       # preview
+vercel deploy --prod --yes   # production
 ```
 
-Or connect the GitHub repo in the Vercel dashboard and set **Root Directory** to `web`.
+Live at **https://jobsite-psi.vercel.app**.
+
+Alternatively, connect the GitHub repo in the Vercel dashboard and set the project's
+**Root Directory** to `web` (Framework preset auto-detects Next.js). Note: `rootDirectory`
+is a project setting, **not** a `vercel.json` property.
 
 ## Notes / limitations
 
