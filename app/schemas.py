@@ -166,6 +166,7 @@ class NotificationOut(ORMModel):
 class StatsOut(BaseModel):
     jobs_found: int
     high_matches: int
+    ready_to_apply: int
     applications: int
     people_to_contact: int
     responses: int

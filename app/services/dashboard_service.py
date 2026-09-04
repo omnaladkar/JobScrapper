@@ -14,6 +14,9 @@ def build_dashboard(db: Session) -> dict:
         .count()
     )
     applications = db.query(models.Application).count()
+    applied_ids = {aid for (aid,) in db.query(models.Application.job_id).all()}
+    high_match_ids = {jid for (jid,) in db.query(models.JobMatch.job_id).filter(models.JobMatch.score >= 80).all()}
+    ready_to_apply = len(high_match_ids - applied_ids)
     people_to_contact = (
         db.query(models.Contact)
         .filter(models.Contact.name != "NOT FOUND", models.Contact.verified.is_(True))
@@ -57,6 +60,7 @@ def build_dashboard(db: Session) -> dict:
         "stats": {
             "jobs_found": total_jobs,
             "high_matches": high_matches,
+            "ready_to_apply": ready_to_apply,
             "applications": applications,
             "people_to_contact": people_to_contact,
             "responses": responses,

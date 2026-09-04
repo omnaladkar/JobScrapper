@@ -39,6 +39,7 @@ export const api = {
   applications: () => request('/applications'),
   createApplication: (jobId, data) => request(`/applications?job_id=${jobId}`, { method: 'POST', body: data }),
   updateApplication: (appId, data) => request(`/applications/${appId}`, { method: 'PATCH', body: data }),
+  applyQueue: (params = '') => request(`/apply/queue${params}`),
   profile: () => request('/profile'),
   updateProfile: (data) => request('/profile', { method: 'PATCH', body: data }),
   uploadResume: (file) => {

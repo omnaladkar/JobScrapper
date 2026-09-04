@@ -8,7 +8,7 @@ from fastapi.staticfiles import StaticFiles
 from app.database import init_db, SessionLocal
 from app import models
 from app.services import job_service
-from app.router import jobs, profile, contacts, applications, dashboard
+from app.router import jobs, profile, contacts, applications, dashboard, apply
 
 logger = logging.getLogger("uvicorn.error")
 
@@ -27,6 +27,7 @@ app.include_router(profile.router)
 app.include_router(contacts.router)
 app.include_router(applications.router)
 app.include_router(dashboard.router)
+app.include_router(apply.router)
 
 
 @app.on_event("startup")
