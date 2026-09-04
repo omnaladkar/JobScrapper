@@ -122,6 +122,21 @@ Apify actors (e.g. LinkedIn Recruiter Email enrichment, Hunter.io) can be plugge
 **find more recruiter emails** (data enrichment only — they don't send, and don't touch your
 LinkedIn account). That would expand the pool of discoverable contacts feeding the send button.
 
+## Sources
+
+| Source | Type | Coverage | Notes |
+|---|---|---|---|
+| Greenhouse | per-company board | 46 companies | `companies.json` entries with `board` |
+| Ashby | per-company board | 15 companies | `board` |
+| Lever | per-company board | 10 companies | `board` |
+| CareerPage / Amazon | HTML / API | misc | special-cased |
+| **Instahyre** | cross-company public API | all Instahyre jobs (thousands) | single `instahyre` entry pages the newest ~350 jobs; no per-company identifier needed |
+
+Instahyre is registered in `scrapers/__init__.py` (`SCRAPERS["instahyre"]`) and wired in as one
+pseudo-company entry in `companies.json`. It pages through the newest jobs and tags each with its
+real employer via `employer.company_name`, populating `description` from the job's `keywords` so the
+skill matcher can score them.
+
 ## Notes & limitations
 
 - **Seeding**: on startup, if the DB is empty, the app auto-loads the accumulated job output from
