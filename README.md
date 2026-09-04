@@ -117,6 +117,27 @@ choosing one real sender:
 
 Set `EMAIL_DRY_RUN=false` only once you've confirmed a real send works (check your sent folder).
 
+## One-click apply (no email needed)
+
+The dashboard's **Apply Queue** lists your top-matched jobs (score ≥ 80, not yet applied) with a
+link to the real application page on the company's ATS — you open it and submit in 10 seconds.
+No SMTP is required for this flow.
+
+To auto-fill those forms with your details, install the **Tampermonkey** userscript
+[`scripts/job-apply-prefill.user.js`](scripts/job-apply-prefill.user.js):
+
+1. Install the **Tampermonkey** extension (or Violentmonkey) in Chrome.
+2. Open Tampermonkey → **Create a new script** → delete the boilerplate → paste the whole
+   `job-apply-prefill.user.js` file → **Save** (Ctrl+S). The extension must be **enabled** in Chrome.
+3. Open any apply URL (e.g. a Greenhouse job from your queue). A small **"⚙ Set up JobApply
+   prefill"** chip appears bottom-right — click it, enter your details once, **Save**.
+4. From then on, every supported ATS form (Greenhouse, Lever, Workday, Instahyre, Workable,
+   SmartRecruiters, Ashby…) is pre-filled automatically. Tweak anytime via the Tampermonkey menu
+   → **JobApply — Edit profile**. You still click **Submit** yourself — nothing is auto-sent, and
+   free-form fields (cover letter, "why are you a good fit") are left for you.
+
+To support another ATS, add its domain under `// @match` lines and reload the script.
+
 ### Note on Apify / email-finder enrichment
 Apify actors (e.g. LinkedIn Recruiter Email enrichment, Hunter.io) can be plugged in later to
 **find more recruiter emails** (data enrichment only — they don't send, and don't touch your
