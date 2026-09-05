@@ -148,6 +148,22 @@ function JobRow({ entry, open, status, prevScore, onToggle, onApply, onStatusCha
             ))}
           </div>
         )}
+
+        {entry.suggestions.length > 0 && (
+          <div className="mt-3 rounded-lg border border-brand-100 bg-brand-50 p-3">
+            <p className="mb-1.5 text-[11px] font-semibold uppercase tracking-wide text-brand-700">
+              Rewrite suggestion
+            </p>
+            <ul className="space-y-1.5">
+              {entry.suggestions.slice(0, 3).map((s) => (
+                <li key={s.skill} className="text-xs text-slate-700">
+                  <span className="font-bold text-brand-700">{s.skill}:</span> {s.bullet}{" "}
+                  <span className="text-slate-400">(based on your “{s.basedOn}”)</span>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
       </div>
 
       {reasons.length > 0 && (

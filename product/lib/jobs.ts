@@ -97,10 +97,12 @@ export interface ScoredJob {
   skills_score: number;
   matched_skills: string[];
   gap_skills: string[];
+  suggestions: BulletSuggestion[];
   reasons: string[];
 }
 
 import { computeFit } from "./scoreEngine";
+import { suggestBullet, type BulletSuggestion } from "./resumeTips";
 
 // Skills that a job description can "ask for" — a superset of the resume detector,
 // because JDs name many more technologies than a typical resume lists.
@@ -161,6 +163,10 @@ export function scoreJobForResume(job: Job, resumeText: string): ScoredJob {
   // gap = skills the job asks for that the resume lacks (fixable by resume edit)
   const gap = jobSkills.filter((s) => !resumeSkills.includes(s));
 
+  const suggestions = gap
+    .map((skill) => suggestBullet(skill, resumeSkills))
+    .filter((s): s is BulletSuggestion => s !== null);
+
   return {
     job,
     score: fit.score,
@@ -168,6 +174,7 @@ export function scoreJobForResume(job: Job, resumeText: string): ScoredJob {
     skills_score: fit.skills_score,
     matched_skills: matched,
     gap_skills: gap,
+    suggestions,
     reasons: fit.reasons,
   };
 }
