@@ -50,6 +50,14 @@ def health():
     return {"status": "ok", "app": "job-search-command-center"}
 
 
+@app.get("/prefill.user.js", include_in_schema=False)
+def prefill_script():
+    script = Path(__file__).resolve().parent.parent / "scripts" / "job-apply-prefill.user.js"
+    if script.is_file():
+        return FileResponse(script, media_type="text/javascript")
+    return {"detail": "userscript not found"}
+
+
 DIST_DIR = Path(__file__).resolve().parent.parent / "frontend" / "dist"
 _ASSETS = StaticFiles(directory=DIST_DIR / "assets") if (DIST_DIR / "assets").is_dir() else None
 

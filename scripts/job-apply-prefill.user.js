@@ -1,21 +1,10 @@
 // ==UserScript==
 // @name         JobApply Prefill
 // @namespace    job-search-command-center
-// @version      1.0.0
+// @version      1.1.0
 // @description  Stores your profile once and auto-fills application forms on major ATS sites (Greenhouse, Lever, Workday, Instahyre, Workable, SmartRecruiters, Ashby, etc.). You still click Submit yourself.
 // @author       omnaladkar
-// @match        *://boards.greenhouse.io/*
-// @match        *://job-boards.greenhouse.io/*
-// @match        *://*.greenhouse.io/*
-// @match        *://jobs.lever.co/*
-// @match        *://*.workday.com/*
-// @match        *://wd*.wd*.workday.com/*
-// @match        *://*.instahyre.com/*
-// @match        *://*.workable.com/*
-// @match        *://*.smartrecruiters.com/*
-// @match        *://*.ashbyhq.com/*
-// @match        *://careers.smartrecruiters.com/*
-// @match        *://jobs.smartrecruiters.com/*
+// @match        *://*/*
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_registerMenuCommand
@@ -297,8 +286,13 @@
     return [p["first_name"], p["last_name"]].filter(Boolean).join(" ");
   }
 
+  function countFields() {
+    return document.querySelectorAll("input, select, textarea").length;
+  }
+
   function runFill() {
     if (!getProfile()["email"]) return; // profile not configured yet
+    let filled = 0;
     const seen = new Set();
     document.querySelectorAll("input, select, textarea").forEach((el) => {
       if (el.type === "hidden" || el.type === "file") return;
@@ -308,27 +302,38 @@
         if (seen.has(field.key + "|" + hint)) continue;
         if (matchesAny(hint, field)) {
           seen.add(field.key + "|" + hint);
-          fillField(el, valueFor(field.key));
+          if (fillField(el, valueFor(field.key))) filled++;
           break;
         }
       }
     });
-
-    showToast(
-      document.querySelector("[data-jap-filled]") ? "JobApply Prefill: filled your fields." : "JobApply Prefill: nothing to fill here.",
-      3000
-    );
+    if (countFields() >= 3) {
+      showToast(
+        filled > 0
+          ? "JobApply Prefill: filled " + filled + " field(s)."
+          : "JobApply Prefill: form found, but no matching fields (e.g. this form already filled, or free-text only).",
+        4000
+      );
+    }
+    return filled;
   }
 
-  // Avoid firing repeatedly for SPA pages — watch for fields added later.
+  // Avoid firing repeatedly for SPA pages — watch for fields added later
+  // (Greenhouse/Workday render the form only after you click "Apply").
   function watchPage() {
+    let lastFilled = 0;
     const mo = new MutationObserver(() => {
-      if (getProfile()["email"] && !document.querySelector("[data-jap-filled]")) {
+      // throttle: at most once per second
+      const now = Date.now();
+      if (now - lastFilled < 1000) return;
+      lastFilled = now;
+      if (getProfile()["email"] && countFields() >= 3) {
         runFill();
       }
     });
     mo.observe(document.documentElement, { childList: true, subtree: true });
-    setTimeout(() => mo.disconnect(), 15000); // stop after the form has loaded
+    // give up after 10 minutes of watching; user can use the menu command
+    setTimeout(() => mo.disconnect(), 10 * 60 * 1000);
   }
 
   function showToast(msg, ms) {
@@ -349,6 +354,18 @@
   // ----------------------------------------------------------- menu/commands --
   GM_registerMenuCommand("JobApply — Edit profile", showEditor);
   GM_registerMenuCommand("JobApply — Prefill form now", runFill);
+  GM_registerMenuCommand("JobApply — Copy profile to clipboard", () => {
+    const p = getProfile();
+    const text = FIELDS.map(([key, label]) => label + ": " + (p[key] || "")).join("\n");
+    if (navigator.clipboard) {
+      navigator.clipboard.writeText(text).then(
+        () => showToast("Profile copied to clipboard.", 3000),
+        () => showToast("Couldn't copy (clipboard blocked). Here it is:\n" + text, 8000)
+      );
+    } else {
+      showToast(text, 8000);
+    }
+  });
 
   // ------------------------------------------------------------------ boot --
   if (!getProfile()["email"]) {
