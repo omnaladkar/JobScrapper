@@ -17,6 +17,9 @@ export default function Header() {
           <Link href="/score" className="hover:text-slate-900">
             Score a JD
           </Link>
+          <Link href="/applications" className="hover:text-slate-900">
+            My applications
+          </Link>
           <Link href="/jobs" className="rounded-lg bg-brand-600 px-4 py-2 text-white hover:bg-brand-700">
             Try free
           </Link>

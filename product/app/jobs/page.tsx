@@ -2,6 +2,50 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { loadJobs, scoreAllJobs, extractSkills, type Job, type ScoredJob } from "@/lib/jobs";
+import { applyToJob, setApplicationStatus, allApplications, type ApplicationStatus } from "@/lib/applications";
+
+const STATUSES: { key: ApplicationStatus; label: string }[] = [
+  { key: "APPLIED", label: "Applied" },
+  { key: "INTERVIEWING", label: "Interviewing" },
+  { key: "OFFER", label: "Offer" },
+  { key: "REJECTED", label: "Rejected" },
+];
+
+function statusBadgeCls(status: ApplicationStatus) {
+  switch (status) {
+    case "APPLIED":
+      return "bg-indigo-100 text-indigo-700";
+    case "INTERVIEWING":
+      return "bg-cyan-100 text-cyan-700";
+    case "OFFER":
+      return "bg-emerald-100 text-emerald-700";
+    case "REJECTED":
+      return "bg-rose-100 text-rose-700";
+  }
+}
+
+function StatusSwitch({ status, onChange }: {
+  status: ApplicationStatus | null;
+  onChange: (status: ApplicationStatus) => void;
+}) {
+  return (
+    <div className="flex flex-wrap items-center gap-1.5">
+      {STATUSES.map(({ key, label }) => (
+        <button
+          key={key}
+          onClick={() => onChange(key)}
+          className={
+            status === key
+              ? `rounded-full px-2.5 py-0.5 text-[11px] font-semibold ${statusBadgeCls(key)}`
+              : "rounded-full border border-slate-200 bg-white px-2.5 py-0.5 text-[11px] font-medium text-slate-500 hover:border-brand-300 hover:text-slate-700"
+          }
+        >
+          {label}
+        </button>
+      ))}
+    </div>
+  );
+}
 
 const SAMPLE_RESUME = `Om Naladkar — Backend Developer
 2 years of experience building backend systems.
@@ -27,10 +71,13 @@ function stripHtml(html: string): string {
   return (tmp.textContent || "").replace(/\s+/g, " ").trim();
 }
 
-function JobRow({ entry, open, onToggle }: {
+function JobRow({ entry, open, status, onToggle, onApply, onStatusChange }: {
   entry: ScoredJob;
   open: boolean;
+  status: ApplicationStatus | null;
   onToggle: () => void;
+  onApply: () => void;
+  onStatusChange: (status: ApplicationStatus) => void;
 }) {
   const badge = recBadge(entry.recommendation);
   const desc = stripHtml(entry.job.description);
@@ -103,6 +150,7 @@ function JobRow({ entry, open, onToggle }: {
           href={entry.job.apply_url}
           target="_blank"
           rel="noopener noreferrer"
+          onClick={canApply ? onApply : undefined}
           className={
             canApply
               ? "btn-primary px-4 py-1.5 text-sm"
@@ -115,6 +163,15 @@ function JobRow({ entry, open, onToggle }: {
           {open ? "Hide job description ▲" : "View job description ▼"}
         </button>
       </div>
+
+      {status && (
+        <div className="mt-3 flex flex-wrap items-center gap-3 border-t border-slate-100 pt-3">
+          <span className="text-[11px] font-semibold uppercase tracking-wide text-slate-400">
+            Tracked as
+          </span>
+          <StatusSwitch status={status} onChange={onStatusChange} />
+        </div>
+      )}
 
       {open && desc && (
         <div className="mt-3 rounded-lg border border-slate-100 bg-slate-50 p-4 text-xs leading-relaxed text-slate-600">
@@ -134,9 +191,11 @@ export default function JobsPage() {
   const [openId, setOpenId] = useState<number | null>(null);
   const [limit, setLimit] = useState(25);
   const [filter, setFilter] = useState<"all" | "APPLY" | "CONSIDER">("all");
+  const [apps, setApps] = useState<Record<number, ApplicationStatus>>({});
 
   useEffect(() => {
     setResume(localStorage.getItem("applypilot_resume") || "");
+    setApps(Object.fromEntries(allApplications().map((a) => [a.jobId, a.status])));
     loadJobs()
       .then((snap) => setJobs(snap.jobs))
       .catch((e) => setError("Could not load jobs: " + e.message))
@@ -153,6 +212,16 @@ export default function JobsPage() {
     setError("");
     localStorage.setItem("applypilot_resume", resume);
     setScored(scoreAllJobs(jobs, resume));
+  };
+
+  const handleApply = (jobId: number) => {
+    const app = applyToJob(jobId);
+    setApps((prev) => ({ ...prev, [jobId]: app.status }));
+  };
+
+  const handleStatusChange = (jobId: number, status: ApplicationStatus) => {
+    setApplicationStatus(jobId, status);
+    setApps((prev) => ({ ...prev, [jobId]: status }));
   };
 
   const shown = useMemo(() => {
@@ -233,7 +302,10 @@ export default function JobsPage() {
                 key={entry.job.id}
                 entry={entry}
                 open={openId === entry.job.id}
+                status={apps[entry.job.id] ?? null}
                 onToggle={() => setOpenId(openId === entry.job.id ? null : entry.job.id)}
+                onApply={() => handleApply(entry.job.id)}
+                onStatusChange={(status) => handleStatusChange(entry.job.id, status)}
               />
             ))}
           </div>
