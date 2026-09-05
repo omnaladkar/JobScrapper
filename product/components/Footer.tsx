@@ -8,6 +8,7 @@ export default function Footer() {
         <div className="flex gap-6">
           <Link href="/jobs" className="hover:text-slate-900">Browse jobs</Link>
           <Link href="/applications" className="hover:text-slate-900">My applications</Link>
+          <Link href="/alerts" className="hover:text-slate-900">Email alerts</Link>
           <Link href="/score" className="hover:text-slate-900">Score my resume</Link>
         </div>
       </div>
