@@ -27,18 +27,18 @@ export default function Home() {
           Apply to jobs you&apos;re <span className="text-brand-600">actually fit for</span>
         </h1>
         <p className="mx-auto mt-6 max-w-2xl text-lg text-slate-600">
-          Paste a job description and your resume. ApplyPilot scores your fit, surfaces missing
-          skills, and tells you exactly what to fix before you hit submit.
+          Browse real jobs, paste your resume, and ApplyPilot scores your fit against every one —
+          surfaces missing skills, and opens the apply page. No signup, no paywall.
         </p>
         <div className="mt-8 flex items-center justify-center gap-4">
-          <Link href="/score" className="btn-primary">
-            Score my resume — free
+          <Link href="/jobs" className="btn-primary">
+            Score real jobs — free
           </Link>
-          <Link href="/pricing" className="btn-secondary">
-            See pricing
+          <Link href="/score" className="btn-secondary">
+            Score any job description
           </Link>
         </div>
-        <p className="mt-4 text-sm text-slate-400">Free: 3 scores/month · no account needed</p>
+        <p className="mt-4 text-sm text-slate-400">Free forever · 400+ real jobs · no account needed</p>
       </section>
 
       {/* How it works */}

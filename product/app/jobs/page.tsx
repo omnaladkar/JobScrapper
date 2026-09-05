@@ -1,9 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
-import Link from "next/link";
 import { loadJobs, scoreAllJobs, extractSkills, type Job, type ScoredJob } from "@/lib/jobs";
-import { canScore, incrementScores, FREE_LIMIT } from "@/lib/usage";
 
 const SAMPLE_RESUME = `Om Naladkar — Backend Developer
 2 years of experience building backend systems.
@@ -135,7 +133,6 @@ export default function JobsPage() {
   const [scored, setScored] = useState<ScoredJob[] | null>(null);
   const [openId, setOpenId] = useState<number | null>(null);
   const [limit, setLimit] = useState(25);
-  const [hardBlock, setHardBlock] = useState(false);
   const [filter, setFilter] = useState<"all" | "APPLY" | "CONSIDER">("all");
 
   useEffect(() => {
@@ -153,13 +150,8 @@ export default function JobsPage() {
       setError("Paste your resume first so jobs can be scored against it.");
       return;
     }
-    if (!canScore()) {
-      setHardBlock(true);
-      return;
-    }
     setError("");
     localStorage.setItem("applypilot_resume", resume);
-    incrementScores();
     setScored(scoreAllJobs(jobs, resume));
   };
 
@@ -177,8 +169,7 @@ export default function JobsPage() {
         <h1 className="text-2xl font-bold text-slate-900">Browse real jobs & score yourself</h1>
         <p className="mt-1 text-sm text-slate-500">
           {jobs.length} live jobs scraped from the job boards. Paste your resume once — every job is
-          instantly scored, with the exact skills to add and a one-click apply link. Free uses left
-          this month: {Math.max(0, FREE_LIMIT)}.
+          instantly scored, with the exact skills to add and a one-click apply link. Free, forever.
         </p>
       </div>
 
@@ -211,14 +202,6 @@ export default function JobsPage() {
             </span>
           )}
           {error && <span className="text-sm text-rose-600">{error}</span>}
-          {hardBlock && (
-            <span className="text-sm text-rose-600">
-              You&apos;ve used all {FREE_LIMIT} free scores this month.{" "}
-              <Link href="/pricing" className="underline">
-                Upgrade to Pro
-              </Link>
-            </span>
-          )}
         </div>
       </div>
 

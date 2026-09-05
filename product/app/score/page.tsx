@@ -1,9 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import Link from "next/link";
-import { computeFit, type FitResult, type ScoreInput, type Recommendation } from "@/lib/scoreEngine";
-import { canScore, incrementScores, freeScoreRemaining, FREE_LIMIT } from "@/lib/usage";
+import { computeFit, type FitResult, type ScoreInput } from "@/lib/scoreEngine";
 
 const SAMPLE_JD = `Backend Engineer (Java) — Bangalore
 We are looking for a Backend Engineer with 2-4 years of experience building scalable services.
@@ -21,7 +19,7 @@ const SAMPLE_RESUME = `Om Naladkar — Backend Developer
 
 Skills: Java, Spring Boot, Microservices, REST APIs, Kafka, Redis, PostgreSQL, MySQL, AWS, Docker, SQL, JavaScript, TypeScript`;
 
-function recBadge(rec: Recommendation) {
+function recBadge(rec: string) {
   if (rec === "APPLY") return { cls: "bg-emerald-100 text-emerald-800", label: "GO AHEAD — apply" };
   if (rec === "CONSIDER") return { cls: "bg-amber-100 text-amber-700", label: "CONSIDER — tailor first" };
   return { cls: "bg-rose-100 text-rose-700", label: "LOW FIT — skip or pivot" };
@@ -44,7 +42,6 @@ function Bar({ label, value }: { label: string; value: number }) {
 export default function ScoreTool() {
   const [jd, setJd] = useState("");
   const [resume, setResume] = useState("");
-  const [apiKeyCombo, setApiKeyCombo] = useState<{ used: number; allowed: boolean } | null>(null);
   const [result, setResult] = useState<FitResult | null>(null);
   const [error, setError] = useState("");
 
@@ -53,10 +50,6 @@ export default function ScoreTool() {
     setError("");
     if (!jd.trim() || !resume.trim()) {
       setError("Paste both a job description and your resume.");
-      return;
-    }
-    if (!canScore()) {
-      setApiKeyCombo({ used: FREE_LIMIT, allowed: false });
       return;
     }
 
@@ -76,11 +69,7 @@ export default function ScoreTool() {
     const salMatch = jd.match(/(\d+(?:\.\d+)?)\s*lpa/i);
     if (salMatch) input.salary = salMatch[0] + " lpa";
 
-    const r = computeFit(input);
-    incrementScores();
-    const remaining = freeScoreRemaining();
-    setApiKeyCombo({ used: FREE_LIMIT - remaining, allowed: remaining > 0 });
-    setResult(r);
+    setResult(computeFit(input));
   };
 
   const fillExample = () => {
@@ -88,18 +77,13 @@ export default function ScoreTool() {
     setResume(SAMPLE_RESUME);
   };
 
-  const used = apiKeyCombo?.used ?? (canScore() ? 0 : FREE_LIMIT);
-  const allowed = apiKeyCombo?.allowed ?? canScore();
-
   return (
     <div className="mx-auto max-w-6xl px-4 py-10">
       <div className="mb-6">
         <h1 className="text-2xl font-bold text-slate-900">Score my resume</h1>
         <p className="mt-1 text-sm text-slate-500">
-          Paste a job description and your resume. Instant fit score, missing skills, and tips.{" "}
-          <span className={used >= FREE_LIMIT ? "text-rose-600" : "text-slate-500"}>
-            Free uses left this month: {Math.max(0, FREE_LIMIT - used)}
-          </span>
+          Paste a job description and your resume. Instant fit score, missing skills, and tips. Free,
+          forever.
         </p>
       </div>
 
@@ -146,10 +130,8 @@ export default function ScoreTool() {
                 </button>
               </div>
             </div>
-          ) : allowed ? (
-            <ResultCard result={result} />
           ) : (
-            <UpgradeCard />
+            <ResultCard result={result} />
           )}
         </div>
       </div>
@@ -218,20 +200,6 @@ function ResultCard({ result }: { result: FitResult }) {
           </div>
         )}
       </div>
-    </div>
-  );
-}
-
-function UpgradeCard() {
-  return (
-    <div className="rounded-xl border border-brand-200 bg-brand-50 p-8 text-center">
-      <h3 className="text-lg font-bold text-slate-900">You&apos;ve used all {FREE_LIMIT} free scores</h3>
-      <p className="mt-2 text-sm text-slate-600">
-        Upgrade to Pro for unlimited scores, tailored resume tips, and the apply copilot.
-      </p>
-      <Link href="/pricing" className="btn-primary mt-6">
-        Upgrade to Pro — $9.99/mo
-      </Link>
     </div>
   );
 }
