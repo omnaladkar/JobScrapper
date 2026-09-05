@@ -1,0 +1,207 @@
+# Daily Job Report - 2026-09-05
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 40
+
+1. Amazon - Software Engineer II - Backend
+   Location: Delhi,Gurgaon,Noida
+   Score: 85/100
+   Apply: https://www.instahyre.com/job-441991-software-engineer-ii-backend-at-amazon-delhi-gurgaon-noida/
+
+2. Flipkart - Product Software Engineer - Fullstack
+   Location: Bangalore
+   Score: 85/100
+   Apply: https://www.instahyre.com/job-436184-product-software-engineer-fullstack-at-flipkart-bangalore/
+
+3. Dynatrace - Backend Engineer
+   Location: Gurgaon
+   Score: 75/100
+   Apply: https://www.instahyre.com/job-435463-backend-engineer-at-dynatrace-gurgaon/
+
+4. Kiwi General Insurance - Backend Engineer
+   Location: Mumbai
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-421833-backend-engineer-at-kiwi-general-insurance-mumbai/
+
+5. Synapsewave Innovations - SDE 2 - Backend
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-439009-sde-2-backend-at-synapsewave-innovations-bangalore/
+
+6. Matter - SDE 3 / 4 - Backend
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-441994-sde-3-4-backend-at-matter-2-bangalore/
+
+7. Pendo - SDE
+   Location: Mumbai,Pune
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-419308-sde-at-pendo-mumbai-pune/
+
+8. Meesho - SDE - 3
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-366338-sde-3-at-meesho-bangalore/
+
+9. Cloudesign - Fullstack Developer (Java)
+   Location: Pune
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-427903-fullstack-developer-java-at-cloudesign-pune/
+
+10. Velox - Java Developer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-395235-java-developer-at-velox-bangalore/
+
+11. GoKiwi - SDE - 1
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-387858-sde-1-at-gokiwi-bangalore/
+
+12. Oolka - Backend Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-429898-backend-engineer-at-oolka-bangalore/
+
+13. Pendo - SDE - 3
+   Location: Mumbai,Pune
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-427295-sde-3-at-pendo-mumbai-pune/
+
+14. XCaliber Health - Fullstack Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-441276-fullstack-engineer-at-xcaliber-health-2-bangalore/
+
+15. Rakuten - Consultant - Java Backend
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-425366-consultant-java-backend-at-rakuten-2-bangalore/
+
+16. Shuru Technologies - AI Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-441359-ai-engineer-at-shuru-technologies-bangalore/
+
+17. Ethos - Full - Stack Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-415170-full-stack-engineer-at-ethos-bangalore/
+
+18. Wissen Technology - Fullstack Engineer - Node.js & TypeScript
+   Location: Hyderabad
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-438329-fullstack-engineer-node-js-typescript-at-wissen-technology-hyderabad/
+
+19. StockGro - Golang Developer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-421771-golang-developer-at-stockgro-bangalore/
+
+20. Impact Analytics - Node.js Developer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-428964-node-js-developer-at-impact-analytics-bangalore/
+
+21. thinkify.io - Java Developer
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-17001-java-developer-at-thinkify-2-bangalore/
+
+22. Avaz - SDE II - (Flutter & Web)
+   Location: Chennai
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-439260-sde-ii-flutter-web-at-avaz-chennai/
+
+23. Purplle - Software Engineer
+   Location: Pune
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-441266-software-engineer-at-purplle-pune/
+
+24. Snapdeal - Software Engineer 1
+   Location: Gurgaon
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-422412-software-engineer-1-at-snapdeal-2-gurgaon/
+
+25. Tekion - SDET II
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-441967-sdet-ii-at-tekion-bangalore/
+
+26. Indihood - Application Developer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-428444-application-developer-at-indihood-bangalore/
+
+27. Avaamo - Applied AI Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-422150-applied-ai-engineer-at-avaamo-bangalore/
+
+28. GoCharting - AI Engineer
+   Location: Chennai
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-441987-ai-engineer-at-gocharting-chennai/
+
+29. Purplle - Software Development Engineer - Fullstack
+   Location: Pune
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-441389-software-development-engineer-fullstack-at-purplle-pune/
+
+30. Infraspec - Platform Engineer 2
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-435785-platform-engineer-2-at-infraspec-bangalore/
+
+31. ScaleOrange Technologies - Full Stack Developer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-442006-full-stack-developer-at-scaleorange-technologies-bangalore/
+
+32. Purplle - Software Development Engineer
+   Location: Pune
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-441268-software-development-engineer-at-purplle-pune/
+
+33. Amazon - Principle Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-439390-principle-engineer-at-amazon-bangalore/
+
+34. yellow.ai (Formerly Yellow Messenger) - Forward Deployed Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-441618-forward-deployed-engineer-at-yellow-bangalore/
+
+35. Rocketlane - Full Stack Engineer
+   Location: Chennai
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-440753-full-stack-engineer-at-rocketlane-chennai/
+
+36. Ascendion - Fullstack Developer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-440474-fullstack-developer-at-ascendion-bangalore/
+
+37. CredFlow AI - Fullstack Engineer
+   Location: Gurgaon
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-439190-fullstack-engineer-at-credflow-ai-gurgaon/
+
+38. ConveGenius - Forward Deployed Engineer
+   Location: Noida
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-441849-forward-deployed-engineer-at-convegenius-noida/
+
+39. Klimb.io - Applied AI Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-439283-applied-ai-engineer-at-klimb-bangalore/
+
+40. Wissen Technology - Fullstack Developer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-440950-fullstack-developer-at-wissen-technology-bangalore/
+
+Generated at: 2026-09-05T07:06:00.614329
