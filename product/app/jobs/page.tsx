@@ -64,6 +64,20 @@ function ScorePill({ value }: { value: number }) {
   return <span className={`text-xl font-extrabold ${color}`}>{Math.round(value)}</span>;
 }
 
+function DeltaChip({ prev, current }: { prev: number; current: number }) {
+  if (prev == null || Math.round(prev) === Math.round(current)) return null;
+  const diff = Math.round(current) - Math.round(prev);
+  const up = diff > 0;
+  const cls = up ? "bg-emerald-100 text-emerald-700" : "bg-rose-100 text-rose-700";
+  const arrow = up ? "↑" : "↓";
+  return (
+    <span className={`rounded-full px-2 py-0.5 text-[11px] font-bold ${cls} animate-pulse`}>
+      {Math.round(prev)} → {Math.round(current)} {arrow}
+      {Math.abs(diff)}
+    </span>
+  );
+}
+
 function stripHtml(html: string): string {
   if (!html) return "";
   const tmp = document.createElement("div");
@@ -71,10 +85,11 @@ function stripHtml(html: string): string {
   return (tmp.textContent || "").replace(/\s+/g, " ").trim();
 }
 
-function JobRow({ entry, open, status, onToggle, onApply, onStatusChange }: {
+function JobRow({ entry, open, status, prevScore, onToggle, onApply, onStatusChange }: {
   entry: ScoredJob;
   open: boolean;
   status: ApplicationStatus | null;
+  prevScore: number | null;
   onToggle: () => void;
   onApply: () => void;
   onStatusChange: (status: ApplicationStatus) => void;
@@ -105,6 +120,7 @@ function JobRow({ entry, open, status, onToggle, onApply, onStatusChange }: {
             <ScorePill value={entry.score} />
             <span className="text-xs text-slate-400">/100</span>
           </div>
+          {prevScore != null && <DeltaChip prev={prevScore} current={entry.score} />}
           <span className={`rounded-full px-2 py-0.5 text-[11px] font-semibold ${badge.cls}`}>
             {badge.label}
           </span>
@@ -192,6 +208,7 @@ export default function JobsPage() {
   const [limit, setLimit] = useState(25);
   const [filter, setFilter] = useState<"all" | "APPLY" | "CONSIDER">("all");
   const [apps, setApps] = useState<Record<number, ApplicationStatus>>({});
+  const [prevScores, setPrevScores] = useState<Record<number, number> | null>(null);
 
   useEffect(() => {
     setResume(localStorage.getItem("applypilot_resume") || "");
@@ -210,8 +227,12 @@ export default function JobsPage() {
       return;
     }
     setError("");
+    const next = scoreAllJobs(jobs, resume);
     localStorage.setItem("applypilot_resume", resume);
-    setScored(scoreAllJobs(jobs, resume));
+    if (scored) {
+      setPrevScores(Object.fromEntries(scored.map((s) => [s.job.id, s.score])));
+    }
+    setScored(next);
   };
 
   const handleApply = (jobId: number) => {
@@ -278,6 +299,14 @@ export default function JobsPage() {
 
       {!loading && scored && shown && (
         <>
+          {prevScores && (
+            <div className="mt-8 rounded-lg border border-brand-100 bg-brand-50 px-4 py-2.5 text-sm text-slate-700">
+              <span className="font-semibold">Score trend:</span> you re-scored after editing your
+              resume — green <span className="font-semibold text-emerald-700">↑</span> / red{" "}
+              <span className="font-semibold text-rose-700">↓</span> chips on each job show the
+              before → after. Edit your resume and re-score to close gaps and watch scores climb.
+            </div>
+          )}
           <div className="mt-8 flex flex-wrap items-center justify-between gap-3">
             <div className="flex gap-2">
               {(["all", "APPLY", "CONSIDER"] as const).map((f) => (
@@ -303,6 +332,7 @@ export default function JobsPage() {
                 entry={entry}
                 open={openId === entry.job.id}
                 status={apps[entry.job.id] ?? null}
+                prevScore={prevScores ? prevScores[entry.job.id] ?? null : null}
                 onToggle={() => setOpenId(openId === entry.job.id ? null : entry.job.id)}
                 onApply={() => handleApply(entry.job.id)}
                 onStatusChange={(status) => handleStatusChange(entry.job.id, status)}
