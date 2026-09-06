@@ -1,0 +1,27 @@
+# Daily Job Report - 2026-09-06
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 4
+
+1. NuvertOS - SDE II - Fullstack
+   Location: Noida
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-441767-sde-ii-fullstack-at-nuvertos-noida/
+
+2. Big Assets Infra - Backend Engineer
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-414980-backend-engineer-at-big-assets-infra-bangalore/
+
+3. devXworks - Backend Developer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-409454-backend-developer-at-devxworks-bangalore/
+
+4. Indihood - Application Developer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-428502-application-developer-at-indihood-bangalore/
+
+Generated at: 2026-09-06T07:17:20.789480
