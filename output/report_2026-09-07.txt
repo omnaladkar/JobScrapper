@@ -1,0 +1,127 @@
+# Daily Job Report - 2026-09-07
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 24
+
+1. KnackLabs - Forward Deployed Engineer
+   Location: Hyderabad
+   Score: 100/100
+   Apply: https://www.instahyre.com/job-440254-forward-deployed-engineer-at-knacklabs-hyderabad/
+
+2. ShortLoop - Founding Engineer
+   Location: Bangalore
+   Score: 60/100
+   Apply: https://www.instahyre.com/job-440636-founding-engineer-at-shortloop-bangalore/
+
+3. Shoppingate - Backend Developer - Node.js
+   Location: Bangalore
+   Score: 60/100
+   Apply: https://www.instahyre.com/job-439643-backend-developer-node-js-at-shoppingate-bangalore/
+
+4. Snabbit - Backend Engineer
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-442106-backend-engineer-at-snabbit-bangalore/
+
+5. Amazon - Backend Engineer
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-438246-backend-engineer-at-amazon-bangalore/
+
+6. Northern Arc Capital - Software Engineer
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-442060-software-engineer-at-northern-arc-capital-bangalore/
+
+7. Arintra - SDE - III
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-392739-sde-iii-at-arintra-bangalore/
+
+8. Target in India - Development Engineer - Mid Ops Java + AI
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-430057-development-engineer-mid-ops-java-plus-ai-at-target-in-india-bangalore/
+
+9. Barq - Node.js Developer
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-424095-node-js-developer-at-barq-bangalore/
+
+10. Amazon - Backend Developer
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-371296-backend-developer-at-amazon-bangalore/
+
+11. thinkify.io - SDET - Backend
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-16894-sdet-backend-at-thinkify-2-bangalore/
+
+12. Meesho - SDE 2 - Backend
+   Location: Gurgaon
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-441984-sde-2-backend-at-meesho-gurgaon/
+
+13. ShortLoop - Backend Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-440643-backend-engineer-at-shortloop-bangalore/
+
+14. Forbes Advisor - SDE I - Full - Stack
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-441179-sde-i-full-stack-at-forbes-advisor-2-bangalore/
+
+15. Coram AI - Founding Engineer (Backend)
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-441773-founding-engineer-backend-at-coram-ai-bangalore/
+
+16. Amazon - Backend Developer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-370456-backend-developer-at-amazon-bangalore/
+
+17. Apptile - FDE II - (Full Stack)
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-441301-fde-ii-full-stack-at-apptile-bangalore/
+
+18. Upswing Financial Technologies - Backend Developer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-268257-backend-developer-at-upswing-financial-technologies-bangalore/
+
+19. D. E. Shaw - Backend Engineer - Treasury Tech
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-440160-backend-engineer-treasury-tech-at-d-e-bangalore/
+
+20. 314e Corporation - Software Engineer
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-423810-software-engineer-at-314e-corporation-bangalore/
+
+21. Amazon - Software Development Engineer in Test
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-439710-software-development-engineer-in-test-at-amazon-bangalore/
+
+22. Subscribili - Software Developer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-428197-software-developer-at-subscribili-bangalore/
+
+23. Tesco - Software Development Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-440820-software-development-engineer-at-tesco-bangalore/
+
+24. SymphonyAI - AI Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-436755-ai-engineer-at-symphonyai-bangalore/
+
+Generated at: 2026-09-07T07:31:15.225054
