@@ -157,9 +157,10 @@ export default function FreshnessPage() {
           )}
 
           <p className="mt-8 text-xs leading-relaxed text-slate-400">
-            The scraper stores a rolling baseline in <code>data/last_snapshot.json</code>; every
-            export writes the delta to <code>product/public/jobs_freshness.json</code>. Re-run{" "}
-            <code>python scripts/export_jobs.py</code> after each scrape to refresh this page.
+            A rolling baseline lives in <code>data/last_snapshot.json</code>; each daily scrape runs{" "}
+            <code>scripts/build_live_feed.py</code>, which prunes jobs older than 7 days and writes the
+            delta to <code>product/public/jobs_freshness.json</code>. You can also trigger it locally
+            with <code>python scripts/build_live_feed.py</code>.
           </p>
         </>
       )}
@@ -167,7 +168,7 @@ export default function FreshnessPage() {
       {!fresh && !error && (
         <p className="mt-6 text-sm text-slate-500">
           No freshness data yet — run <code className="rounded bg-slate-100 px-1.5 py-0.5">python
-          scripts/export_jobs.py</code> once to generate it.
+          scripts/build_live_feed.py</code> once to generate it.
         </p>
       )}
     </div>

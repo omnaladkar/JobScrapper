@@ -1,6 +1,6 @@
-// Job snapshot + resume-skill extraction.
-// The snapshot is a static export of the scraper DB (scripts/export_jobs.py),
-// so the free product costs nothing to host while using real jobs.
+// Job snapshot: a static export of freshly scraped jobs (scripts/build_live_feed.py
+// prunes to ~7 days and writes product/public/jobs.json each daily scrape), so the
+// free product costs nothing to host while using real jobs.
 
 export interface Job {
   id: number;
