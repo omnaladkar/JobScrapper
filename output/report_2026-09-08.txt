@@ -1,0 +1,122 @@
+# Daily Job Report - 2026-09-08
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 23
+
+1. Meesho - Fullstack Developer
+   Location: Gurgaon
+   Score: 100/100
+   Apply: https://www.instahyre.com/job-442214-fullstack-developer-at-meesho-gurgaon/
+
+2. DXC Technology - Java Developer
+   Location: Gurgaon
+   Score: 95/100
+   Apply: https://www.instahyre.com/job-442292-java-developer-at-dxc-technology-gurgaon/
+
+3. Aditya Birla Group - SSE - Backend
+   Location: Bangalore
+   Score: 70/100
+   Apply: https://www.instahyre.com/job-434010-sse-backend-at-aditya-birla-group-bangalore/
+
+4. Accenture - Fullstack Developer - Java
+   Location: Hyderabad
+   Score: 60/100
+   Apply: https://www.instahyre.com/job-440308-fullstack-developer-java-at-accenture-2-hyderabad/
+
+5. CredAble - Full Stack Developer (Angular + Java)
+   Location: Delhi,Gurgaon,Pune
+   Score: 60/100
+   Apply: https://www.instahyre.com/job-437966-full-stack-developer-angular-plus-java-at-credable-delhi-gurgaon-pune/
+
+6. Gap - Backend Engineer
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-426618-backend-engineer-at-gap-bangalore/
+
+7. HelloCounsel.ai - Full Stack Engineer - Gen AI
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-442103-full-stack-engineer-gen-ai-at-hellocounsel-bangalore/
+
+8. Twilio - Software Engineer (L3)
+   Location: Remote - India
+   Score: 45/100
+   Apply: https://job-boards.greenhouse.io/twilio/jobs/7996779
+
+9. GoCharting - Backend Engineer
+   Location: Chennai
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-438484-backend-engineer-at-gocharting-chennai/
+
+10. Inamo - Backend Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-412849-backend-engineer-at-inamo-bangalore/
+
+11. Purplle - Software Development Engineer
+   Location: Pune
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-441404-software-development-engineer-at-purplle-pune/
+
+12. HelloCounsel.ai - Full - Stack Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-442181-full-stack-engineer-at-hellocounsel-bangalore/
+
+13. GeoServe - Full Stack Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-342524-full-stack-engineer-at-geoserve-bangalore/
+
+14. GeoServe - Full Stack Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-352689-full-stack-engineer-at-geoserve-bangalore/
+
+15. Skit AI - AIOps Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-441774-aiops-engineer-at-skit-ai-bangalore/
+
+16. Bluno - Software Engineer
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-441519-software-engineer-at-bluno-bangalore/
+
+17. UsefulBI - Python Backend Engineer (AWS Integration)
+   Location: Bangalore,Pune
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-437097-python-backend-engineer-aws-integration-at-usefulbi-bangalore-pune/
+
+18. GreyOrange - SDET - 1 (Java)
+   Location: Gurgaon
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-441945-sdet-1-java-at-greyorange-2-gurgaon/
+
+19. Pascal AI Labs - AI Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-431448-ai-engineer-at-pascal-ai-labs-bangalore/
+
+20. PocketFM - AI Engineer
+   Location: Bangalore,Work From Home
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-432979-ai-engineer-at-pocketfm-bangalore-work-from-home/
+
+21. SKWAD - Full Stack Engineer - AI Native
+   Location: Hyderabad
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-439645-full-stack-engineer-ai-native-at-skwad-hyderabad/
+
+22. Tradl AI - Backend Developer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-425620-backend-developer-at-tradl-ai-bangalore/
+
+23. Quince - Software Development Engineer - 3
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-422185-software-development-engineer-3-at-quince-bangalore/
+
+Generated at: 2026-09-08T07:24:53.531467
