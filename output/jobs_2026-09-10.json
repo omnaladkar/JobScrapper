@@ -1,0 +1,145 @@
+[
+  {
+    "company": "Microsoft",
+    "role": "Software Engineer II",
+    "location": "Karnataka, Bangalore, India",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556911611",
+    "source": "careerpage",
+    "match_score": 35,
+    "description": ""
+  },
+  {
+    "company": "Knowl",
+    "role": "Backend Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-440611-backend-engineer-at-knowl-bangalore/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "Algorithms, C++, Data Structures, Golang, Java, LLMs, Python, Rust"
+  },
+  {
+    "company": "Taylor & Francis Group",
+    "role": "Full - Stack Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-442609-full-stack-engineer-at-taylor-francis-group-bangalore/",
+    "source": "instahyre",
+    "match_score": 70,
+    "description": "JavaScript, Java, Node.js, SQL, Microservices, AWS, Golang, Terraform, React.js, Angular, CI / CD, Kafka, NoSQL, Python"
+  },
+  {
+    "company": "Bluno",
+    "role": "Backend Developer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-442638-backend-developer-at-bluno-bangalore/",
+    "source": "instahyre",
+    "match_score": 60,
+    "description": "Java, Spring Boot, Microservices, Distributed Systems, Kafka"
+  },
+  {
+    "company": "Different AI",
+    "role": "Founding Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-438035-founding-engineer-at-different-ai-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "Agentic AI, Algorithms, Data Structures, Generative AI, Golang, Java, Node.js, Scala"
+  },
+  {
+    "company": "Purplle",
+    "role": "Software Development Engineer - Fullstack",
+    "location": "Pune",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-441388-software-development-engineer-fullstack-at-purplle-pune/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "Golang, Claude, Generative AI, JavaScript, LLMs, Node.js"
+  },
+  {
+    "company": "CRED",
+    "role": "Full - Stack Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-442631-full-stack-engineer-at-cred-bangalore/",
+    "source": "instahyre",
+    "match_score": 60,
+    "description": "JavaScript, Java, TypeScript, React.js, Spring, Microservices, AWS, Azure"
+  },
+  {
+    "company": "Aatmix Systems",
+    "role": "SDE II (AI)",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-442517-sde-ii-ai-at-aatmix-systems-bangalore/",
+    "source": "instahyre",
+    "match_score": 55,
+    "description": "Algorithms, JavaScript, Node.js, React.js, TypeScript"
+  },
+  {
+    "company": "WEX",
+    "role": "SDE - 3",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-442563-sde-3-at-wex-bangalore/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": ".NET, Agentic AI, C#, Generative AI, Golang, Java, Python, Spring Boot"
+  },
+  {
+    "company": "Accenture",
+    "role": "Full Stack Developer - Java",
+    "location": "Bangalore,Chennai,Noida",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-440312-full-stack-developer-java-at-accenture-2-bangalore-chennai-noida/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "Angular, Java, React, React.js, Spring Boot, Vue, Vue.js"
+  },
+  {
+    "company": "Accenture",
+    "role": "Custom Software Engineer - Amazon Connect",
+    "location": "Bangalore,Delhi,Gurgaon",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-442570-custom-software-engineer-amazon-connect-at-accenture-2-bangalore-delhi-gurgaon/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "API Gateway, AWS Lambda, Amazon Connect, Lambda"
+  },
+  {
+    "company": "Bluno",
+    "role": "Backend Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-441630-backend-engineer-at-bluno-bangalore/",
+    "source": "instahyre",
+    "match_score": 55,
+    "description": "Java, Spring Boot, Microservices, Data Structures, Algorithms, Spring"
+  },
+  {
+    "company": "Credilio",
+    "role": "SDE - 3",
+    "location": "Mumbai",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-440326-sde-3-at-credilio-mumbai/",
+    "source": "instahyre",
+    "match_score": 55,
+    "description": "Node.js, TypeScript, Algorithms, Architecture, Data Structures, Docker, JavaScript, Python"
+  }
+]

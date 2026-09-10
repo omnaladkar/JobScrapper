@@ -1,0 +1,72 @@
+# Daily Job Report - 2026-09-10
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 13
+
+1. Taylor & Francis Group - Full - Stack Engineer
+   Location: Bangalore
+   Score: 70/100
+   Apply: https://www.instahyre.com/job-442609-full-stack-engineer-at-taylor-francis-group-bangalore/
+
+2. Bluno - Backend Developer
+   Location: Bangalore
+   Score: 60/100
+   Apply: https://www.instahyre.com/job-442638-backend-developer-at-bluno-bangalore/
+
+3. CRED - Full - Stack Engineer
+   Location: Bangalore
+   Score: 60/100
+   Apply: https://www.instahyre.com/job-442631-full-stack-engineer-at-cred-bangalore/
+
+4. Aatmix Systems - SDE II (AI)
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-442517-sde-ii-ai-at-aatmix-systems-bangalore/
+
+5. Bluno - Backend Engineer
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-441630-backend-engineer-at-bluno-bangalore/
+
+6. Credilio - SDE - 3
+   Location: Mumbai
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-440326-sde-3-at-credilio-mumbai/
+
+7. Accenture - Full Stack Developer - Java
+   Location: Bangalore,Chennai,Noida
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-440312-full-stack-developer-java-at-accenture-2-bangalore-chennai-noida/
+
+8. Microsoft - Software Engineer II
+   Location: Karnataka, Bangalore, India
+   Score: 35/100
+   Apply: https://apply.careers.microsoft.com/careers/job/1970393556911611
+
+9. Knowl - Backend Engineer
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-440611-backend-engineer-at-knowl-bangalore/
+
+10. WEX - SDE - 3
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-442563-sde-3-at-wex-bangalore/
+
+11. Accenture - Custom Software Engineer - Amazon Connect
+   Location: Bangalore,Delhi,Gurgaon
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-442570-custom-software-engineer-amazon-connect-at-accenture-2-bangalore-delhi-gurgaon/
+
+12. Different AI - Founding Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-438035-founding-engineer-at-different-ai-bangalore/
+
+13. Purplle - Software Development Engineer - Fullstack
+   Location: Pune
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-441388-software-development-engineer-fullstack-at-purplle-pune/
+
+Generated at: 2026-09-10T07:29:24.149412
