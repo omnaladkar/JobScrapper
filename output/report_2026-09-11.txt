@@ -1,0 +1,102 @@
+# Daily Job Report - 2026-09-11
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 19
+
+1. Purplle - Software Development Engineer
+   Location: Pune
+   Score: 80/100
+   Apply: https://www.instahyre.com/job-441338-software-development-engineer-at-purplle-pune/
+
+2. Kotak811 - SDE 2
+   Location: Bangalore
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-331759-sde-2-at-kotak811-bangalore/
+
+3. ConveGenius - SDE 2 - Node.js
+   Location: Noida
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-433298-sde-2-node-js-at-convegenius-noida/
+
+4. Wissen Technology - Java Developer
+   Location: Chennai
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-442633-java-developer-at-wissen-technology-chennai/
+
+5. Soulside AI - Backend Engineer
+   Location: Bangalore,Work From Home
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-442078-backend-engineer-at-soulside-ai-bangalore-work-from-home/
+
+6. Humyn Labs - MLOps Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-440226-mlops-engineer-at-humyn-labs-bangalore/
+
+7. Nykaa - Full Stack Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-442472-full-stack-engineer-at-nykaa-bangalore/
+
+8. UnionSys Technologies - Golang Developer
+   Location: Pune
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-442735-golang-developer-at-unionsys-technologies-pune/
+
+9. Collekto - Full Stack Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-442804-full-stack-engineer-at-collekto-bangalore/
+
+10. Vutto - Software Development Engineer - II (Fullstack)
+   Location: Delhi
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-432937-software-development-engineer-ii-fullstack-at-vutto-delhi/
+
+11. Interview Kickstart - Software Engineer 1 (Backend)
+   Location: India
+   Score: 35/100
+   Apply: https://jobs.ashbyhq.com/interview-kickstart/178e3e0d-1a58-4715-87f5-8ddb14a87f88/application
+
+12. Intellicar - SDE II - Backend & Distributed Systems
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-441291-sde-ii-backend-distributed-systems-at-intellicar-bangalore/
+
+13. Fulfil.IO - SDE - 3 (Backend)
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-417910-sde-3-backend-at-fulfil-2-bangalore/
+
+14. Tennr - SDE 2
+   Location: Gurgaon
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-420536-sde-2-at-tennr-gurgaon/
+
+15. Kriyadocs - AI Application Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-423327-ai-application-engineer-at-kriyadocs-bangalore/
+
+16. Petco - Full Stack Engineer
+   Location: Hyderabad
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-392652-full-stack-engineer-at-petco-hyderabad/
+
+17. nference - Backend Developer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-132902-backend-developer-at-nference-3-bangalore/
+
+18. Amazon - Software Development Engineer 2
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-442754-software-development-engineer-2-at-amazon-bangalore/
+
+19. NuPlay AI - Platform Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-437786-platform-engineer-at-nuplay-ai-bangalore/
+
+Generated at: 2026-09-11T07:33:52.105703
