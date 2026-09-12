@@ -1,0 +1,189 @@
+[
+  {
+    "company": "Okta",
+    "role": "Workday Extend Developer ",
+    "location": "Bengaluru, India",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.okta.com/company/careers/opportunity/8195169?gh_jid=8195169",
+    "source": "greenhouse",
+    "match_score": 80,
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Secure Every Identity, from AI to Human&lt;br&gt;&lt;br&gt;&lt;/strong&gt;Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.&lt;br&gt;&lt;br&gt;This is an opportunity to do career-defining work. We&#39;re all in on this mission. If you are too, let&#39;s talk.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;Okta is seeking a &lt;strong&gt;Staff&amp;nbsp; Analyst – &lt;/strong&gt;&lt;strong&gt;People Technology &lt;/strong&gt;to join our Business Solutions Team. In this critical role, you will partner closely with the People Technology leadership and play a key role in our Workday transformation efforts. As part of a cross-functional team, you will collaborate with stakeholders across People, Payroll, IT, Finance, and international offices to optimize and scale our HR systems and processes.&lt;/p&gt; &lt;p&gt;This role is ideal for someone who is passionate about solving complex business challenges, driving innovation through automation, and delivering a best-in-class user experience.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;Job Duties and Responsibilities&lt;/strong&gt;&lt;/h3&gt; &lt;h2&gt;&lt;strong&gt;Key Responsibilities&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Own the &lt;strong&gt;end-to-end architecture and technical design&lt;/strong&gt; of Workday Extend applications, integrations, and supporting technology solutions.&lt;/li&gt; &lt;li&gt;Define scalable, secure, resilient, and maintainable &lt;strong&gt;application architecture, integration architecture, data flows, API strategies, and technical standards&lt;/strong&gt;.&lt;/li&gt; &lt;li&gt;Architect and lead the development of complex &lt;strong&gt;Workday Extend applications&lt;/strong&gt; using TypeScript/JavaScript, Workday APIs, and Extend frameworks.&lt;/li&gt; &lt;li&gt;Architect enterprise Workday integrations using &lt;strong&gt;Workday Studio, EIB, Core Connectors, RaaS, REST APIs, SOAP Web Services, and Workday Web Services&lt;/strong&gt;.&lt;/li&gt; &lt;li&gt;Evaluate business requirements and determine the appropriate solution across &lt;strong&gt;Workday configuration, Extend, integrations, APIs, AI, cloud services, and third-party platforms&lt;/strong&gt;.&lt;/li&gt; &lt;li&gt;Establish architectural patterns and reusable frameworks for Workday Extend applications and integrations to support scalability, extensibility, security, and long-term maintainability.&lt;/li&gt; &lt;li&gt;Provide technical leadership for the complete application lifecycle, including &lt;strong&gt;architecture, design, development, testing, deployment, release management, and production support&lt;/strong&gt;.&lt;/li&gt; &lt;li&gt;Develop solutions that leverage &lt;strong&gt;AI and Generative AI&lt;/strong&gt; to enable intelligent automation, enhanced user experiences, decision support, and innovative business capabilities within the Workday ecosystem.&lt;/li&gt; &lt;li&gt;Assess and utilize &lt;strong&gt;AWS cloud services&lt;/strong&gt; where required to support application components, APIs, integrations, data processing, AI capabilities, and enterprise workloads.&lt;/li&gt; &lt;li&gt;Define and govern &lt;strong&gt;API, integration, security, authentication, authorization, error-handling, monitoring, logging, and performance&lt;/strong&gt; strategies.&lt;/li&gt; &lt;li&gt;Partner with enterprise architects, business stakeholders, functional leads, security teams, cloud teams, and engineering teams to ensure solutions align with enterprise technology standards and business objectives.&lt;/li&gt; &lt;li&gt;Lead technical discovery, architecture workshops, proof-of-concepts, technology evaluations, and solution estimations for complex business initiatives.&lt;/li&gt; &lt;li&gt;Review and approve technical designs, application architecture, integration patterns, and development approaches to ensure adherence to architectural standards.&lt;/li&gt; &lt;li&gt;Identify technical risks, dependencies, scalability concerns, and opportunities for modernization, and define appropriate mitigation strategies.&lt;/li&gt; &lt;li&gt;Provide hands-on technical guidance when required while &lt;strong&gt;leading and mentoring senior developers and engineering teams&lt;/strong&gt;.&lt;/li&gt; &lt;li&gt;Establish development and engineering best practices, including code quality, version control, CI/CD, testing, observability, documentation, and deployment standards.&lt;/li&gt; &lt;li&gt;Drive continuous improvement of the Workday technical landscape by evaluating new capabilities across &lt;strong&gt;Workday Extend, Workday Integration, Orchestrate, AI/GenAI, AWS, APIs, and emerging technologies&lt;/strong&gt;.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;Required Skills and Qualifications&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li style=&quot;font-weight: bold;&quot;&gt;&lt;strong&gt;8 to 10 years of overall IT/software development experience.&lt;/strong&gt;&lt;/li&gt; &lt;li style=&quot;font-weight: bold;&quot;&gt;&lt;strong&gt;4+ years of hands-on Workday Extend experience.&lt;/strong&gt;&lt;/li&gt; &lt;li style=&quot;font-weight: bold;&quot;&gt;&lt;strong&gt;Workday certification in Extend&lt;/strong&gt;&lt;/li&gt; &lt;li&gt;Strong hands-on experience with Workday Integration Frameworks.&lt;/li&gt; &lt;li&gt;Strong experience with Workday Studio.&lt;/li&gt; &lt;li&gt;Experience with EIB, Core Connectors, Cloud Connect, and Workday Web Services.&lt;/li&gt; &lt;li&gt;Strong knowledge of Workday REST/SOAP APIs.&lt;/li&gt; &lt;li&gt;Experience with RaaS, Workday Reports, Calculated Fields, and Business Processes.&lt;/li&gt; &lt;li&gt;Strong understanding of Workday HCM architecture and Workday data model.&lt;/li&gt; &lt;li&gt;Experience designing and developing enterprise-grade integrations.&lt;/li&gt; &lt;li&gt;Working knowledge of AWS cloud services.&lt;/li&gt; &lt;li&gt;Exposure to AI/ML and Generative AI technologies.&lt;/li&gt; &lt;li&gt;Strong understanding of API-based and event-driven integration architectures.&lt;/li&gt; &lt;li&gt;Strong troubleshooting, analytical, and problem-solving skills.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;Preferred Skills&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Experience integrating LLM/GenAI APIs into enterprise applications.&lt;/li&gt; &lt;li&gt;Knowledge of AWS Bedrock or equivalent enterprise AI services.&lt;/li&gt; &lt;li&gt;Experience with AWS Lambda, API Gateway, S3, IAM, CloudWatch, EventBridge, or similar AWS services.&lt;/li&gt; &lt;li&gt;Understanding of RAG, embeddings, vector databases, prompt engineering, and AI agents.&lt;/li&gt; &lt;li&gt;Experience building AI-powered automation or employee-facing applications.&lt;/li&gt; &lt;li&gt;Exposure to CI/CD, DevOps, Git, automated testing, and cloud deployment practices.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;#P25736_3546732&lt;/p&gt; &lt;p&gt;#LI_Hybrid&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;The Okta Experience&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;http://rewards.okta.com&quot;&gt;Supporting Your Well-Being&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/okta-for-good/&quot;&gt;Driving Social Impact&amp;nbsp;&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://www.okta.com/company/talent-connection-community/&quot;&gt;Developing Talent and Fostering Connection + Community&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;We are intentional about connection. Our global community, spanning over 20 offices worldwide, is united by a drive to innovate. Your journey begins with an immersive, in-person onboarding experience designed to accelerate your impact and connect you to our mission and team from day one.&lt;br&gt;&lt;br&gt;Okta is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, ancestry, marital status, age, physical or mental disability, or status as a protected veteran. We also consider for employment qualified applicants with arrest and convictions records, consistent with applicable laws.&lt;br&gt;&lt;br&gt;If reasonable accommodation is needed to complete any part of the job application, interview process, or onboarding please&amp;nbsp;&lt;a href=&quot;https://docs.google.com/forms/d/1EfiEYZrIyhA2X4Fijk0R3RKYOzNoS3wtvyM4nhbZnXE/edit&quot;&gt;use this Form&lt;/a&gt; to request an accommodation.&lt;br&gt;&lt;br&gt;Notice for New York City Applicants &amp;amp; Employees: Okta may use Automated Employment Decision Tools (AEDT), as defined by New York City Local Law 144, that use artificial intelligence, machine learning, or other automated processes to assist in our recruitment and hiring process. In accordance with NYC Local Law 144, if you are an applicant or employee residing in New York City, please&amp;nbsp;&lt;a href=&quot;https://talent.okta.com/new-york-city-aedt-notice.html&quot;&gt;click here&lt;/a&gt; to view our full NYC AEDT Notice.&lt;/p&gt;&lt;/div&gt;"
+  },
+  {
+    "company": "MongoDB",
+    "role": "Application Engineer",
+    "location": "Bengaluru",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.mongodb.com/careers/job/?gh_jid=8143980",
+    "source": "greenhouse",
+    "match_score": 90,
+    "description": "&lt;p&gt;MongoDB Professional Services (PS) works with customers of all shapes and sizes, in all verticals, from tier-1 banks to small web startups, on a variety of exciting use cases. This role solves technically sophisticated problems, gains incredible cross-stack experience, works with top-notch people in the business, networks with industry leaders, and sees new places - all in a day’s work!&lt;/p&gt; &lt;p&gt;MongoDB PS exists to support the development of our customers’ vision, accelerate customers’ time to value, and drive a multitude of customer adoption scenarios – from building new solutions to modernizing legacy applications or migrating to cloud. Our consulting solutions ensure that organizations get the best out of MongoDB.&lt;/p&gt; &lt;p&gt;Work as a software developer in a small Agile team delivering solutions onsite for customers focussed on migrating our customers’ legacy relational-based Java applications to a more modern cloud-based architecture running on MongoDB, leveraging the latest GenAI tools and approaches to accelerate this process. During each project, successful candidates will be required to innovate on potential new GenAI-based solutions for specific challenges in addition to applying existing playbooks and tooling for migration.&lt;/p&gt; &lt;p&gt;We are looking to speak to candidates who are based in Bengaluru for our hybrid working model.&lt;/p&gt; &lt;h3&gt;Position Summary&lt;/h3&gt; &lt;p&gt;As an Application Delivery Consultant, you will work closely with customers to deliver tailored solutions for modernizing their legacy SQL-based systems and applications. Your role will involve collaborating with bite-size Agile teams, applying best practices, and contributing to system redesigns that leverage MongoDB. This is an excellent opportunity for candidates with strong technical fundamentals and a passion for learning, as the role provides extensive training and exposure to modern technologies like MongoDB, GenAI, and cloud-native architectures&lt;/p&gt; &lt;h3&gt;Position Expectations:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Collaborate with project teams to deliver solutions for modernizing legacy SQL-based applications and migrating them to MongoDB&lt;/li&gt; &lt;li&gt;Apply your knowledge of Java (or similar programming languages) and relational databases to support customer projects&lt;/li&gt; &lt;li&gt;Follow and contribute to best practice playbooks for migrations and modern application development&lt;/li&gt; &lt;li&gt;Continuously learn and adopt new technologies, especially MongoDB, GenAI tools, and cloud architectures, as projects demand&lt;/li&gt; &lt;li&gt;Participate in sprint planning, grooming, and retrospectives to improve team processes and outputs&lt;/li&gt; &lt;li&gt;Communicate progress, challenges, and ideas effectively within the team and to stakeholders&lt;/li&gt; &lt;li&gt;Support debugging and performance optimization tasks during projects&lt;/li&gt; &lt;li&gt;Be open to mentoring and guidance from senior team members while contributing to team discussions with a fresh perspective&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Key Qualifications&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;4–7 years of experience in software development, with a strong foundation in&lt;/li&gt; &lt;li&gt;Core programming concepts specific to JAVA&lt;/li&gt; &lt;li&gt;Relational databases and SQL, including basic stored procedures&lt;/li&gt; &lt;li&gt;Application debugging and performance tuning&lt;/li&gt; &lt;li&gt;Exposure to one or more enterprise application architectures, such as Spring Boot or Hibernate&lt;/li&gt; &lt;li&gt;Experience working in Agile teams, with a familiarity with CI/CD pipelines and Git for version control&lt;/li&gt; &lt;li&gt;Demonstrated curiosity and ability to learn new tools, frameworks, and best practices quickly&lt;/li&gt; &lt;li&gt;Excellent problem-solving skills and a collaborative mindset&lt;/li&gt; &lt;li&gt;Strong communication skills to engage effectively with team members and stakeholders&lt;/li&gt; &lt;li&gt;Nice-to-Have Skills&lt;/li&gt; &lt;li&gt;Familiarity with MongoDB or similar NoSQL databases&lt;/li&gt; &lt;li&gt;Basic knowledge of GenAI tools and APIs (e.g., OpenAI GPT models)&lt;/li&gt; &lt;li&gt;Exposure to Python and its application in scripting or data processing&lt;/li&gt; &lt;li&gt;Basic understanding of cloud-native development concepts (e.g., Docker, Kubernetes, or microservices)&lt;/li&gt; &lt;li&gt;Hands-on experience with ORMs like Hibernate or JPA&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Bonus Skills&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Prior experience with MongoDB and cloud platforms such as AWS, Azure, or GCP&lt;/li&gt; &lt;li&gt;Knowledge of containerization and orchestration tools like Docker and Kubernetes&lt;/li&gt; &lt;li&gt;Hands-on experience with GenAI technologies (e.g., OpenAI API, GPT models) and the ability to innovate new use cases within migration projects&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Key Competencies&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Strong team leadership and stakeholder engagement skills, with the ability to articulate technical solutions to non-technical audiences&lt;/li&gt; &lt;li&gt;Exceptional problem-solving and debugging skills, applying creativity to complex challenges and GenAI innovations&lt;/li&gt; &lt;li&gt;Adaptability and openness to evolving project needs, aligning with the latest industry trends and best practices&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Additional Considerations&lt;/h3&gt; &lt;p&gt;Due to the highly regulated nature of our industry, successful candidates may undergo enhanced background checks and security screenings. MongoDB is committed to providing a supportive, enriching work environment with a focus on employee wellbeing and growth.&lt;/p&gt; &lt;h3&gt;Why MongoDB?&lt;/h3&gt; &lt;p&gt;Join us in transforming the way enterprises manage and scale data. MongoDB provides a dynamic workplace culture with employee affinity groups, fertility assistance, and generous parental leave policies, ensuring an inclusive experience.&lt;/p&gt; &lt;h3&gt;About MongoDB&lt;/h3&gt; &lt;p&gt;MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy workloads, embrace innovation, and unleash AI. Our cloud-native platform, MongoDB Atlas, is the only globally distributed, multi-cloud data platform and is available across AWS, Google Cloud, and Microsoft Azure.&lt;/p&gt; &lt;p&gt;With offices worldwide and over 67,000 customers, including AI-native startups and approximately 75% of the Fortune 100, relying on MongoDB for their most important applications, we’re powering the next era of software.&lt;/p&gt; &lt;p&gt;Our compass at MongoDB is our &lt;a href=&quot;https://www.mongodb.com/company&quot;&gt;Leadership Commitment,&lt;/a&gt; guiding how and why we make decisions, show up for each other, and win. It’s what makes us MongoDB.&amp;nbsp;&lt;/p&gt; &lt;p&gt;To drive the personal growth and business impact of our employees, we’re committed to developing a supportive and enriching culture for everyone. &lt;a href=&quot;https://www.mongodb.com/company/blog/culture/employee-benefits-that-make-a-difference-at-mongodb&quot;&gt;From employee affinity groups, to fertility assistance and a generous parental leave policy&lt;/a&gt;, we value our employees’ wellbeing and want to support them along every step of their professional and personal journeys.&lt;a href=&quot;https://www.mongodb.com/blog/channel/culture&quot;&gt; Learn more about what it’s like to work at MongoDB&lt;/a&gt;, and help us make an impact on the world!&lt;/p&gt; &lt;p&gt;MongoDB is committed to providing any necessary accommodations for individuals with disabilities within our application and interview process. To request an accommodation due to a disability, please inform your recruiter.&lt;/p&gt; &lt;p&gt;MongoDB is an equal opportunities employer.&lt;/p&gt; &lt;p&gt;&lt;em&gt;Req ID - 3273524386&lt;/em&gt;&lt;/p&gt;"
+  },
+  {
+    "company": "Target in India",
+    "role": "Java Developer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-434787-java-developer-at-target-in-india-bangalore/",
+    "source": "instahyre",
+    "match_score": 75,
+    "description": "Java, Python, Algorithms, AWS, Azure, Data Structures, Docker, Google Cloud (GCP), Kafka, LLMs, NoSQL, Spring, Spring Boot, SQL"
+  },
+  {
+    "company": "The Walt Disney Company",
+    "role": "Software Engineer 2",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-431576-software-engineer-2-at-the-walt-disney-company-bangalore/",
+    "source": "instahyre",
+    "match_score": 75,
+    "description": "AWS, React.js, TypeScript, Docker, GitHub, JavaScript, Kubernetes, Node.js, Python"
+  },
+  {
+    "company": "NuvertOS",
+    "role": "SDE II (Full - Stack)",
+    "location": "Noida",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-442878-sde-ii-full-stack-at-nuvertos-noida/",
+    "source": "instahyre",
+    "match_score": 75,
+    "description": "Golang, Angular, Java, Python, Docker, Kubernetes, PHP, Node.js, MySQL, CI / CD, Vue.js"
+  },
+  {
+    "company": "Navi",
+    "role": "SDE II (Backend)",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-440513-sde-ii-backend-at-navi-3-bangalore/",
+    "source": "instahyre",
+    "match_score": 45,
+    "description": "Algorithms, Data Structures, Golang, Java, Python, Django, Flask, Hibernate, J2EE, Spring"
+  },
+  {
+    "company": "Wissen Technology",
+    "role": "Java Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-432558-java-engineer-at-wissen-technology-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "Data Structures, Java, Spring"
+  },
+  {
+    "company": "GoComet",
+    "role": "Full Stack Engineer - AI",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-439593-full-stack-engineer-ai-at-gocomet-3-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "Golang, JavaScript, Python, Node.js, React.js"
+  },
+  {
+    "company": "Ambient Security",
+    "role": "Software Development Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-438404-software-development-engineer-at-ambient-security-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "API, APIs, AWS, Azure, GCP, Go, Golang, Java, connector, connectors, integration"
+  },
+  {
+    "company": "AiSensy",
+    "role": "Fullstack Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-430563-fullstack-engineer-at-aisensy-bangalore/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "JavaScript, Java, Python, React.js, Node.js, Golang, Angular"
+  },
+  {
+    "company": "Nexthink",
+    "role": "Software Engineer 2 - Java",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-409658-software-engineer-2-java-at-nexthink-bangalore/",
+    "source": "instahyre",
+    "match_score": 75,
+    "description": "AWS, Java, Kafka, Microservices, Spark, Spring Boot"
+  },
+  {
+    "company": "Nexthink",
+    "role": "Full Stack Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-412341-full-stack-engineer-at-nexthink-bangalore/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "Java, React.js, TypeScript, JavaScript, API Testing"
+  },
+  {
+    "company": "ConveGenius",
+    "role": "SDE - 1 Node.js",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-432998-sde-1-node-js-at-convegenius-bangalore/",
+    "source": "instahyre",
+    "match_score": 45,
+    "description": "JavaScript, Node.js, Algorithms, Data Structures, Express.js, Java"
+  },
+  {
+    "company": "ConveGenius",
+    "role": "SDE II - Node.js",
+    "location": "Noida",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-442837-sde-ii-node-js-at-convegenius-noida/",
+    "source": "instahyre",
+    "match_score": 45,
+    "description": "Data Structures, Express.js, JavaScript, Node.js, Algorithms"
+  },
+  {
+    "company": "Amazon",
+    "role": "Backend Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-436272-backend-engineer-at-amazon-bangalore/",
+    "source": "instahyre",
+    "match_score": 45,
+    "description": "C++, Go, Java, Python, Rust, backend, concurrency, distributed, fault tolerance, performance, reliability"
+  },
+  {
+    "company": "Meraki Labs",
+    "role": "Backend Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-439063-backend-engineer-at-meraki-labs-bangalore/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "AI, artificial intelligence, backend"
+  },
+  {
+    "company": "Snapmint",
+    "role": "Backend Developer (SDE II)",
+    "location": "Gurgaon",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-434822-backend-developer-sde-ii-at-snapmint-gurgaon/",
+    "source": "instahyre",
+    "match_score": 55,
+    "description": "JavaScript, Node, Node.js"
+  }
+]

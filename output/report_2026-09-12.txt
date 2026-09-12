@@ -1,0 +1,92 @@
+# Daily Job Report - 2026-09-12
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 17
+
+1. MongoDB - Application Engineer
+   Location: Bengaluru
+   Score: 90/100
+   Apply: https://www.mongodb.com/careers/job/?gh_jid=8143980
+
+2. Okta - Workday Extend Developer 
+   Location: Bengaluru, India
+   Score: 80/100
+   Apply: https://www.okta.com/company/careers/opportunity/8195169?gh_jid=8195169
+
+3. Target in India - Java Developer
+   Location: Bangalore
+   Score: 75/100
+   Apply: https://www.instahyre.com/job-434787-java-developer-at-target-in-india-bangalore/
+
+4. The Walt Disney Company - Software Engineer 2
+   Location: Bangalore
+   Score: 75/100
+   Apply: https://www.instahyre.com/job-431576-software-engineer-2-at-the-walt-disney-company-bangalore/
+
+5. NuvertOS - SDE II (Full - Stack)
+   Location: Noida
+   Score: 75/100
+   Apply: https://www.instahyre.com/job-442878-sde-ii-full-stack-at-nuvertos-noida/
+
+6. Nexthink - Software Engineer 2 - Java
+   Location: Bangalore
+   Score: 75/100
+   Apply: https://www.instahyre.com/job-409658-software-engineer-2-java-at-nexthink-bangalore/
+
+7. Snapmint - Backend Developer (SDE II)
+   Location: Gurgaon
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-434822-backend-developer-sde-ii-at-snapmint-gurgaon/
+
+8. Navi - SDE II (Backend)
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-440513-sde-ii-backend-at-navi-3-bangalore/
+
+9. ConveGenius - SDE - 1 Node.js
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-432998-sde-1-node-js-at-convegenius-bangalore/
+
+10. ConveGenius - SDE II - Node.js
+   Location: Noida
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-442837-sde-ii-node-js-at-convegenius-noida/
+
+11. Amazon - Backend Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-436272-backend-engineer-at-amazon-bangalore/
+
+12. AiSensy - Fullstack Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-430563-fullstack-engineer-at-aisensy-bangalore/
+
+13. Nexthink - Full Stack Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-412341-full-stack-engineer-at-nexthink-bangalore/
+
+14. Meraki Labs - Backend Engineer
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-439063-backend-engineer-at-meraki-labs-bangalore/
+
+15. Wissen Technology - Java Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-432558-java-engineer-at-wissen-technology-bangalore/
+
+16. GoComet - Full Stack Engineer - AI
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-439593-full-stack-engineer-ai-at-gocomet-3-bangalore/
+
+17. Ambient Security - Software Development Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-438404-software-development-engineer-at-ambient-security-bangalore/
+
+Generated at: 2026-09-12T07:19:51.580786
