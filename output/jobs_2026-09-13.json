@@ -1,0 +1,90 @@
+[
+  {
+    "company": "Databricks",
+    "role": "Sr Full Stack Developer (AI Agents)",
+    "location": "Bengaluru, India",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002",
+    "source": "greenhouse",
+    "match_score": 60,
+    "description": "&lt;p&gt;&lt;strong&gt;GAQ226R75&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;About the Role&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;We are looking for a &lt;strong&gt;Senior Full Stack Developer &lt;/strong&gt;to design, build, and deploy modern, scalable AI agents and applications that leverage Large Language Models (LLMs). This role requires a strong focus on end-to-end agent development, including building a high-performance React frontend, designing the agentic logic in Python, integrating with backend services, and ensuring production readiness.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Key Responsibilities:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Design, develop, and deploy AI agents for business-critical workflows, with a focus on LLM orchestration and tooling.&lt;/li&gt; &lt;li&gt;Implement complex agentic behaviours using frameworks like LangChain or LangGraph, including ReAct loops for reasoning and action.&lt;/li&gt; &lt;li&gt;Design and develop a high-performance React application for the agent&#39;s user interface.&lt;/li&gt; &lt;li&gt;Collaborate with backend teams to integrate APIs and services, and build tools for agents.&lt;/li&gt; &lt;li&gt;Work with middleware (Python/Node.js) to orchestrate agent calls and data flow.&lt;/li&gt; &lt;li&gt;Implement comprehensive observability and tracing for agent runs and system performance.&lt;/li&gt; &lt;li&gt;Build reusable, scalable UI components.&lt;/li&gt; &lt;li&gt;Optimise application performance, responsiveness, and scalability.&lt;/li&gt; &lt;li&gt;Participate in architectural discussions and contribute to solution design.&lt;/li&gt; &lt;li&gt;Write clean, maintainable, and testable code with proper documentation.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Required Skills &amp;amp; Experience&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;5+ years of experience in full-stack development, with strong expertise in &lt;strong&gt;Python&lt;/strong&gt; and &lt;strong&gt;React.js&lt;/strong&gt;.&lt;/li&gt; &lt;li&gt;Proven experience in designing, building, and deploying at least &lt;strong&gt;1 production-deployed AI agent or LLM application&lt;/strong&gt;.&lt;/li&gt; &lt;li&gt;Deep expertise in LLM orchestration, prompt engineering, and utilizing &lt;strong&gt;tools/plugins&lt;/strong&gt; to extend agent capabilities.&lt;/li&gt; &lt;li&gt;Experience with agent frameworks like &lt;strong&gt;LangChain or LangGraph&lt;/strong&gt;, including implementing reasoning patterns like the &lt;strong&gt;ReAct loop&lt;/strong&gt;.&lt;/li&gt; &lt;li&gt;Experience with &lt;strong&gt;observability, logging, and tracing&lt;/strong&gt; for AI agents.&lt;/li&gt; &lt;li&gt;Experience building large-scale, enterprise-grade applications.&lt;/li&gt; &lt;li&gt;Strong experience with API integration (REST/GraphQL).&lt;/li&gt; &lt;li&gt;Experience working in Agile/Scrum environments.&lt;/li&gt; &lt;li&gt;Strong problem-solving and system design skills&lt;/li&gt; &lt;li&gt;Ability to work across frontend and backend integration layers&lt;/li&gt; &lt;li&gt;Ownership mindset with attention to detail&lt;/li&gt; &lt;li&gt;Good communication and collaboration skills&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Preferred / Good to Have&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Experience with Node.js or Python for middleware development&lt;/li&gt; &lt;li&gt;Understanding of Salesforce APIs (REST, Apex, RLM/CPQ)&lt;/li&gt; &lt;li&gt;Experience with event-driven architectures (webhooks, CDC, async processing)&lt;/li&gt; &lt;li&gt;Knowledge of CI/CD pipelines and DevOps practices&lt;/li&gt; &lt;li&gt;Experience with Databricks platform and Mosaic AI&lt;/li&gt; &lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&lt;strong&gt;About Databricks&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-family: arial, sans-serif;&quot;&gt;Databricks is the Data and AI company. More than 20,000 organizations worldwide — including adidas, AT&amp;amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 — rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on &lt;a href=&quot;https://www.linkedin.com/company/databricks&quot;&gt;LinkedIn&lt;/a&gt;, &lt;a href=&quot;https://x.com/databricks&quot;&gt;X&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/@Databricks&quot;&gt;YouTube&lt;/a&gt;, and &lt;a href=&quot;https://www.instagram.com/databricksinc/?hl=en&quot;&gt;Instagram&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;strong&gt;Benefits&lt;br&gt;&lt;br&gt;&lt;/strong&gt;&lt;/span&gt;At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region click &lt;a href=&quot;https://docs.google.com/document/d/154un3e8Xav4BceOSlcYFZRGEuQI54xMxVydRwQn54eQ/edit?usp=sharing&quot;&gt;here&lt;/a&gt;.&lt;br&gt;&lt;br&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Our Commitment to Diversity and Inclusion&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Compliance&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;If access to export-controlled technology or source code is required for performance of job duties, it is within Employer&#39;s discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone.&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;"
+  },
+  {
+    "company": "Swiggy",
+    "role": "Golang Developer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-442952-golang-developer-at-swiggy-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "Golang, Microservices, PostgreSQL, Kafka, RabbitMQ, MongoDB"
+  },
+  {
+    "company": "Bespoke Technologies",
+    "role": "Forward Deployed Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-438266-forward-deployed-engineer-at-bespoke-technologies-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "APIs, HTML, LLMs, Python, React.js, SQL, Stakeholder Management, AWS, CI / CD, Customer Service, Django, Flask, Google Cloud (GCP), JavaScript, OpenAI, Vector Databases"
+  },
+  {
+    "company": "Accenture",
+    "role": "Custom Software Engineer",
+    "location": "Bangalore,Hyderabad,Pune",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-439498-custom-software-engineer-at-accenture-2-bangalore-hyderabad-pune/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "Java, REST, RESTful, Spring Boot"
+  },
+  {
+    "company": "Infosys",
+    "role": "Java Developer",
+    "location": "Bangalore,Hyderabad,Noida",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-441433-java-developer-at-infosys-4-bangalore-hyderabad-noida/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "Java, Hibernate, Spring"
+  },
+  {
+    "company": "Amazon",
+    "role": "Software Development Engineer 2",
+    "location": "Gurgaon",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-442718-software-development-engineer-2-at-amazon-gurgaon/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "Go, Java, Node, Python, RDBMS, SQL, TypeScript, backend, relational database"
+  },
+  {
+    "company": "SecurITe",
+    "role": "Platform Engineer (Cybersecurity Platform)",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-442793-platform-engineer-cybersecurity-platform-at-securite-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "almalinux, ansible, aws, bash, centos, docker, ec2, iam, linux, python, rhel, terraform, vpc"
+  },
+  {
+    "company": "E2E Networks",
+    "role": "AI Engineer",
+    "location": "Bangalore,Delhi",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-442764-ai-engineer-at-e2e-networks-bangalore-delhi/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "JavaScript, Python, FastAPI, Node.js"
+  }
+]

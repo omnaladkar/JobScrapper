@@ -1,0 +1,47 @@
+# Daily Job Report - 2026-09-13
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 8
+
+1. Databricks - Sr Full Stack Developer (AI Agents)
+   Location: Bengaluru, India
+   Score: 60/100
+   Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=8679982002
+
+2. Amazon - Software Development Engineer 2
+   Location: Gurgaon
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-442718-software-development-engineer-2-at-amazon-gurgaon/
+
+3. Accenture - Custom Software Engineer
+   Location: Bangalore,Hyderabad,Pune
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-439498-custom-software-engineer-at-accenture-2-bangalore-hyderabad-pune/
+
+4. Infosys - Java Developer
+   Location: Bangalore,Hyderabad,Noida
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-441433-java-developer-at-infosys-4-bangalore-hyderabad-noida/
+
+5. Swiggy - Golang Developer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-442952-golang-developer-at-swiggy-bangalore/
+
+6. Bespoke Technologies - Forward Deployed Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-438266-forward-deployed-engineer-at-bespoke-technologies-bangalore/
+
+7. SecurITe - Platform Engineer (Cybersecurity Platform)
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-442793-platform-engineer-cybersecurity-platform-at-securite-bangalore/
+
+8. E2E Networks - AI Engineer
+   Location: Bangalore,Delhi
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-442764-ai-engineer-at-e2e-networks-bangalore-delhi/
+
+Generated at: 2026-09-13T07:38:44.334207
