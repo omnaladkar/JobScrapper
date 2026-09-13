@@ -56,8 +56,9 @@ jobs:
 
       - name: Deploy the product to Vercel (optional)
         if: env.VERCEL_TOKEN != ''
+        working-directory: product
         env:
           VERCEL_TOKEN: ${{ secrets.VERCEL_TOKEN }}
           VERCEL_ORG_ID: ${{ secrets.VERCEL_ORG_ID }}
           VERCEL_PROJECT_ID: ${{ secrets.VERCEL_PROJECT_ID }}
-        run: npx vercel deploy --prod --yes --force --token "$VERCEL_TOKEN"
+        run: npx vercel deploy --prod --yes --force --token "$VERCEL_TOKEN" --alias product-gold-nu.vercel.app
