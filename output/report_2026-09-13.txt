@@ -1,12 +1,1 @@
-# Daily Job Report - 2026-09-13
-
-Looking back 3 days (score >= 30)
-
-Total new jobs found: 1
-
-1. Big Assets Infra - Backend Developer
-   Location: Gurgaon
-   Score: 70/100
-   Apply: https://www.instahyre.com/job-426596-backend-developer-at-big-assets-infra-gurgaon/
-
-Generated at: 2026-09-13T09:41:17.588728
+No new jobs found today.
