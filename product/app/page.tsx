@@ -1,4 +1,5 @@
 import Link from "next/link";
+import LiveJobCount from "@/components/LiveJobCount";
 
 const FEATURES = [
   {
@@ -38,7 +39,9 @@ export default function Home() {
             Score any job description
           </Link>
         </div>
-        <p className="mt-4 text-sm text-slate-400">Free forever · 400+ real jobs · no account needed</p>
+        <p className="mt-4 text-sm text-slate-400">
+          Free forever · <LiveJobCount /> · no account needed
+        </p>
       </section>
 
       {/* How it works */}
