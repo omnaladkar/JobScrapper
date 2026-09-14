@@ -1,0 +1,32 @@
+# Daily Job Report - 2026-09-14
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 5
+
+1. Accenture - Full Stack Development - Java
+   Location: Chennai,Gurgaon,Mumbai
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-441134-full-stack-development-java-at-accenture-2-chennai-gurgaon-mumbai/
+
+2. Meraki Labs - AI Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-434260-ai-engineer-at-meraki-labs-bangalore/
+
+3. OpenFX - L2 SDET Engineer
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-415540-l2-sdet-engineer-at-openfx-bangalore/
+
+4. Deutsche Telekom Digital Labs - Software Engineer 2
+   Location: Gurgaon
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-437166-software-engineer-2-at-deutsche-telekom-digital-labs-gurgaon/
+
+5. Infosys - Playwright Automation Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-442972-playwright-automation-engineer-at-infosys-4-bangalore/
+
+Generated at: 2026-09-14T08:04:47.612887
