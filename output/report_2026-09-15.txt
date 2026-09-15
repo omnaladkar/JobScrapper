@@ -1,0 +1,97 @@
+# Daily Job Report - 2026-09-15
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 18
+
+1. Goldman Sachs - Software Engineer
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-402483-software-engineer-at-goldman-sachs-bangalore/
+
+2. Tata Consultancy Services - Core Java Developer
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-443047-core-java-developer-at-tata-consultancy-services-bangalore/
+
+3. Skyfall AI - Founding Engineer
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-439541-founding-engineer-at-skyfall-ai-bangalore/
+
+4. Neander - Founding Engineer
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-442991-founding-engineer-at-neander-bangalore/
+
+5. Marketnode - Fullstack Engineer
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-442647-fullstack-engineer-at-marketnode-bangalore/
+
+6. NuPlay AI - Software Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-439360-software-engineer-at-nuplay-ai-bangalore/
+
+7. ConveGenius - SDE II - Node.js
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-442837-sde-ii-node-js-at-convegenius-bangalore/
+
+8. Nexthink - Backend Engineer (AI)
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-395177-backend-engineer-ai-at-nexthink-bangalore/
+
+9. Kotak811 - SDE 3 - - Backend Developer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-411033-sde-3-backend-developer-at-kotak811-bangalore/
+
+10. NuPlay AI - Machine Learning Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-441283-machine-learning-engineer-at-nuplay-ai-bangalore/
+
+11. Microsoft - Software Engineer II
+   Location: Telangana, Hyderabad, India
+   Score: 35/100
+   Apply: https://apply.careers.microsoft.com/careers/job/1970393556991552
+
+12. Deutsche Telekom Digital Labs - Software Engineer 2
+   Location: Gurgaon
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-437918-software-engineer-2-at-deutsche-telekom-digital-labs-gurgaon/
+
+13. GreyOrange - SDE 2
+   Location: Gurgaon
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-441189-sde-2-at-greyorange-2-gurgaon/
+
+14. Accenture - Custom Software Engineer - Full - Stack
+   Location: Chennai
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-440507-custom-software-engineer-full-stack-at-accenture-2-chennai/
+
+15. Northstar Quant - Backend Engineer - Python
+   Location: Mumbai
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-440124-backend-engineer-python-at-northstar-quant-mumbai/
+
+16. HDFC Credila Financial Services - Full Stack Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-435044-full-stack-engineer-at-hdfc-credila-financial-services-2-bangalore/
+
+17. neuroGrid - Applied AI Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-408891-applied-ai-engineer-at-neurogrid-bangalore/
+
+18. Omnissa - SMTS - Java
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-373922-smts-java-at-omnissa-bangalore/
+
+Generated at: 2026-09-15T07:59:58.096346

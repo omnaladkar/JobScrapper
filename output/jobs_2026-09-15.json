@@ -1,0 +1,200 @@
+[
+  {
+    "company": "Microsoft",
+    "role": "Software Engineer II",
+    "location": "Telangana, Hyderabad, India",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556991552",
+    "source": "careerpage",
+    "match_score": 35,
+    "description": ""
+  },
+  {
+    "company": "Skyfall AI",
+    "role": "Founding Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-439541-founding-engineer-at-skyfall-ai-bangalore/",
+    "source": "instahyre",
+    "match_score": 50,
+    "description": "API, APIs, AWS, Azure, GCP, Go, Java, Node.js, NodeJS, Python, REST"
+  },
+  {
+    "company": "NuPlay AI",
+    "role": "Software Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-439360-software-engineer-at-nuplay-ai-bangalore/",
+    "source": "instahyre",
+    "match_score": 45,
+    "description": "aws, azure, gcp, next.js, nextjs, node.js, nodejs, python, react, react.js"
+  },
+  {
+    "company": "Goldman Sachs",
+    "role": "Software Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-402483-software-engineer-at-goldman-sachs-bangalore/",
+    "source": "instahyre",
+    "match_score": 55,
+    "description": "AWS, Docker, Java, Kubernetes"
+  },
+  {
+    "company": "ConveGenius",
+    "role": "SDE II - Node.js",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-442837-sde-ii-node-js-at-convegenius-bangalore/",
+    "source": "instahyre",
+    "match_score": 45,
+    "description": "Node.js, JavaScript, Express.js, Algorithms, Data Structures"
+  },
+  {
+    "company": "Nexthink",
+    "role": "Backend Engineer (AI)",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-395177-backend-engineer-ai-at-nexthink-bangalore/",
+    "source": "instahyre",
+    "match_score": 45,
+    "description": "Generative AI, Kafka, LLMs, Python, Java, Spark"
+  },
+  {
+    "company": "Tata Consultancy Services",
+    "role": "Core Java Developer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-443047-core-java-developer-at-tata-consultancy-services-bangalore/",
+    "source": "instahyre",
+    "match_score": 55,
+    "description": "Angular, Java, JavaScript, Spring Boot"
+  },
+  {
+    "company": "HDFC Credila Financial Services",
+    "role": "Full Stack Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-435044-full-stack-engineer-at-hdfc-credila-financial-services-2-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "Java, JavaScript, React.js, Spring, Golang"
+  },
+  {
+    "company": "neuroGrid",
+    "role": "Applied AI Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-408891-applied-ai-engineer-at-neurogrid-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "JavaScript, Node.js, React.js, Python"
+  },
+  {
+    "company": "Kotak811",
+    "role": "SDE 3 - - Backend Developer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-411033-sde-3-backend-developer-at-kotak811-bangalore/",
+    "source": "instahyre",
+    "match_score": 45,
+    "description": "Java, Node.js, Spring, SQL, NoSQL"
+  },
+  {
+    "company": "Deutsche Telekom Digital Labs",
+    "role": "Software Engineer 2",
+    "location": "Gurgaon",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-437918-software-engineer-2-at-deutsche-telekom-digital-labs-gurgaon/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "Go, Golang, Java, Spring Boot"
+  },
+  {
+    "company": "GreyOrange",
+    "role": "SDE 2",
+    "location": "Gurgaon",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-441189-sde-2-at-greyorange-2-gurgaon/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "Erlang, Go, Golang, Java, Python, RDBMS, SQL, microservices"
+  },
+  {
+    "company": "Neander",
+    "role": "Founding Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-442991-founding-engineer-at-neander-bangalore/",
+    "source": "instahyre",
+    "match_score": 50,
+    "description": "backend, genai, generative ai, go, java, llm, llms, node.js, nodejs, python"
+  },
+  {
+    "company": "Marketnode",
+    "role": "Fullstack Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-442647-fullstack-engineer-at-marketnode-bangalore/",
+    "source": "instahyre",
+    "match_score": 50,
+    "description": "Java, React.js, AWS, Azure, APIs, Microservices, Data Structures, Algorithms, TypeScript, Spring"
+  },
+  {
+    "company": "Accenture",
+    "role": "Custom Software Engineer - Full - Stack",
+    "location": "Chennai",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-440507-custom-software-engineer-full-stack-at-accenture-2-chennai/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "Agent AI, Agentic AI, AI agents, AI-assisted development, Angular, Java Full Stack, Java Fullstack, React, Vue.js"
+  },
+  {
+    "company": "NuPlay AI",
+    "role": "Machine Learning Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-441283-machine-learning-engineer-at-nuplay-ai-bangalore/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "aws, azure, gcp, next.js, node.js, nodejs, python, react, react.js"
+  },
+  {
+    "company": "Northstar Quant",
+    "role": "Backend Engineer - Python",
+    "location": "Mumbai",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-440124-backend-engineer-python-at-northstar-quant-mumbai/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "Python, Kafka, APIs"
+  },
+  {
+    "company": "Omnissa",
+    "role": "SMTS - Java",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-373922-smts-java-at-omnissa-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "Java, Hibernate, J2EE, Spring, Struts"
+  }
+]
