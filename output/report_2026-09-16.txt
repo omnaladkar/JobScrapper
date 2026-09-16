@@ -1,0 +1,102 @@
+# Daily Job Report - 2026-09-16
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 19
+
+1. MongoDB - Forward Deployed Engineer, Industry Solutions
+   Location: Gurugram
+   Score: 90/100
+   Apply: https://www.mongodb.com/careers/job/?gh_jid=8153125
+
+2. InMobi - SDE 3 (Glance)
+   Location: Bangalore
+   Score: 75/100
+   Apply: https://www.instahyre.com/job-416233-sde-3-glance-at-inmobi-bangalore/
+
+3. Okta - Software Engineer - Fullstack 
+   Location: Bengaluru, India
+   Score: 65/100
+   Apply: https://www.okta.com/company/careers/opportunity/8203483?gh_jid=8203483
+
+4. TARA AI Labs - Founding Software Engineer
+   Location: Bangalore
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-433785-founding-software-engineer-at-tara-ai-labs-bangalore/
+
+5. InMobi - Product Software Engineer II - (1071)
+   Location: Bangalore
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-436977-product-software-engineer-ii-1071-at-inmobi-bangalore/
+
+6. Deutsche Telekom Digital Labs - Backend Developer - Java
+   Location: Gurgaon
+   Score: 60/100
+   Apply: https://www.instahyre.com/job-425499-backend-developer-java-at-deutsche-telekom-digital-labs-gurgaon/
+
+7. MongoDB - Software Engineer 2
+   Location: Gurugram
+   Score: 55/100
+   Apply: https://www.mongodb.com/careers/job/?gh_jid=7922676
+
+8. Divisions Maintenance Group - Java Developer
+   Location: Bangalore,Gurgaon
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-428176-java-developer-at-divisions-maintenance-group-bangalore-gurgaon/
+
+9. NuPlay AI - Software Engineer (Backend)
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-442568-software-engineer-backend-at-nuplay-ai-bangalore/
+
+10. NuPlay AI - Software Engineer
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-439750-software-engineer-at-nuplay-ai-bangalore/
+
+11. Okta - Cloud Engineer 
+   Location: Bengaluru, India
+   Score: 50/100
+   Apply: https://www.okta.com/company/careers/opportunity/8003315?gh_jid=8003315
+
+12. Purplle - Backend Engineer
+   Location: Pune
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-441552-backend-engineer-at-purplle-pune/
+
+13. Diagna - Founding Backend Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-433446-founding-backend-engineer-at-diagna-bangalore/
+
+14. Wissen Technology - Java Developer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-443034-java-developer-at-wissen-technology-bangalore/
+
+15. CredAble - Full - Stack Engineer
+   Location: Noida,Pune
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-435573-full-stack-engineer-at-credable-noida-pune/
+
+16. Diagna - Full Stack Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-433619-full-stack-engineer-at-diagna-bangalore/
+
+17. Capslock Marketplaces - Software Development Engineer II (Backend)
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-443233-software-development-engineer-ii-backend-at-capslock-marketplaces-bangalore/
+
+18. SenSei Technologies - Software Engineer
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-442479-software-engineer-at-sensei-technologies-bangalore/
+
+19. StarRez - Fullstack Developer
+   Location: Hyderabad
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-440416-fullstack-developer-at-starrez-hyderabad/
+
+Generated at: 2026-09-16T07:52:35.883118
