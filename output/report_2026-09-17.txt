@@ -1,0 +1,82 @@
+# Daily Job Report - 2026-09-17
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 15
+
+1. Okta - Solution Engineer
+   Location: Bengaluru, India
+   Score: 70/100
+   Apply: https://www.okta.com/company/careers/opportunity/6839581?gh_jid=6839581
+
+2. CRED - SDE - III
+   Location: Bangalore
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-443443-sde-iii-at-cred-bangalore/
+
+3. Amazon - SDE - 2 (Full - Stack)
+   Location: Mumbai
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-443379-sde-2-full-stack-at-amazon-mumbai/
+
+4. Auquan - Backend Engineer
+   Location: Bangalore
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-372318-backend-engineer-at-auquan-bangalore/
+
+5. Matters - SDE 4 - Backend
+   Location: Bangalore
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-441993-sde-4-backend-at-matters-bangalore/
+
+6. Aitainment - Founding Backend Engineer - Golang
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-436828-founding-backend-engineer-golang-at-aitainment-bangalore/
+
+7. Target in India - Java Developer
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-435242-java-developer-at-target-in-india-bangalore/
+
+8. Aspora - SDE 3 / 4 - Backend
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-400690-sde-3-4-backend-at-aspora-bangalore/
+
+9. Connect and Heal - Full Stack AI Engineer
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-443351-full-stack-ai-engineer-at-connect-and-heal-bangalore/
+
+10. Bluno - Software Development Engineer 2
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-443214-software-development-engineer-2-at-bluno-bangalore/
+
+11. TopDoc - Full - Stack Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-433177-full-stack-engineer-at-topdoc-bangalore/
+
+12. CoinDCX - Software Development Engineer - 1 DevOps
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-442622-software-development-engineer-1-devops-at-coindcx-bangalore/
+
+13. Bridgetown Research - SDE - 3
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-429591-sde-3-at-bridgetown-research-bangalore/
+
+14. Vee Healthtek - Quality Engineer
+   Location: Chennai,Salem
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-443422-quality-engineer-at-vee-healthtek-chennai-salem/
+
+15. GeoServe - Full - Stack Developer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-415260-full-stack-developer-at-geoserve-bangalore/
+
+Generated at: 2026-09-17T07:57:03.060713
