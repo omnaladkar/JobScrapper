@@ -1,0 +1,112 @@
+# Daily Job Report - 2026-09-18
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 21
+
+1. Uber - Backend Engineer
+   Location: Bangalore
+   Score: 85/100
+   Apply: https://www.instahyre.com/job-421607-backend-engineer-at-uber-bangalore/
+
+2. Oolka - SDE2
+   Location: Bangalore
+   Score: 75/100
+   Apply: https://www.instahyre.com/job-443186-sde2-at-oolka-bangalore/
+
+3. DevRev - Forward Deployed Engineer {Chennai}
+   Location: Chennai, India
+   Score: 70/100
+   Apply: https://job-boards.greenhouse.io/devrev/jobs/6196802004
+
+4. DevRev - Forward Deployed Engineer {Mumbai}
+   Location: Mumbai, India
+   Score: 70/100
+   Apply: https://job-boards.greenhouse.io/devrev/jobs/6196801004
+
+5. Zed Mobility - Software Engineer - DevOps
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-443582-software-engineer-devops-at-zed-mobility-bangalore/
+
+6. Target in India - Development Engineer - Java + AI
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-443641-development-engineer-java-plus-ai-at-target-in-india-bangalore/
+
+7. Flywl - Founding Product Engineer
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-443473-founding-product-engineer-at-flywl-bangalore/
+
+8. Planview - Software Engineer II
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-443467-software-engineer-ii-at-planview-bangalore/
+
+9. Synapsewave Innovations - SDE 4 - Backend
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-396341-sde-4-backend-at-synapsewave-innovations-bangalore/
+
+10. Adobe - Fullstack Developer - AI
+   Location: Noida
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-423997-fullstack-developer-ai-at-adobe-noida/
+
+11. Mahindra Group - Azure Developer
+   Location: Mumbai
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-443586-azure-developer-at-mahindra-group-mumbai/
+
+12. DAT Freight & Analytics - Software Developer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-443438-software-developer-at-dat-freight-analytics-bangalore/
+
+13. Big Assets Infra - Fullstack Developer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-440701-fullstack-developer-at-big-assets-infra-bangalore/
+
+14. New Relic - Associate Software Engineer- Infrastructure
+   Location: Atlanta, Georgia, USA; Charleston, South Carolina, USA; Charlotte, North Carolina, USA; Chicago, Illinois, USA; Columbus, Ohio, USA; Dallas, Texas, USA; Denver, Colorado, USA; Detroit, Michigan, USA; Houston, Texas, USA; Indianapolis, Indiana, USA; Las Vegas, Nevada, USA; Madison, Wisconsin, USA; Orlando, Florida, USA; Phoenix, Arizona, USA; Pittsburgh, Pennsylvania, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA; St. Louis, Missouri, USA
+   Score: 35/100
+   Apply: https://job-boards.greenhouse.io/newrelic/jobs/5294386008
+
+15. Microsoft - Software Engineer II
+   Location: Telangana, Hyderabad, India
+   Score: 35/100
+   Apply: https://apply.careers.microsoft.com/careers/job/1970393556995619
+
+16. Prismforce - SDET II
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-443513-sdet-ii-at-prismforce-bangalore/
+
+17. CapsLock - Golang Developer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-443238-golang-developer-at-capslock-bangalore/
+
+18. TechnoIdentity - Full - Stack Developer
+   Location: Hyderabad
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-443629-full-stack-developer-at-technoidentity-hyderabad/
+
+19. Deutsche Telekom Digital Labs - Mobile Testing Engineer - AI
+   Location: Gurgaon
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-425955-mobile-testing-engineer-ai-at-deutsche-telekom-digital-labs-gurgaon/
+
+20. Clear - Customer Success Engineer
+   Location: Mumbai
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-443497-customer-success-engineer-at-clear-mumbai/
+
+21. axiTrust - Fullstack Engineer
+   Location: Gurgaon
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-430049-fullstack-engineer-at-axitrust-gurgaon/
+
+Generated at: 2026-09-18T07:35:38.582143
