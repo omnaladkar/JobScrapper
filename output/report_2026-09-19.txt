@@ -1,0 +1,102 @@
+# Daily Job Report - 2026-09-19
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 19
+
+1. Intellect Design Arena - Node.js Developer
+   Location: Hyderabad
+   Score: 80/100
+   Apply: https://www.instahyre.com/job-438112-node-js-developer-at-intellect-design-arena-hyderabad/
+
+2. DMG Companies - Backend Engineer
+   Location: Bangalore,Gurgaon
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-428075-backend-engineer-at-dmg-companies-bangalore-gurgaon/
+
+3. OmneNEST Technologies - SDE 2 / 3 (Backend)
+   Location: Mumbai
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-443565-sde-2-3-backend-at-omnenest-technologies-mumbai/
+
+4. Intel - Node.js Developer
+   Location: Hyderabad
+   Score: 60/100
+   Apply: https://www.instahyre.com/job-443569-node-js-developer-at-intel-2-hyderabad/
+
+5. EPAM Systems - Backend Developer - Java Dsalgo
+   Location: Hyderabad
+   Score: 60/100
+   Apply: https://www.instahyre.com/job-443468-backend-developer-java-dsalgo-at-epam-systems-hyderabad/
+
+6. Scope Retail Systems - Java Developer
+   Location: Pune
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-219174-java-developer-at-scope-retail-systems-pune/
+
+7. Workato - Customer Centric Engineer (EMEA Market)
+   Location: Hyderabad, India
+   Score: 50/100
+   Apply: https://www.workato.com/careers?gh_jid=8570118002#open-roles
+
+8. Big Assets Infra - SSE - Full Stack (AI)
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-431085-sse-full-stack-ai-at-big-assets-infra-bangalore/
+
+9. Skyfall AI - SSE - Backend
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-443640-sse-backend-at-skyfall-ai-bangalore/
+
+10. HDFC Credila Financial Services - Backend Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-366582-backend-engineer-at-hdfc-credila-financial-services-2-bangalore/
+
+11. HDFC Credila Financial Services - Backend Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-366656-backend-engineer-at-hdfc-credila-financial-services-2-bangalore/
+
+12. Hinduja Tech - Mid - Level Full Stack Developer
+   Location: Pune
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-443708-mid-level-full-stack-developer-at-hinduja-tech-pune/
+
+13. Walmart Global Tech India - Java API Gateway Developer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-442566-java-api-gateway-developer-at-walmart-global-tech-india-bangalore/
+
+14. Star Health and Allied Insurance - QA Manual Engineer
+   Location: Chennai
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-443575-qa-manual-engineer-at-star-health-and-allied-insurance-chennai/
+
+15. Piramal Finance Limited - SDE II
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-441943-sde-ii-at-piramal-finance-limited-bangalore/
+
+16. Piramal Finance Limited - SDE 1 - AI
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-417085-sde-1-ai-at-piramal-finance-limited-bangalore/
+
+17. Atlas Lab - Mobile Application Developer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-433354-mobile-application-developer-at-atlas-lab-bangalore/
+
+18. Slikk - Backend Developer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-420106-backend-developer-at-slikk-bangalore/
+
+19. GreyOrange - Software Development Engineer II
+   Location: Gurgaon
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-443257-software-development-engineer-ii-at-greyorange-2-gurgaon/
+
+Generated at: 2026-09-19T07:31:15.531611
