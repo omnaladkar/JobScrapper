@@ -1,0 +1,42 @@
+# Daily Job Report - 2026-09-20
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 7
+
+1. KLA-Tencor - Full Stack Developer - Java
+   Location: Chennai
+   Score: 70/100
+   Apply: https://www.instahyre.com/job-437676-full-stack-developer-java-at-kla-tencor-chennai/
+
+2. Deutsche Telekom Digital Labs - Backend Developer - Java
+   Location: Bangalore
+   Score: 60/100
+   Apply: https://www.instahyre.com/job-431643-backend-developer-java-at-deutsche-telekom-digital-labs-bangalore/
+
+3. KLA-Tencor - Java Developer
+   Location: Chennai
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-437468-java-developer-at-kla-tencor-chennai/
+
+4. Highradius - Software Development Engineer
+   Location: Hyderabad
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-439467-software-development-engineer-at-highradius-hyderabad/
+
+5. DIVA India - Golang Developer - Angular
+   Location: Pune
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-441441-golang-developer-angular-at-diva-india-pune/
+
+6. Huru - AI Engineer
+   Location: Delhi,Noida
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-443761-ai-engineer-at-huru-delhi-noida/
+
+7. InMobi - Product Development Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-439495-product-development-engineer-at-inmobi-bangalore/
+
+Generated at: 2026-09-20T07:54:39.778256

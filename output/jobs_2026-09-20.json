@@ -1,0 +1,79 @@
+[
+  {
+    "company": "Highradius",
+    "role": "Software Development Engineer",
+    "location": "Hyderabad",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-439467-software-development-engineer-at-highradius-hyderabad/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "Java, Spring Boot, Microservices, LLD, Data Structures, Algorithms"
+  },
+  {
+    "company": "KLA-Tencor",
+    "role": "Java Developer",
+    "location": "Chennai",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-437468-java-developer-at-kla-tencor-chennai/",
+    "source": "instahyre",
+    "match_score": 55,
+    "description": "Java, Spring Boot, Microservices, Data Structures, Multithreading, Algorithms"
+  },
+  {
+    "company": "KLA-Tencor",
+    "role": "Full Stack Developer - Java",
+    "location": "Chennai",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-437676-full-stack-developer-java-at-kla-tencor-chennai/",
+    "source": "instahyre",
+    "match_score": 70,
+    "description": "Angular, Docker, Java, JavaScript, Kubernetes, Spring Boot, Algorithms, Data Structures"
+  },
+  {
+    "company": "Deutsche Telekom Digital Labs",
+    "role": "Backend Developer - Java",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-431643-backend-developer-java-at-deutsche-telekom-digital-labs-bangalore/",
+    "source": "instahyre",
+    "match_score": 60,
+    "description": "Java, Spring Boot, microservices"
+  },
+  {
+    "company": "Huru",
+    "role": "AI Engineer",
+    "location": "Delhi,Noida",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-443761-ai-engineer-at-huru-delhi-noida/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "ASR, Conversational AI, Fine Tuning, GPT, GenAI, Generative AI, Java, LLM, LoRA, Prompt Engineering, STT, Speech to Text, Voice AI, backend, chatbot, prompt, tuning"
+  },
+  {
+    "company": "InMobi",
+    "role": "Product Development Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-439495-product-development-engineer-at-inmobi-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "Databricks, AWS, CI / CD, Data Warehousing, GitHub, Jenkins, Kubernetes, Python, Snowflake, Terraform"
+  },
+  {
+    "company": "DIVA India",
+    "role": "Golang Developer - Angular",
+    "location": "Pune",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-441441-golang-developer-angular-at-diva-india-pune/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "API Gateway, AWS, Angular, AngularJS, CloudWatch, Go, Golang, Lambda, S3, TypeScript, serverless"
+  }
+]
