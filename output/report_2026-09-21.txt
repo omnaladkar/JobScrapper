@@ -1,0 +1,72 @@
+# Daily Job Report - 2026-09-21
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 13
+
+1. Bazaarvoice - Software Engineer
+   Location: Bangalore
+   Score: 75/100
+   Apply: https://www.instahyre.com/job-441469-software-engineer-at-bazaarvoice-bangalore/
+
+2. InMobi - Product Development Engineer II (1060)
+   Location: Bangalore
+   Score: 70/100
+   Apply: https://www.instahyre.com/job-436083-product-development-engineer-ii-1060-at-inmobi-bangalore/
+
+3. Khatabook - SDE II - Fullstack
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-420449-sde-ii-fullstack-at-khatabook-bangalore/
+
+4. UBDS Digital - Software Engineer
+   Location: Chennai
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-443826-software-engineer-at-ubds-digital-chennai/
+
+5. Kotak811 - Software Development Engineer II
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-410743-software-development-engineer-ii-at-kotak811-bangalore/
+
+6. OpenFX - Backend Developer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-437641-backend-developer-at-openfx-bangalore/
+
+7. ScaleOrange Technologies - Full Stack Developer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-442007-full-stack-developer-at-scaleorange-technologies-bangalore/
+
+8. Wooqer - Software Development Engineer II
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-442386-software-development-engineer-ii-at-wooqer-2-bangalore/
+
+9. Amazon - SDET II
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-443786-sdet-ii-at-amazon-bangalore/
+
+10. Deutsche Telekom Digital Labs - AI Backend Engineer
+   Location: Gurgaon
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-431944-ai-backend-engineer-at-deutsche-telekom-digital-labs-gurgaon/
+
+11. GoComet - Fullstack AI Engineer
+   Location: Bangalore,Noida
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-422266-fullstack-ai-engineer-at-gocomet-3-bangalore-noida/
+
+12. OneShot AI - AI / ML Engineer
+   Location: Noida
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-428756-ai-ml-engineer-at-oneshot-ai-noida/
+
+13. Hevo Data - Business System Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-443580-business-system-engineer-at-hevo-data-bangalore/
+
+Generated at: 2026-09-21T08:10:09.369904

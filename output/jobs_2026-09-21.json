@@ -1,0 +1,145 @@
+[
+  {
+    "company": "Khatabook",
+    "role": "SDE II - Fullstack",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-420449-sde-ii-fullstack-at-khatabook-bangalore/",
+    "source": "instahyre",
+    "match_score": 55,
+    "description": "Full-Stack, Fullstack, Java, Next.js, Node.js, React, Spring, TypeScript"
+  },
+  {
+    "company": "OpenFX",
+    "role": "Backend Developer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-437641-backend-developer-at-openfx-bangalore/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": ".NET, Golang, Java, Node.js, Python"
+  },
+  {
+    "company": "UBDS Digital",
+    "role": "Software Engineer",
+    "location": "Chennai",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-443826-software-engineer-at-ubds-digital-chennai/",
+    "source": "instahyre",
+    "match_score": 55,
+    "description": "Java, Spring Boot, React.js, JavaScript, MongoDB, SQL, PostgreSQL, MySQL"
+  },
+  {
+    "company": "InMobi",
+    "role": "Product Development Engineer II (1060)",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-436083-product-development-engineer-ii-1060-at-inmobi-bangalore/",
+    "source": "instahyre",
+    "match_score": 70,
+    "description": "React.js, AWS, CI / CD, Docker, Java, JavaScript, Kubernetes, Next.js, Python, TypeScript"
+  },
+  {
+    "company": "Amazon",
+    "role": "SDET II",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-443786-sdet-ii-at-amazon-bangalore/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "JavaScript, Playwright, QA, SDET, TypeScript, test automation"
+  },
+  {
+    "company": "Deutsche Telekom Digital Labs",
+    "role": "AI Backend Engineer",
+    "location": "Gurgaon",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-431944-ai-backend-engineer-at-deutsche-telekom-digital-labs-gurgaon/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "AWS, ChromaDB, FAISS, FastAPI, LLM, LangChain, LangGraph, Pinecone, Python, RAG, Weaviate"
+  },
+  {
+    "company": "GoComet",
+    "role": "Fullstack AI Engineer",
+    "location": "Bangalore,Noida",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-422266-fullstack-ai-engineer-at-gocomet-3-bangalore-noida/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "ClickHouse, Debezium, FastAPI, Kafka, LLM, LLMs, LangGraph, Node.js, Python, RAG, React, React.js, Temporal, Weaviate, dbt"
+  },
+  {
+    "company": "OneShot AI",
+    "role": "AI / ML Engineer",
+    "location": "Noida",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-428756-ai-ml-engineer-at-oneshot-ai-noida/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "Airflow, FastAPI, Generative AI, Go, Java, Kubeflow, LLM, Node.js, Python, RAG, TorchServe, Triton, Vector Databases, semantic search"
+  },
+  {
+    "company": "ScaleOrange Technologies",
+    "role": "Full Stack Developer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-442007-full-stack-developer-at-scaleorange-technologies-bangalore/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "AWS, Django, Docker, Flask, Kubernetes, Next.js, Python, React, React.js"
+  },
+  {
+    "company": "Wooqer",
+    "role": "Software Development Engineer II",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-442386-software-development-engineer-ii-at-wooqer-2-bangalore/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "android, backend, elasticsearch, hibernate, ios, java, kotlin, mvvm, mysql, rest, spring, swift, web"
+  },
+  {
+    "company": "Bazaarvoice",
+    "role": "Software Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-441469-software-engineer-at-bazaarvoice-bangalore/",
+    "source": "instahyre",
+    "match_score": 75,
+    "description": "AWS, Docker, Java, Kafka, MySQL, PostgreSQL, Spring, Spring Boot"
+  },
+  {
+    "company": "Kotak811",
+    "role": "Software Development Engineer II",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-410743-software-development-engineer-ii-at-kotak811-bangalore/",
+    "source": "instahyre",
+    "match_score": 50,
+    "description": "Java, Microservices, Spring Boot, Node.js, Spring"
+  },
+  {
+    "company": "Hevo Data",
+    "role": "Business System Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-443580-business-system-engineer-at-hevo-data-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "JavaScript, Python, TypeScript"
+  }
+]
