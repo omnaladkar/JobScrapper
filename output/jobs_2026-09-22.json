@@ -1,0 +1,123 @@
+[
+  {
+    "company": "Meraki Labs",
+    "role": "Fullstack Developer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-444022-fullstack-developer-at-meraki-labs-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "fastapi, javascript, python, react, react.js, typescript"
+  },
+  {
+    "company": "Accenture",
+    "role": "Application Developer - Spring Boot",
+    "location": "Bangalore,Gurgaon,Kolkata",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-443986-application-developer-spring-boot-at-accenture-2-bangalore-gurgaon-kolkata/",
+    "source": "instahyre",
+    "match_score": 50,
+    "description": "api, java, rest, rest api, spring boot"
+  },
+  {
+    "company": "Aegion AI",
+    "role": "Full - Stack Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-443947-full-stack-engineer-at-aegion-ai-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "backend, c++, genai, generative ai, go, golang, java, llm, llms, python"
+  },
+  {
+    "company": "Fam",
+    "role": "Infra Engineer - DevOps",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-443906-infra-engineer-devops-at-fam-bangalore/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "Amazon EKS, AWS, CI / CD, Kubernetes, Cloud Computing, Containers, Datadog, DevOps, Docker, Elasticsearch, GitHub Actions, GitLab, Grafana, Jenkins, Linux, Monitoring, Prometheus, Python, Reliability Engineering, Shell Scripting, Terraform"
+  },
+  {
+    "company": "Wissen Technology",
+    "role": "Fullstack Developer - Java",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-443966-fullstack-developer-java-at-wissen-technology-bangalore/",
+    "source": "instahyre",
+    "match_score": 50,
+    "description": "Core Java, Full Stack, Full-Stack Development, Java, Java 8, JavaScript, React, React.js, Spring Boot"
+  },
+  {
+    "company": "InMobi",
+    "role": "Product Software Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-423484-product-software-engineer-at-inmobi-bangalore/",
+    "source": "instahyre",
+    "match_score": 45,
+    "description": "AWS, LLMs, Python, React.js, Azure, CI / CD, Generative AI, JavaScript, Kafka, Next.js, SQL"
+  },
+  {
+    "company": "McKesson Compile",
+    "role": "Software Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-443769-software-engineer-at-mckesson-compile-bangalore/",
+    "source": "instahyre",
+    "match_score": 45,
+    "description": "APIs, Hibernate, Java, Microservices, React.js, Spring Boot"
+  },
+  {
+    "company": "Newpage Solutions",
+    "role": "Forward Deployed Engineer",
+    "location": "Chennai",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-423151-forward-deployed-engineer-at-newpage-solutions-chennai/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "JavaScript, LLM, Python, RAG, Terraform, TypeScript, pandas, scikit-learn"
+  },
+  {
+    "company": "FiduraAI",
+    "role": "Backend Engineer",
+    "location": "Mumbai",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-443929-backend-engineer-at-fiduraai-mumbai/",
+    "source": "instahyre",
+    "match_score": 55,
+    "description": "AWS, Azure, GCP, Go, Golang, Java, microservices"
+  },
+  {
+    "company": "Medanta",
+    "role": "Backend Software Engineer",
+    "location": "Noida",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-443200-backend-software-engineer-at-medanta-noida/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "Java, Python, MongoDB, Data Structures, Algorithms"
+  },
+  {
+    "company": "Juleo",
+    "role": "Full Stack Developer",
+    "location": "Gurgaon",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-408968-full-stack-developer-at-juleo-gurgaon/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "JavaScript, React.js, Golang, Python, Java, Next.js, Algorithms, Data Structures, Node.js, C++"
+  }
+]

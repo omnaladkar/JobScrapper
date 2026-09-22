@@ -1,0 +1,62 @@
+# Daily Job Report - 2026-09-22
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 11
+
+1. FiduraAI - Backend Engineer
+   Location: Mumbai
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-443929-backend-engineer-at-fiduraai-mumbai/
+
+2. Accenture - Application Developer - Spring Boot
+   Location: Bangalore,Gurgaon,Kolkata
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-443986-application-developer-spring-boot-at-accenture-2-bangalore-gurgaon-kolkata/
+
+3. Wissen Technology - Fullstack Developer - Java
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-443966-fullstack-developer-java-at-wissen-technology-bangalore/
+
+4. InMobi - Product Software Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-423484-product-software-engineer-at-inmobi-bangalore/
+
+5. McKesson Compile - Software Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-443769-software-engineer-at-mckesson-compile-bangalore/
+
+6. Fam - Infra Engineer - DevOps
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-443906-infra-engineer-devops-at-fam-bangalore/
+
+7. Juleo - Full Stack Developer
+   Location: Gurgaon
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-408968-full-stack-developer-at-juleo-gurgaon/
+
+8. Medanta - Backend Software Engineer
+   Location: Noida
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-443200-backend-software-engineer-at-medanta-noida/
+
+9. Meraki Labs - Fullstack Developer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-444022-fullstack-developer-at-meraki-labs-bangalore/
+
+10. Aegion AI - Full - Stack Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-443947-full-stack-engineer-at-aegion-ai-bangalore/
+
+11. Newpage Solutions - Forward Deployed Engineer
+   Location: Chennai
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-423151-forward-deployed-engineer-at-newpage-solutions-chennai/
+
+Generated at: 2026-09-22T07:55:26.543924
