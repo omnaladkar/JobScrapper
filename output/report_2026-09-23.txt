@@ -1,0 +1,122 @@
+# Daily Job Report - 2026-09-23
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 23
+
+1. Amazon - Backend Engineer
+   Location: Bangalore
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-444171-backend-engineer-at-amazon-bangalore/
+
+2. Amazon - Product Software Engineer - 1047 - 1059
+   Location: Bangalore
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-444072-product-software-engineer-1047-1059-at-amazon-bangalore/
+
+3. Easyship - Backend Engineer
+   Location: Bangalore
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-390720-backend-engineer-at-easyship-bangalore/
+
+4. 7-Eleven Global Solution Center - Software Engineer II
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-443642-software-engineer-ii-at-7-eleven-global-solution-center-bangalore/
+
+5. Knowl - Backend Engineer
+   Location: Mumbai
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-443839-backend-engineer-at-knowl-mumbai/
+
+6. MongoDB - Cloud Operations Engineer
+   Location: Bengaluru
+   Score: 50/100
+   Apply: https://www.mongodb.com/careers/job/?gh_jid=8184637
+
+7. Matters - Forward Deployed Engineer
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-437225-forward-deployed-engineer-at-matters-bangalore/
+
+8. Medtronic LABS - Tech Customisation Engineer
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-444067-tech-customisation-engineer-at-medtronic-labs-bangalore/
+
+9. Apptile - FDE II (Full Stack)
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-444079-fde-ii-full-stack-at-apptile-bangalore/
+
+10. PharmEasy - Software Development Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-444185-software-development-engineer-at-pharmeasy-bangalore/
+
+11. InCred Financial Services - Full - Stack Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-443701-full-stack-engineer-at-incred-financial-services-bangalore/
+
+12. Lentra.ai - Platform AI Engineer
+   Location: Pune
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-440674-platform-ai-engineer-at-lentra-pune/
+
+13. Accenture - Full Stack Developer - Java
+   Location: Gurgaon,Hyderabad,Pune
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-443912-full-stack-developer-java-at-accenture-2-gurgaon-hyderabad-pune/
+
+14. Instabase - Full - Stack Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-444105-full-stack-engineer-at-instabase-bangalore/
+
+15. Medtronic LABS - Full Stack Application Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-444018-full-stack-application-engineer-at-medtronic-labs-bangalore/
+
+16. Locus.sh - SDE - III - Backend
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-397478-sde-iii-backend-at-locus-bangalore/
+
+17. Quince - SDET - 2
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-398231-sdet-2-at-quince-bangalore/
+
+18. Accenture - Full Stack Developer (AI)
+   Location: Chennai
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-443989-full-stack-developer-ai-at-accenture-2-chennai/
+
+19. Altimate AI - AI Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-425374-ai-engineer-at-altimate-ai-bangalore/
+
+20. CapsLock - Software Development Engineer (Golang)
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-443502-software-development-engineer-golang-at-capslock-bangalore/
+
+21. Aegion AI - Backend / Fullstack Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-443954-backend-fullstack-engineer-at-aegion-ai-bangalore/
+
+22. Kore.ai - Agentic AI Engineer
+   Location: Hyderabad
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-444092-agentic-ai-engineer-at-kore-hyderabad/
+
+23. Target in India - Development Engineer (Backend + Data)
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-444132-development-engineer-backend-plus-data-at-target-in-india-bangalore/
+
+Generated at: 2026-09-23T07:57:13.691986
