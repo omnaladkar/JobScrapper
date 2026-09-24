@@ -1,0 +1,134 @@
+[
+  {
+    "company": "Aris Infra",
+    "role": "Software Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-420572-software-engineer-at-aris-infra-bangalore/",
+    "source": "instahyre",
+    "match_score": 45,
+    "description": "Node.js, NodeJS, Python, backend, distributed systems"
+  },
+  {
+    "company": "Clairvolex",
+    "role": "Fullstack Developer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-444340-fullstack-developer-at-clairvolex-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "React.js, TypeScript, Node.js"
+  },
+  {
+    "company": "Amazon",
+    "role": "Backend Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-443830-backend-engineer-at-amazon-bangalore/",
+    "source": "instahyre",
+    "match_score": 65,
+    "description": "backend, go, java, node.js, nodejs, python"
+  },
+  {
+    "company": "Postman",
+    "role": "Software Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-421891-software-engineer-at-postman-bangalore/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "JavaScript, Node.js, React.js"
+  },
+  {
+    "company": "XEBO.ai",
+    "role": "Chief Technology Officer",
+    "location": "Noida",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-426637-chief-technology-officer-at-xebo-noida/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "AI, APIs, AWS, distributed systems, Engineering Management, leadership, LLM, microservices, Stakeholder Management"
+  },
+  {
+    "company": "Kutumb",
+    "role": "Backend Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-443462-backend-engineer-at-kutumb-bangalore/",
+    "source": "instahyre",
+    "match_score": 45,
+    "description": "Golang, JavaScript, Node.js"
+  },
+  {
+    "company": "GreyOrange",
+    "role": "Software Developer",
+    "location": "Gurgaon",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-443848-software-developer-at-greyorange-2-gurgaon/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "backend, c++, distributed systems, go, java, python, system design"
+  },
+  {
+    "company": "Tesco",
+    "role": "SDE 2 - Node.js",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-413716-sde-2-node-js-at-tesco-bangalore/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "Node.js, Express.js, AWS, Azure, Google Cloud (GCP)"
+  },
+  {
+    "company": "D. E. Shaw",
+    "role": "Backend Engineer",
+    "location": "Bangalore,Gurgaon,Hyderabad",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-438809-backend-engineer-at-d-e-bangalore-gurgaon-hyderabad/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "Algorithms, C++, Data Structures, Java, Python, Scala"
+  },
+  {
+    "company": "Quince",
+    "role": "SDET II",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-398231-sdet-ii-at-quince-bangalore/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "Automation Testing, Mobile Apps Testing, Performance Testing, SDET, Security Testing, Appium, Cypress, Java, JavaScript, JMeter, Playwright, Python, Selenium"
+  },
+  {
+    "company": "Aspora",
+    "role": "Software Development Engineer - Backend",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-427617-software-development-engineer-backend-at-aspora-bangalore/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "Golang, Java, Python, Spring, Spring Boot"
+  },
+  {
+    "company": "Jumio",
+    "role": "SDE 4 - Backend",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-444190-sde-4-backend-at-jumio-bangalore/",
+    "source": "instahyre",
+    "match_score": 65,
+    "description": "AWS, Java, Kubernetes, Python, Sagemaker, Springboot"
+  }
+]

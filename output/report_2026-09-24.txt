@@ -1,0 +1,67 @@
+# Daily Job Report - 2026-09-24
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 12
+
+1. Amazon - Backend Engineer
+   Location: Bangalore
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-443830-backend-engineer-at-amazon-bangalore/
+
+2. Jumio - SDE 4 - Backend
+   Location: Bangalore
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-444190-sde-4-backend-at-jumio-bangalore/
+
+3. Aris Infra - Software Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-420572-software-engineer-at-aris-infra-bangalore/
+
+4. Kutumb - Backend Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-443462-backend-engineer-at-kutumb-bangalore/
+
+5. Aspora - Software Development Engineer - Backend
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-427617-software-development-engineer-backend-at-aspora-bangalore/
+
+6. Postman - Software Engineer
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-421891-software-engineer-at-postman-bangalore/
+
+7. Tesco - SDE 2 - Node.js
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-413716-sde-2-node-js-at-tesco-bangalore/
+
+8. D. E. Shaw - Backend Engineer
+   Location: Bangalore,Gurgaon,Hyderabad
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-438809-backend-engineer-at-d-e-bangalore-gurgaon-hyderabad/
+
+9. Quince - SDET II
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-398231-sdet-ii-at-quince-bangalore/
+
+10. Clairvolex - Fullstack Developer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-444340-fullstack-developer-at-clairvolex-bangalore/
+
+11. XEBO.ai - Chief Technology Officer
+   Location: Noida
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-426637-chief-technology-officer-at-xebo-noida/
+
+12. GreyOrange - Software Developer
+   Location: Gurgaon
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-443848-software-developer-at-greyorange-2-gurgaon/
+
+Generated at: 2026-09-24T07:47:03.965837
