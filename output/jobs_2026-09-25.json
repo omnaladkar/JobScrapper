@@ -1,0 +1,211 @@
+[
+  {
+    "company": "Turing",
+    "role": "Forward-Deployed AI Engineer",
+    "location": "Bengaluru, Karnataka, India",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://job-boards.greenhouse.io/turing/jobs/6192725004",
+    "source": "greenhouse",
+    "match_score": 30,
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h1&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 24pt;&quot;&gt;About Turing&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt; &lt;p&gt;&lt;span id=&quot;m_-1033525666082252048m_-8288224233410703305gmail-docs-internal-guid-39386146-7fff-394b-7c89-9e58d80485b6&quot;&gt;Turing’s mission is to accelerate superintelligence to drive real economic progress. Headquartered in San Francisco, Turing works with frontier AI labs to generate high-quality datasets, reinforcement learning environments, and frontier research benchmarks that improve model capabilities in software engineering, enterprise knowledge work, and advanced STEM reasoning. In software engineering, Turing is the largest and longest-running data provider in the category. Turing also works with Fortune 500 enterprises across financial services, life sciences, healthcare, retail, automotive, and CPG to build and deploy end-to-end agentic AI systems inside mission-critical workflows. By operating on both sides, Turing closes the loop between frontier research and enterprise deployment, turning real-world deployment signals into better data, evaluations, and more capable models. Learn more at &lt;a href=&quot;http://www.turing.com/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=http://www.turing.com&amp;amp;source=gmail&amp;amp;ust=1788032823652000&amp;amp;usg=AOvVaw2LLfe9HeuAcQz5ewoGP-0C&quot;&gt;www.turing.com&lt;/a&gt;.&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Role: &lt;/strong&gt;Forward-Deployed AI Engineer — Enterprise AI&lt;br&gt;&lt;strong&gt;Location:&lt;/strong&gt; Bengaluru, India&lt;br&gt;&lt;strong&gt;Experience Level:&lt;/strong&gt; 8+ years&lt;br&gt;&lt;strong&gt;Work Model:&lt;/strong&gt; Hybrid, 3 days per week in office&lt;/p&gt; &lt;h2&gt;Why Join Enterprise AI?&lt;/h2&gt; &lt;p&gt;Enterprise AI is a distinct business unit within Turing, operating with the speed, focus, and ownership of a rapidly scaling startup. When it comes to applied AI in the workplace, you’ll define the frontier by building beyond it.&lt;/p&gt; &lt;p&gt;You’ll join the initial team of Forward-Deployed Engineers, shaping how we work while solving enterprise-grade problems for the world’s leading enterprises. As a Forward-Deployed AI Engineer, you’ll own outcomes end to end—from identifying high-value customer problems and shaping architecture to building production systems and working directly with senior client leaders.&lt;/p&gt; &lt;p&gt;You’ll develop generative AI solutions in the real world, driving measurable impact and return on investment within large institutions. Enterprise AI is intense, intellectually challenging work. It won’t be for everyone, but it may be &lt;strong&gt;exactly the challenge you’re looking for.&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;As a Forward-Deployed Engineer, You Will&lt;/h2&gt; &lt;h3&gt;Find the Problem Worth Solving&lt;/h3&gt; &lt;p&gt;Work directly with customers to navigate ambiguity, uncover high-value opportunities, challenge assumptions, and translate complex business needs into clear technical direction. This requires curiosity and business acumen as you discover business workflows and jointly define the outcomes an AI solution should drive.&lt;/p&gt; &lt;h3&gt;Build Beyond the Frontier&lt;/h3&gt; &lt;p&gt;Architect and build production AI systems, from multi-agent workflows, orchestration, tool use, context engineering, memory and state, and retrieval-augmented generation (RAG) to the APIs, data pipelines, integrations, and distributed systems that make them reliable at scale.&lt;/p&gt; &lt;h3&gt;Own the Outcome&lt;/h3&gt; &lt;p&gt;You won’t simply be given a list of responsibilities—you’ll have the authority to own the outcome for your client and make a real-world impact through your work. You’ll lead solutions from discovery through deployment and measurable impact while staying hands-on and owning evaluation, observability, security, reliability, latency, scalability, and cost.&lt;/p&gt; &lt;h2&gt;The Anti-Sell&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;High ownership and intensity:&lt;/strong&gt; This role requires exceptional ownership and accountability. You’ll work with clients who have uncompromising expectations for quality, making this a demanding environment—and an ideal proving ground for people who seek difficult, high-impact challenges.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Client-first and hybrid:&lt;/strong&gt; This role is based in Bengaluru or Hyderabad and requires working from the office three days per week. Candidates must currently be based in one of these two cities. Relocation assistance is not available.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;You’ll help write the playbook:&lt;/strong&gt; Enterprise AI operates like a startup. You may not always have an established process or playbook because you’ll be expected to apply your expertise, judgment, and technical depth to create one.&lt;/p&gt; &lt;h2&gt;Our Forward-Deployed Engineers Typically Have&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;Deep production engineering experience:&lt;/strong&gt; Typically 8+ years building and operating sophisticated software systems, with expertise in Python, backend systems, APIs, databases, distributed systems, system design, and cloud infrastructure.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Hands-on agentic AI experience:&lt;/strong&gt; Experience building production LLM and agent systems using orchestration, tool use, context engineering, memory and state, retrieval, and multistep workflows.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Strong retrieval depth:&lt;/strong&gt; Experience building and improving production retrieval systems, with a practical understanding of embeddings, vector and hybrid search, reranking, evaluation, and diagnosing retrieval quality.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;End-to-end systems ownership:&lt;/strong&gt; A track record of taking complex systems from architecture through deployment and scale, with a practical understanding of evaluation, observability, reliability, security, guardrails, latency, scalability, and cost.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Exceptional customer and technical leadership:&lt;/strong&gt; The ability to enter unfamiliar environments, earn trust quickly, navigate ambiguity, challenge assumptions constructively, and communicate effectively with senior engineers and business executives.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Client-ready communication:&lt;/strong&gt; The ability to explain technical concepts clearly, navigate ambiguity, work with stakeholders, and remain calm under pressure.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2 data-section-id=&quot;qzdk59&quot; data-start=&quot;0&quot; data-end=&quot;13&quot;&gt;&lt;span&gt;&lt;strong data-start=&quot;3&quot; data-end=&quot;13&quot;&gt;Values&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt; &lt;ul data-start=&quot;15&quot; data-end=&quot;419&quot;&gt; &lt;li data-section-id=&quot;9oqdlb&quot; data-start=&quot;15&quot; data-end=&quot;155&quot;&gt;&lt;strong data-start=&quot;17&quot; data-end=&quot;41&quot;&gt;We are client first:&lt;/strong&gt; We put our clients at the center of everything we do, because their success is the ultimate measure of our value.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li data-section-id=&quot;4xrcao&quot; data-start=&quot;156&quot; data-end=&quot;279&quot;&gt;&lt;strong data-start=&quot;158&quot; data-end=&quot;188&quot;&gt;We work at Start-Up Speed:&lt;/strong&gt; We move fast, stay agile and favor action because momentum is the foundation of perfection&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li data-section-id=&quot;2wslti&quot; data-start=&quot;280&quot; data-end=&quot;419&quot;&gt;&lt;strong data-start=&quot;282&quot; data-end=&quot;304&quot;&gt;We are AI forward:&lt;/strong&gt; We help our clients build the future of Al and implement it in our own roles and workflow to amplify productivity.&lt;/li&gt; &lt;/ul&gt; &lt;h2 data-section-id=&quot;1jfjbs5&quot; data-start=&quot;421&quot; data-end=&quot;456&quot;&gt;&lt;span&gt;&lt;strong data-start=&quot;424&quot; data-end=&quot;456&quot;&gt;Advantages of joining Turing&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt; &lt;ul data-start=&quot;458&quot; data-end=&quot;1146&quot; data-is-last-node=&quot;&quot; data-is-only-node=&quot;&quot;&gt; &lt;li data-section-id=&quot;gyrku4&quot; data-start=&quot;458&quot; data-end=&quot;640&quot;&gt;&lt;strong data-start=&quot;460&quot; data-end=&quot;490&quot;&gt;Work at the frontier of AI&lt;/strong&gt;, helping the world’s leading AI labs improve their most advanced models by building expert datasets, RL environments, and first-of-a-kind benchmarks.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li data-section-id=&quot;148ypmf&quot; data-start=&quot;641&quot; data-end=&quot;760&quot;&gt;&lt;strong data-start=&quot;643&quot; data-end=&quot;685&quot;&gt;Contribute to leading-edge AI research&lt;/strong&gt; and showcase your work at top conferences such as ICLR, ICML, and NeurIPS.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li data-section-id=&quot;64klso&quot; data-start=&quot;761&quot; data-end=&quot;901&quot;&gt;&lt;strong data-start=&quot;763&quot; data-end=&quot;813&quot;&gt;Bring frontier AI innovation to the enterprise&lt;/strong&gt;, applying lessons learned from leading AI labs to solve real-world business challenges.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li data-section-id=&quot;ag0cn9&quot; data-start=&quot;902&quot; data-end=&quot;1053&quot;&gt;&lt;strong data-start=&quot;904&quot; data-end=&quot;962&quot;&gt;Collaborate with and learn from exceptional colleagues&lt;/strong&gt; with deep AI experience from Google, Meta, Amazon, and other leading technology companies.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li data-section-id=&quot;1eyqipj&quot; data-start=&quot;1054&quot; data-end=&quot;1146&quot; data-is-last-node=&quot;&quot;&gt;&lt;strong data-start=&quot;1056&quot; data-end=&quot;1093&quot;&gt;Move at the pace of AI innovation&lt;/strong&gt;, with the speed, ownership, and impact of a startup.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Turing is proud to be an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity, sexual orientation, age, marital status, disability, protected veteran status, or any other legally protected characteristics. At Turing we are dedicated to building a diverse, inclusive and authentic workplace&amp;nbsp;&amp;nbsp;and celebrate authenticity, so if you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.&lt;/span&gt;&lt;/p&gt; &lt;div&gt; &lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;For applicants from the European Union, please review&amp;nbsp;&lt;a href=&quot;https://www.turing.com/policy&quot; target=&quot;_blank&quot;&gt;Turing&#39;s GDPR notice here&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;"
+  },
+  {
+    "company": "Turing",
+    "role": "Forward-Deployed AI Engineer",
+    "location": "Hyderabad, Telangana, India",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://job-boards.greenhouse.io/turing/jobs/6192729004",
+    "source": "greenhouse",
+    "match_score": 30,
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h1&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size: 24pt;&quot;&gt;About Turing&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt; &lt;p&gt;&lt;span id=&quot;m_-1033525666082252048m_-8288224233410703305gmail-docs-internal-guid-39386146-7fff-394b-7c89-9e58d80485b6&quot;&gt;Turing’s mission is to accelerate superintelligence to drive real economic progress. Headquartered in San Francisco, Turing works with frontier AI labs to generate high-quality datasets, reinforcement learning environments, and frontier research benchmarks that improve model capabilities in software engineering, enterprise knowledge work, and advanced STEM reasoning. In software engineering, Turing is the largest and longest-running data provider in the category. Turing also works with Fortune 500 enterprises across financial services, life sciences, healthcare, retail, automotive, and CPG to build and deploy end-to-end agentic AI systems inside mission-critical workflows. By operating on both sides, Turing closes the loop between frontier research and enterprise deployment, turning real-world deployment signals into better data, evaluations, and more capable models. Learn more at &lt;a href=&quot;http://www.turing.com/&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=http://www.turing.com&amp;amp;source=gmail&amp;amp;ust=1788032823652000&amp;amp;usg=AOvVaw2LLfe9HeuAcQz5ewoGP-0C&quot;&gt;www.turing.com&lt;/a&gt;.&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;Role: &lt;/strong&gt;Forward-Deployed AI Engineer — Enterprise AI&lt;br&gt;&lt;strong&gt;Location:&lt;/strong&gt; Hyderabad, India&lt;br&gt;&lt;strong&gt;Experience Level:&lt;/strong&gt; 8+ years&lt;br&gt;&lt;strong&gt;Work Model:&lt;/strong&gt; Hybrid, 3 days per week in office&lt;br&gt;&lt;strong&gt;Employment Type:&lt;/strong&gt; Full Time&lt;/p&gt; &lt;h2&gt;Why Join Enterprise AI?&lt;/h2&gt; &lt;p&gt;Enterprise AI is a distinct business unit within Turing, operating with the speed, focus, and ownership of a rapidly scaling startup. When it comes to applied AI in the workplace, you’ll define the frontier by building beyond it.&lt;/p&gt; &lt;p&gt;You’ll join the initial team of Forward-Deployed Engineers, shaping how we work while solving enterprise-grade problems for the world’s leading enterprises. As a Forward-Deployed AI Engineer, you’ll own outcomes end to end—from identifying high-value customer problems and shaping architecture to building production systems and working directly with senior client leaders.&lt;/p&gt; &lt;p&gt;You’ll develop generative AI solutions in the real world, driving measurable impact and return on investment within large institutions. Enterprise AI is intense, intellectually challenging work. It won’t be for everyone, but it may be &lt;strong&gt;exactly the challenge you’re looking for.&lt;/strong&gt;&lt;/p&gt; &lt;h2&gt;As a Forward-Deployed Engineer, You Will&lt;/h2&gt; &lt;h3&gt;Find the Problem Worth Solving&lt;/h3&gt; &lt;p&gt;Work directly with customers to navigate ambiguity, uncover high-value opportunities, challenge assumptions, and translate complex business needs into clear technical direction. This requires curiosity and business acumen as you discover business workflows and jointly define the outcomes an AI solution should drive.&lt;/p&gt; &lt;h3&gt;Build Beyond the Frontier&lt;/h3&gt; &lt;p&gt;Architect and build production AI systems, from multi-agent workflows, orchestration, tool use, context engineering, memory and state, and retrieval-augmented generation (RAG) to the APIs, data pipelines, integrations, and distributed systems that make them reliable at scale.&lt;/p&gt; &lt;h3&gt;Own the Outcome&lt;/h3&gt; &lt;p&gt;You won’t simply be given a list of responsibilities—you’ll have the authority to own the outcome for your client and make a real-world impact through your work. You’ll lead solutions from discovery through deployment and measurable impact while staying hands-on and owning evaluation, observability, security, reliability, latency, scalability, and cost.&lt;/p&gt; &lt;h2&gt;The Anti-Sell&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;High ownership and intensity:&lt;/strong&gt; This role requires exceptional ownership and accountability. You’ll work with clients who have uncompromising expectations for quality, making this a demanding environment—and an ideal proving ground for people who seek difficult, high-impact challenges.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Client-first and hybrid:&lt;/strong&gt; This role is based in Bengaluru or Hyderabad and requires working from the office three days per week. Candidates must currently be based in one of these two cities. Relocation assistance is not available.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;You’ll help write the playbook:&lt;/strong&gt; Enterprise AI operates like a startup. You may not always have an established process or playbook because you’ll be expected to apply your expertise, judgment, and technical depth to create one.&lt;/p&gt; &lt;h2&gt;Our Forward-Deployed Engineers Typically Have&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;Deep production engineering experience:&lt;/strong&gt; Typically 8+ years building and operating sophisticated software systems, with expertise in Python, backend systems, APIs, databases, distributed systems, system design, and cloud infrastructure.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Hands-on agentic AI experience:&lt;/strong&gt; Experience building production LLM and agent systems using orchestration, tool use, context engineering, memory and state, retrieval, and multistep workflows.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Strong retrieval depth:&lt;/strong&gt; Experience building and improving production retrieval systems, with a practical understanding of embeddings, vector and hybrid search, reranking, evaluation, and diagnosing retrieval quality.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;End-to-end systems ownership:&lt;/strong&gt; A track record of taking complex systems from architecture through deployment and scale, with a practical understanding of evaluation, observability, reliability, security, guardrails, latency, scalability, and cost.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Exceptional customer and technical leadership:&lt;/strong&gt; The ability to enter unfamiliar environments, earn trust quickly, navigate ambiguity, challenge assumptions constructively, and communicate effectively with senior engineers and business executives.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Client-ready communication:&lt;/strong&gt; The ability to explain technical concepts clearly, navigate ambiguity, work with stakeholders, and remain calm under pressure.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2 data-section-id=&quot;qzdk59&quot; data-start=&quot;0&quot; data-end=&quot;13&quot;&gt;&lt;span&gt;&lt;strong data-start=&quot;3&quot; data-end=&quot;13&quot;&gt;Values&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt; &lt;ul data-start=&quot;15&quot; data-end=&quot;419&quot;&gt; &lt;li data-section-id=&quot;9oqdlb&quot; data-start=&quot;15&quot; data-end=&quot;155&quot;&gt;&lt;strong data-start=&quot;17&quot; data-end=&quot;41&quot;&gt;We are client first:&lt;/strong&gt; We put our clients at the center of everything we do, because their success is the ultimate measure of our value.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li data-section-id=&quot;4xrcao&quot; data-start=&quot;156&quot; data-end=&quot;279&quot;&gt;&lt;strong data-start=&quot;158&quot; data-end=&quot;188&quot;&gt;We work at Start-Up Speed:&lt;/strong&gt; We move fast, stay agile and favor action because momentum is the foundation of perfection&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li data-section-id=&quot;2wslti&quot; data-start=&quot;280&quot; data-end=&quot;419&quot;&gt;&lt;strong data-start=&quot;282&quot; data-end=&quot;304&quot;&gt;We are AI forward:&lt;/strong&gt; We help our clients build the future of Al and implement it in our own roles and workflow to amplify productivity.&lt;/li&gt; &lt;/ul&gt; &lt;h2 data-section-id=&quot;1jfjbs5&quot; data-start=&quot;421&quot; data-end=&quot;456&quot;&gt;&lt;span&gt;&lt;strong data-start=&quot;424&quot; data-end=&quot;456&quot;&gt;Advantages of joining Turing&lt;/strong&gt;&lt;/span&gt;&lt;/h2&gt; &lt;ul data-start=&quot;458&quot; data-end=&quot;1146&quot; data-is-last-node=&quot;&quot; data-is-only-node=&quot;&quot;&gt; &lt;li data-section-id=&quot;gyrku4&quot; data-start=&quot;458&quot; data-end=&quot;640&quot;&gt;&lt;strong data-start=&quot;460&quot; data-end=&quot;490&quot;&gt;Work at the frontier of AI&lt;/strong&gt;, helping the world’s leading AI labs improve their most advanced models by building expert datasets, RL environments, and first-of-a-kind benchmarks.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li data-section-id=&quot;148ypmf&quot; data-start=&quot;641&quot; data-end=&quot;760&quot;&gt;&lt;strong data-start=&quot;643&quot; data-end=&quot;685&quot;&gt;Contribute to leading-edge AI research&lt;/strong&gt; and showcase your work at top conferences such as ICLR, ICML, and NeurIPS.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li data-section-id=&quot;64klso&quot; data-start=&quot;761&quot; data-end=&quot;901&quot;&gt;&lt;strong data-start=&quot;763&quot; data-end=&quot;813&quot;&gt;Bring frontier AI innovation to the enterprise&lt;/strong&gt;, applying lessons learned from leading AI labs to solve real-world business challenges.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li data-section-id=&quot;ag0cn9&quot; data-start=&quot;902&quot; data-end=&quot;1053&quot;&gt;&lt;strong data-start=&quot;904&quot; data-end=&quot;962&quot;&gt;Collaborate with and learn from exceptional colleagues&lt;/strong&gt; with deep AI experience from Google, Meta, Amazon, and other leading technology companies.&lt;br&gt;&lt;br&gt;&lt;/li&gt; &lt;li data-section-id=&quot;1eyqipj&quot; data-start=&quot;1054&quot; data-end=&quot;1146&quot; data-is-last-node=&quot;&quot;&gt;&lt;strong data-start=&quot;1056&quot; data-end=&quot;1093&quot;&gt;Move at the pace of AI innovation&lt;/strong&gt;, with the speed, ownership, and impact of a startup.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Turing is proud to be an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, gender identity, sexual orientation, age, marital status, disability, protected veteran status, or any other legally protected characteristics. At Turing we are dedicated to building a diverse, inclusive and authentic workplace&amp;nbsp;&amp;nbsp;and celebrate authenticity, so if you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles.&lt;/span&gt;&lt;/p&gt; &lt;div&gt; &lt;p&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;For applicants from the European Union, please review&amp;nbsp;&lt;a href=&quot;https://www.turing.com/policy&quot; target=&quot;_blank&quot;&gt;Turing&#39;s GDPR notice here&lt;/a&gt;.&lt;/span&gt;&lt;/p&gt; &lt;/div&gt; &lt;div&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;/div&gt;&lt;/div&gt;"
+  },
+  {
+    "company": "Microsoft",
+    "role": "Software Engineer II - AI/ML Infrastructure CoreAI",
+    "location": "Karnataka, Bangalore, India",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556997609",
+    "source": "careerpage",
+    "match_score": 35,
+    "description": ""
+  },
+  {
+    "company": "Microsoft",
+    "role": "Software Engineer II",
+    "location": "Karnataka, Bangalore + 1 more, India",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://apply.careers.microsoft.com/careers/job/1970393556992533",
+    "source": "careerpage",
+    "match_score": 35,
+    "description": ""
+  },
+  {
+    "company": "NeuroDiscovery AI",
+    "role": "Fullstack Engineer",
+    "location": "Bangalore,Gurgaon",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-424344-fullstack-engineer-at-neurodiscovery-ai-bangalore-gurgaon/",
+    "source": "instahyre",
+    "match_score": 60,
+    "description": "APIs, Distributed Systems, Docker, Kubernetes, Golang, Java, JavaScript, Python, React.js, TypeScript"
+  },
+  {
+    "company": "Infosys",
+    "role": "Java Production Support",
+    "location": "Hyderabad",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-424533-java-production-support-at-infosys-4-hyderabad/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "IT Support, Java"
+  },
+  {
+    "company": "StockGro",
+    "role": "SDET",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-435067-sdet-at-stockgro-bangalore/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "Playwright, Appium, Selenium, Quality Assurance, Mobile Apps Testing, SDET, Automation Testing, JavaScript, Java"
+  },
+  {
+    "company": "Goldcast",
+    "role": "Backend Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-444535-backend-engineer-at-goldcast-bangalore/",
+    "source": "instahyre",
+    "match_score": 45,
+    "description": "api, apis, backend, python, rest api, rest apis, restful"
+  },
+  {
+    "company": "Adobe",
+    "role": "Backend Developer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-376656-backend-developer-at-adobe-bangalore/",
+    "source": "instahyre",
+    "match_score": 70,
+    "description": "Algorithms, Data Structures, Golang, Java, JavaScript, Kafka, Microservices, Node.js, Python"
+  },
+  {
+    "company": "Lentra.ai",
+    "role": "Platform Mobile Engineer",
+    "location": "Pune",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-444542-platform-mobile-engineer-at-lentra-pune/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "android, capacitor, cordova, ios, javascript, typescript"
+  },
+  {
+    "company": "Lentra.ai",
+    "role": "Platform AI Engineer",
+    "location": "Pune",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-444541-platform-ai-engineer-at-lentra-pune/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "LLM, Node, Node.js, NodeJS, RAG, TypeScript, large language model, retrieval-augmented generation"
+  },
+  {
+    "company": "GreyOrange",
+    "role": "Software Developer 3",
+    "location": "Gurgaon",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-444464-software-developer-3-at-greyorange-2-gurgaon/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "api, erlang, go, golang, java, microservice, microservices, python, rest"
+  },
+  {
+    "company": "ZOOP",
+    "role": "Golang Developer",
+    "location": "Pune",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-435853-golang-developer-at-zoop-pune/",
+    "source": "instahyre",
+    "match_score": 50,
+    "description": "AWS, Cassandra, Docker, Elasticsearch, GCP, Go, Golang, Kafka, Kubernetes"
+  },
+  {
+    "company": "Piramal Finance Limited",
+    "role": "Software Development Engineer 2",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-435706-software-development-engineer-2-at-piramal-finance-limited-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "QA, automation, backend, frontend, microservices, testing"
+  },
+  {
+    "company": "Hexaware Technologies",
+    "role": "Java Developer",
+    "location": "Chennai",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-440704-java-developer-at-hexaware-technologies-chennai/",
+    "source": "instahyre",
+    "match_score": 75,
+    "description": "AWS, Kafka, Microservices, Spring Boot, Java, Data Structures"
+  },
+  {
+    "company": "RapidFort",
+    "role": "Platform Operations Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-443717-platform-operations-engineer-at-rapidfort-bangalore/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "AWS, Azure, CI / CD, Cloud Computing, Containers, Datadog, DevOps, Docker, Google Cloud (GCP), Helm, Kubernetes, Linux, Monitoring, Reliability Engineering, Shell Scripting, Terraform"
+  },
+  {
+    "company": "Big Assets Infra",
+    "role": "Infrastructure / Platform Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-414997-infrastructure-platform-engineer-at-big-assets-infra-bangalore/",
+    "source": "instahyre",
+    "match_score": 50,
+    "description": "AWS, CI / CD, Cloud Computing, Containers, Deployment, DevOps, Distributed Systems, Docker, Golang, Google Cloud (GCP), Java, Kubernetes, Monitoring, Python, Spark"
+  },
+  {
+    "company": "ConveGenius",
+    "role": "SDE II - Node.js",
+    "location": "Noida",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-431992-sde-ii-node-js-at-convegenius-noida/",
+    "source": "instahyre",
+    "match_score": 45,
+    "description": "Node.js, Data Structures, Algorithms, Express.js, JavaScript"
+  },
+  {
+    "company": "PineGap.ai",
+    "role": "Backend Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-423109-backend-engineer-at-pinegap-bangalore/",
+    "source": "instahyre",
+    "match_score": 45,
+    "description": "Golang, Java, Node.js, Python"
+  }
+]

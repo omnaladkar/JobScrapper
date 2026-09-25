@@ -1,0 +1,102 @@
+# Daily Job Report - 2026-09-25
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 19
+
+1. Hexaware Technologies - Java Developer
+   Location: Chennai
+   Score: 75/100
+   Apply: https://www.instahyre.com/job-440704-java-developer-at-hexaware-technologies-chennai/
+
+2. Adobe - Backend Developer
+   Location: Bangalore
+   Score: 70/100
+   Apply: https://www.instahyre.com/job-376656-backend-developer-at-adobe-bangalore/
+
+3. NeuroDiscovery AI - Fullstack Engineer
+   Location: Bangalore,Gurgaon
+   Score: 60/100
+   Apply: https://www.instahyre.com/job-424344-fullstack-engineer-at-neurodiscovery-ai-bangalore-gurgaon/
+
+4. ZOOP - Golang Developer
+   Location: Pune
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-435853-golang-developer-at-zoop-pune/
+
+5. Big Assets Infra - Infrastructure / Platform Engineer
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-414997-infrastructure-platform-engineer-at-big-assets-infra-bangalore/
+
+6. Goldcast - Backend Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-444535-backend-engineer-at-goldcast-bangalore/
+
+7. ConveGenius - SDE II - Node.js
+   Location: Noida
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-431992-sde-ii-node-js-at-convegenius-noida/
+
+8. PineGap.ai - Backend Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-423109-backend-engineer-at-pinegap-bangalore/
+
+9. Lentra.ai - Platform AI Engineer
+   Location: Pune
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-444541-platform-ai-engineer-at-lentra-pune/
+
+10. RapidFort - Platform Operations Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-443717-platform-operations-engineer-at-rapidfort-bangalore/
+
+11. Microsoft - Software Engineer II - AI/ML Infrastructure CoreAI
+   Location: Karnataka, Bangalore, India
+   Score: 35/100
+   Apply: https://apply.careers.microsoft.com/careers/job/1970393556997609
+
+12. Microsoft - Software Engineer II
+   Location: Karnataka, Bangalore + 1 more, India
+   Score: 35/100
+   Apply: https://apply.careers.microsoft.com/careers/job/1970393556992533
+
+13. StockGro - SDET
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-435067-sdet-at-stockgro-bangalore/
+
+14. Turing - Forward-Deployed AI Engineer
+   Location: Bengaluru, Karnataka, India
+   Score: 30/100
+   Apply: https://job-boards.greenhouse.io/turing/jobs/6192725004
+
+15. Turing - Forward-Deployed AI Engineer
+   Location: Hyderabad, Telangana, India
+   Score: 30/100
+   Apply: https://job-boards.greenhouse.io/turing/jobs/6192729004
+
+16. Infosys - Java Production Support
+   Location: Hyderabad
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-424533-java-production-support-at-infosys-4-hyderabad/
+
+17. Lentra.ai - Platform Mobile Engineer
+   Location: Pune
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-444542-platform-mobile-engineer-at-lentra-pune/
+
+18. GreyOrange - Software Developer 3
+   Location: Gurgaon
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-444464-software-developer-3-at-greyorange-2-gurgaon/
+
+19. Piramal Finance Limited - Software Development Engineer 2
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-435706-software-development-engineer-2-at-piramal-finance-limited-bangalore/
+
+Generated at: 2026-09-25T08:06:53.013572
