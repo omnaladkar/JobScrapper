@@ -1,0 +1,145 @@
+[
+  {
+    "company": "Accenture",
+    "role": "AWS Engineer",
+    "location": "Bangalore,Gurgaon,Hyderabad",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-440756-aws-engineer-at-accenture-2-bangalore-gurgaon-hyderabad/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "AWS, Amazon Web Services, CI/CD, Cloud Architecture, Cloud Infrastructure, Docker, Jenkins, Kubernetes, Software Development, Software Engineer"
+  },
+  {
+    "company": "Deutsche Telekom Digital Labs",
+    "role": "Full Stack Developer - AI",
+    "location": "Gurgaon",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-427915-full-stack-developer-ai-at-deutsche-telekom-digital-labs-gurgaon/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "AutoGen, CrewAI, Django, FastAPI, Flask, JavaScript, LangChain, LangGraph, LlamaIndex, Python, React, React.js, TypeScript"
+  },
+  {
+    "company": "CheQ",
+    "role": "Backend Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-438784-backend-engineer-at-cheq-2-bangalore/",
+    "source": "instahyre",
+    "match_score": 55,
+    "description": "Node.js, Python, TypeScript, JavaScript, Shell Scripting"
+  },
+  {
+    "company": "Infraspec",
+    "role": "Platform Engineer II",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-444665-platform-engineer-ii-at-infraspec-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "ansible, aws, azure, chef, configuration management, gcp, kubernetes, linux, terraform"
+  },
+  {
+    "company": "Valorant",
+    "role": "SDE - 1 (Backend)",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-444586-sde-1-backend-at-valorant-bangalore/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "backend, go, golang"
+  },
+  {
+    "company": "Cognite",
+    "role": "Software Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-444642-software-engineer-at-cognite-bangalore/",
+    "source": "instahyre",
+    "match_score": 55,
+    "description": "api, backend, distributed, flink, golang, java, kafka, microservices, scala, scalability, spark"
+  },
+  {
+    "company": "Workroom Automation",
+    "role": "Backend Engineer",
+    "location": "Hyderabad",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-420809-backend-engineer-at-workroom-automation-hyderabad/",
+    "source": "instahyre",
+    "match_score": 65,
+    "description": "Golang, AWS, Google Cloud (GCP), Kafka, Kubernetes, Microservices"
+  },
+  {
+    "company": "Equiti Group",
+    "role": "Web Developer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-443583-web-developer-at-equiti-group-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "CSS, HTML, JavaScript, TypeScript"
+  },
+  {
+    "company": "Synapsewave Innovations",
+    "role": "SDE 1 - Backend",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-439010-sde-1-backend-at-synapsewave-innovations-bangalore/",
+    "source": "instahyre",
+    "match_score": 55,
+    "description": "Golang, Python, Algorithms, Data Structures, AWS, Linux, Docker, Kubernetes"
+  },
+  {
+    "company": "Synapsewave Innovations",
+    "role": "SDE 3 - Backend",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-439004-sde-3-backend-at-synapsewave-innovations-bangalore/",
+    "source": "instahyre",
+    "match_score": 55,
+    "description": "Golang, Python, Algorithms, AWS, Data Structures, Docker, Kubernetes, Linux, REST Assured"
+  },
+  {
+    "company": "HackerRank",
+    "role": "Software Development Engineer in Test",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-444608-software-development-engineer-in-test-at-hackerrank-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "ai, claude, genai, javascript, llm, openai, playwright, typescript"
+  },
+  {
+    "company": "Plaza",
+    "role": "SDE I (Backend)",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-444085-sde-i-backend-at-plaza-bangalore/",
+    "source": "instahyre",
+    "match_score": 45,
+    "description": "Node.js, go, golang, java, python"
+  },
+  {
+    "company": "Viven",
+    "role": "Full Stack Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-396160-full-stack-engineer-at-viven-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "Next.js, React.js, CSS, HTML, JavaScript, TypeScript"
+  }
+]

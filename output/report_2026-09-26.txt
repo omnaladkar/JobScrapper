@@ -1,0 +1,72 @@
+# Daily Job Report - 2026-09-26
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 13
+
+1. Workroom Automation - Backend Engineer
+   Location: Hyderabad
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-420809-backend-engineer-at-workroom-automation-hyderabad/
+
+2. CheQ - Backend Engineer
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-438784-backend-engineer-at-cheq-2-bangalore/
+
+3. Cognite - Software Engineer
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-444642-software-engineer-at-cognite-bangalore/
+
+4. Synapsewave Innovations - SDE 1 - Backend
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-439010-sde-1-backend-at-synapsewave-innovations-bangalore/
+
+5. Synapsewave Innovations - SDE 3 - Backend
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-439004-sde-3-backend-at-synapsewave-innovations-bangalore/
+
+6. Plaza - SDE I (Backend)
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-444085-sde-i-backend-at-plaza-bangalore/
+
+7. Accenture - AWS Engineer
+   Location: Bangalore,Gurgaon,Hyderabad
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-440756-aws-engineer-at-accenture-2-bangalore-gurgaon-hyderabad/
+
+8. Valorant - SDE - 1 (Backend)
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-444586-sde-1-backend-at-valorant-bangalore/
+
+9. Deutsche Telekom Digital Labs - Full Stack Developer - AI
+   Location: Gurgaon
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-427915-full-stack-developer-ai-at-deutsche-telekom-digital-labs-gurgaon/
+
+10. Infraspec - Platform Engineer II
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-444665-platform-engineer-ii-at-infraspec-bangalore/
+
+11. Equiti Group - Web Developer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-443583-web-developer-at-equiti-group-bangalore/
+
+12. HackerRank - Software Development Engineer in Test
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-444608-software-development-engineer-in-test-at-hackerrank-bangalore/
+
+13. Viven - Full Stack Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-396160-full-stack-engineer-at-viven-bangalore/
+
+Generated at: 2026-09-26T07:58:14.248940
