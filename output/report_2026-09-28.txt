@@ -1,0 +1,72 @@
+# Daily Job Report - 2026-09-28
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 13
+
+1. Syfe - SDE II - Backend
+   Location: Gurgaon
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-418285-sde-ii-backend-at-syfe-gurgaon/
+
+2. Wissen Technology - Java Developer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-443913-java-developer-at-wissen-technology-bangalore/
+
+3. Deutsche Telekom Digital Labs - Software Engineer (Java + Go)
+   Location: Gurgaon
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-437343-software-engineer-java-plus-go-at-deutsche-telekom-digital-labs-gurgaon/
+
+4. Out of the Blue - SDE II (Full - Stack)
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-444705-sde-ii-full-stack-at-out-of-the-blue-bangalore/
+
+5. Zzazz - Fullstack Developer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-444617-fullstack-developer-at-zzazz-bangalore/
+
+6. FarEye - SSE - Backend
+   Location: Mumbai
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-444257-sse-backend-at-fareye-mumbai/
+
+7. Amazon - SSE - Backend
+   Location: Bangalore,Noida
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-440132-sse-backend-at-amazon-bangalore-noida/
+
+8. Kaleidofin - Software Engineer
+   Location: Bangalore,Chennai
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-438312-software-engineer-at-kaleidofin-bangalore-chennai/
+
+9. Databricks - AI Engineer, FDE (Forward Deployed Engineer)
+   Location: Bengaluru, India; Delhi, India; Mumbai, India; Pune, India
+   Score: 30/100
+   Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=8015848002
+
+10. Huru - Software Development Engineer in Test
+   Location: Delhi,Noida
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-444764-software-development-engineer-in-test-at-huru-delhi-noida/
+
+11. 7-Eleven Global Solution Center - Associate Engineer - Application Security
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-444785-associate-engineer-application-security-at-7-eleven-global-solution-center-bangalore/
+
+12. Tesco - Node.js Developer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-413973-node-js-developer-at-tesco-bangalore/
+
+13. Persistence - Forward Deployed Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-443674-forward-deployed-engineer-at-persistence-bangalore/
+
+Generated at: 2026-09-28T08:55:14.467938
