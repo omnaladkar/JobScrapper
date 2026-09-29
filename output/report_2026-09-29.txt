@@ -1,0 +1,47 @@
+# Daily Job Report - 2026-09-29
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 8
+
+1. Arctic Wolf - Developer - AI SOC Automation
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-410495-developer-ai-soc-automation-at-arctic-wolf-bangalore/
+
+2. Loop Health - Software Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-444031-software-engineer-at-loop-health-bangalore/
+
+3. Elastic - Platform Engineer - Kubernetes
+   Location: Bangalore, India
+   Score: 40/100
+   Apply: https://jobs.elastic.co/jobs?gh_jid=8237463&gh_jid=8237463
+
+4. GroMo - Forward Deployment Engineer
+   Location: Gurgaon
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-443252-forward-deployment-engineer-at-gromo-gurgaon/
+
+5. Microsoft - Software Engineer II
+   Location: Telangana, Hyderabad, India
+   Score: 35/100
+   Apply: https://apply.careers.microsoft.com/careers/job/1970393557007166
+
+6. Amazon - SDE 3 (Fullstack)
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-444779-sde-3-fullstack-at-amazon-bangalore/
+
+7. Kaleidofin - Product Integration Engineer
+   Location: Bangalore,Chennai
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-438316-product-integration-engineer-at-kaleidofin-bangalore-chennai/
+
+8. NeoSOFT Technologies - Full Stack Developer - ASP.NET
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-405441-full-stack-developer-asp-net-at-neosoft-technologies-bangalore/
+
+Generated at: 2026-09-29T08:53:28.635391
