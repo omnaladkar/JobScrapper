@@ -1,0 +1,52 @@
+# Daily Job Report - 2026-09-30
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 9
+
+1. Chargepoint - Software Engineer - FullStack 
+   Location: IN-Karnataka-Bangalore
+   Score: 55/100
+   Apply: https://www.chargepoint.com/about/opportunities/job/?gh_jid=8826747002
+
+2. Databricks - IT Software Engineer, Infrastructure
+   Location: Bengaluru, India
+   Score: 55/100
+   Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=8829029002
+
+3. CredFlow AI - Backend Engineer
+   Location: Delhi,Gurgaon
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-444763-backend-engineer-at-credflow-ai-delhi-gurgaon/
+
+4. Robustrade FZCO - Infrastructure Platform Engineer
+   Location: Pune
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-435882-infrastructure-platform-engineer-at-robustrade-fzco-pune/
+
+5. Tredence Inc - Software Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-445104-software-engineer-at-tredence-inc-bangalore/
+
+6. Deutsche Telekom Digital Labs - Software Engineer - Java + AI
+   Location: Gurgaon
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-432929-software-engineer-java-plus-ai-at-deutsche-telekom-digital-labs-gurgaon/
+
+7. Accenture - Full - Stack Developer - Java
+   Location: Bangalore,Delhi,Hyderabad
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-445158-full-stack-developer-java-at-accenture-2-bangalore-delhi-hyderabad/
+
+8. AskLaila - Cloud Engineer - AWS
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-413788-cloud-engineer-aws-at-asklaila-bangalore/
+
+9. Amazon - .NET Developer
+   Location: Delhi,Greater Noida,Noida
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-445113-dot-net-developer-at-amazon-delhi-greater-noida-noida/
+
+Generated at: 2026-09-30T08:53:12.743038
