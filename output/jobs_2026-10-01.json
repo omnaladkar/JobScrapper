@@ -1,0 +1,101 @@
+[
+  {
+    "company": "Meta",
+    "role": "SDE - III",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-436021-sde-iii-at-meta-bangalore/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "backend, Java, python, django, Golang"
+  },
+  {
+    "company": "Fractal Analytics",
+    "role": "Fullstack Developer",
+    "location": "Bangalore,Greater Noida,Mumbai",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-445250-fullstack-developer-at-fractal-analytics-bangalore-greater-noida-mumbai/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "aws, cdk, cloudformation, ecs, full stack, full-stack, lambda, python, react, react.js"
+  },
+  {
+    "company": "Tesco",
+    "role": "Principle Software Development Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-397013-principle-software-development-engineer-at-tesco-bangalore/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "Java, Kafka, Microservices, Spring"
+  },
+  {
+    "company": "Goldcast",
+    "role": "Founding Engineer (Backend + AI)",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-445256-founding-engineer-backend-plus-ai-at-goldcast-bangalore/",
+    "source": "instahyre",
+    "match_score": 50,
+    "description": "backend, fastapi, go, langchain, langgraph, large language model, llm, node.js, nodejs, python, rag"
+  },
+  {
+    "company": "Cloudesign",
+    "role": "Full Stack Developer - Java",
+    "location": "Pune",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-445277-full-stack-developer-java-at-cloudesign-pune/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "Java, React, React.js, ReactJS, Spring Boot"
+  },
+  {
+    "company": "Aegion AI",
+    "role": "Fullstack Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-445352-fullstack-engineer-at-aegion-ai-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "AI, LLM, fastapi, golang, java, node.js, python, react"
+  },
+  {
+    "company": "SpotDraft",
+    "role": "SDE 3 - Backend",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-445368-sde-3-backend-at-spotdraft-bangalore/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "backend, distributed, django, flask, python, scalable, system design"
+  },
+  {
+    "company": "Plazza",
+    "role": "SDE 1 / 2 (Backend)",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-445081-sde-1-2-backend-at-plazza-bangalore/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "Backend, Django, FastAPI, Flask, Python"
+  },
+  {
+    "company": "ZOOP",
+    "role": "FinOps Engineer",
+    "location": "Pune",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-431256-finops-engineer-at-zoop-pune/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "FOCP, aws, cloud, devops, finops, kubernetes, python, sql, sre, terraform"
+  }
+]

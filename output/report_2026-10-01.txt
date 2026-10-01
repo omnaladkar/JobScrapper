@@ -1,0 +1,52 @@
+# Daily Job Report - 2026-10-01
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 9
+
+1. Goldcast - Founding Engineer (Backend + AI)
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-445256-founding-engineer-backend-plus-ai-at-goldcast-bangalore/
+
+2. Tesco - Principle Software Development Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-397013-principle-software-development-engineer-at-tesco-bangalore/
+
+3. Cloudesign - Full Stack Developer - Java
+   Location: Pune
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-445277-full-stack-developer-java-at-cloudesign-pune/
+
+4. Meta - SDE - III
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-436021-sde-iii-at-meta-bangalore/
+
+5. SpotDraft - SDE 3 - Backend
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-445368-sde-3-backend-at-spotdraft-bangalore/
+
+6. Plazza - SDE 1 / 2 (Backend)
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-445081-sde-1-2-backend-at-plazza-bangalore/
+
+7. Fractal Analytics - Fullstack Developer
+   Location: Bangalore,Greater Noida,Mumbai
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-445250-fullstack-developer-at-fractal-analytics-bangalore-greater-noida-mumbai/
+
+8. Aegion AI - Fullstack Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-445352-fullstack-engineer-at-aegion-ai-bangalore/
+
+9. ZOOP - FinOps Engineer
+   Location: Pune
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-431256-finops-engineer-at-zoop-pune/
+
+Generated at: 2026-10-01T09:17:27.952921
