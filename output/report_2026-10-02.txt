@@ -1,0 +1,82 @@
+# Daily Job Report - 2026-10-02
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 15
+
+1. Redpin - Software Engineer II - Java
+   Location: Hyderabad
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-444939-software-engineer-ii-java-at-redpin-hyderabad/
+
+2. NeoSOFT Technologies - Backend Developer - Java
+   Location: Bangalore,Chennai,Pune
+   Score: 60/100
+   Apply: https://www.instahyre.com/job-429233-backend-developer-java-at-neosoft-technologies-bangalore-chennai-pune/
+
+3. Instabase - Backend Engineer - Core Services
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-445366-backend-engineer-core-services-at-instabase-bangalore/
+
+4. Wissen Technology - Java Fullstack Developer (Java + Angular)
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-445410-java-fullstack-developer-java-plus-angular-at-wissen-technology-bangalore/
+
+5. Walker Digital Table Systems - Software Analyst
+   Location: Gurgaon
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-445407-software-analyst-at-walker-digital-table-systems-gurgaon/
+
+6. Oolka - Backend Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-445087-backend-engineer-at-oolka-bangalore/
+
+7. Ionic Wealth - Backend Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-445441-backend-engineer-at-ionic-wealth-bangalore/
+
+8. Disney India - SDE 2 - Full Stack
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-428055-sde-2-full-stack-at-disney-india-bangalore/
+
+9. Instabase - Backend Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-445354-backend-engineer-at-instabase-bangalore/
+
+10. BlueStone.com - Junior Fullstack Developer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-445444-junior-fullstack-developer-at-bluestone-bangalore/
+
+11. Gadgeon Systems - .NET Developer With DevOps
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-445278-dot-net-developer-with-devops-at-gadgeon-systems-bangalore/
+
+12. Kotak811 - Software Development Engineer II
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-424327-software-development-engineer-ii-at-kotak811-bangalore/
+
+13. Portkey - SDE 4 - Backend
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-401344-sde-4-backend-at-portkey-bangalore/
+
+14. Metaforms AI - AI Security & Platform Engineer
+   Location: Bengaluru
+   Score: 30/100
+   Apply: https://jobs.ashbyhq.com/metaforms/228eeb00-fd71-4814-9e90-b95358413f4f/application
+
+15. Lentra.ai - Principle Engineer
+   Location: Pune
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-445425-principle-engineer-at-lentra-pune/
+
+Generated at: 2026-10-02T08:50:55.111786
