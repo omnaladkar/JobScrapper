@@ -1,0 +1,12 @@
+# Daily Job Report - 2026-10-03
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 1
+
+1. Big Assets Infra - Fullstack Developer
+   Location: Bangalore,Work From Home
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-440701-fullstack-developer-at-big-assets-infra-bangalore-work-from-home/
+
+Generated at: 2026-10-03T08:28:12.509925
