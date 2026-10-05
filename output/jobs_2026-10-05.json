@@ -1,0 +1,145 @@
+[
+  {
+    "company": "R3",
+    "role": "SDET - Backend",
+    "location": "Mumbai",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-438205-sdet-backend-at-r3-mumbai/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "appium, automation, cucumber, cypress, java, kotlin, qa, sdet, selenium, testing"
+  },
+  {
+    "company": "Lentra.ai",
+    "role": "Java Developer",
+    "location": "Pune",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-445587-java-developer-at-lentra-pune/",
+    "source": "instahyre",
+    "match_score": 65,
+    "description": "Angular, Java, Kafka, Reactor, RxJS, Spring, Spring Boot, TypeScript, WebFlux, WebRTC, ffmpeg"
+  },
+  {
+    "company": "Aegion AI",
+    "role": "Software Engineer (Backend)",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-445566-software-engineer-backend-at-aegion-ai-bangalore/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "fastapi, generative ai, go, golang, java, large language model, large language models, llm, python"
+  },
+  {
+    "company": "NeoSOFT Technologies",
+    "role": "Java Developer",
+    "location": "Bangalore,Hyderabad,Pune",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-435691-java-developer-at-neosoft-technologies-bangalore-hyderabad-pune/",
+    "source": "instahyre",
+    "match_score": 55,
+    "description": "Java, Kafka, Spring Boot"
+  },
+  {
+    "company": "Lentra.ai",
+    "role": "Java Developer",
+    "location": "Pune",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-445552-java-developer-at-lentra-pune/",
+    "source": "instahyre",
+    "match_score": 75,
+    "description": "go, golang, java, node.js, nodejs, python, spring, spring boot, springboot"
+  },
+  {
+    "company": "FleetPanda",
+    "role": "Full Stack Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-436130-full-stack-engineer-at-fleetpanda-bangalore/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "LLMs, Python, TypeScript, Express.js, JavaScript, Node.js, React.js"
+  },
+  {
+    "company": "Tesco",
+    "role": "Data Platform Engineer",
+    "location": "Pune",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-445553-data-platform-engineer-at-tesco-pune/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "ETL, Data Engineering, Data Streaming, Data Analysis, Data Warehousing, Golang, NoSQL, Ruby, Python, Java, dbt, Airflow, Flink, Kafka, Spark, SQL, BigQuery, Snowflake, Amazon Redshift"
+  },
+  {
+    "company": "Rupeezy",
+    "role": "Software Developer 2 - Golang",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-442403-software-developer-2-golang-at-rupeezy-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "API, Gin, Go, Golang, MySQL, PostgreSQL, REST, SQL, database, gRPC, microservices"
+  },
+  {
+    "company": "NeoSOFT Technologies",
+    "role": "Full Stack Developer - Java",
+    "location": "Mumbai",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-441776-full-stack-developer-java-at-neosoft-technologies-mumbai/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "Angular, Java, Spring Boot"
+  },
+  {
+    "company": "GoodScore",
+    "role": "Backend Developer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-426970-backend-developer-at-goodscore-bangalore/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "API, APIs, Database, Databases, NoSQL, Node.js, NodeJS, Python, REST, RESTful, SQL"
+  },
+  {
+    "company": "BlockOn Ventures",
+    "role": "Backend Developer (Node.js)",
+    "location": "Gurgaon",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-439191-backend-developer-node-js-at-blockon-ventures-gurgaon/",
+    "source": "instahyre",
+    "match_score": 60,
+    "description": "Git, GraphQL, JS, JavaScript, MongoDB, MySQL, Node, Node.js, NodeJS, PostgreSQL"
+  },
+  {
+    "company": "Dextr AI",
+    "role": "Jr. Software Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-443450-jr-software-engineer-at-dextr-ai-bangalore/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "APIs, Django, LLMs, Python, Algorithms, Data Structures, JavaScript, LangChain, OpenAI, TypeScript"
+  },
+  {
+    "company": "eDAS",
+    "role": "Backend Developer (Node.js Dialer / Telephony / IVR)",
+    "location": "Delhi,Gurgaon,Noida",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-437145-backend-developer-node-js-dialer-telephony-ivr-at-edas-delhi-gurgaon-noida/",
+    "source": "instahyre",
+    "match_score": 50,
+    "description": "CPaaS, IVR, Node.js, NodeJS, PostgreSQL, Redis, SIP, dialer, telephony"
+  }
+]

@@ -1,0 +1,72 @@
+# Daily Job Report - 2026-10-05
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 13
+
+1. Lentra.ai - Java Developer
+   Location: Pune
+   Score: 75/100
+   Apply: https://www.instahyre.com/job-445552-java-developer-at-lentra-pune/
+
+2. Lentra.ai - Java Developer
+   Location: Pune
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-445587-java-developer-at-lentra-pune/
+
+3. BlockOn Ventures - Backend Developer (Node.js)
+   Location: Gurgaon
+   Score: 60/100
+   Apply: https://www.instahyre.com/job-439191-backend-developer-node-js-at-blockon-ventures-gurgaon/
+
+4. NeoSOFT Technologies - Java Developer
+   Location: Bangalore,Hyderabad,Pune
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-435691-java-developer-at-neosoft-technologies-bangalore-hyderabad-pune/
+
+5. eDAS - Backend Developer (Node.js Dialer / Telephony / IVR)
+   Location: Delhi,Gurgaon,Noida
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-437145-backend-developer-node-js-dialer-telephony-ivr-at-edas-delhi-gurgaon-noida/
+
+6. FleetPanda - Full Stack Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-436130-full-stack-engineer-at-fleetpanda-bangalore/
+
+7. NeoSOFT Technologies - Full Stack Developer - Java
+   Location: Mumbai
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-441776-full-stack-developer-java-at-neosoft-technologies-mumbai/
+
+8. GoodScore - Backend Developer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-426970-backend-developer-at-goodscore-bangalore/
+
+9. R3 - SDET - Backend
+   Location: Mumbai
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-438205-sdet-backend-at-r3-mumbai/
+
+10. Aegion AI - Software Engineer (Backend)
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-445566-software-engineer-backend-at-aegion-ai-bangalore/
+
+11. Dextr AI - Jr. Software Engineer
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-443450-jr-software-engineer-at-dextr-ai-bangalore/
+
+12. Tesco - Data Platform Engineer
+   Location: Pune
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-445553-data-platform-engineer-at-tesco-pune/
+
+13. Rupeezy - Software Developer 2 - Golang
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-442403-software-developer-2-golang-at-rupeezy-bangalore/
+
+Generated at: 2026-10-05T09:27:58.666093
