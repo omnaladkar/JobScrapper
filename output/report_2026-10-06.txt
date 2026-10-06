@@ -1,0 +1,72 @@
+# Daily Job Report - 2026-10-06
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 13
+
+1. Twilio - Software Engineer (L2)
+   Location: Remote - India
+   Score: 85/100
+   Apply: https://job-boards.greenhouse.io/twilio/jobs/8247112
+
+2. Twilio - Software Engineer L3
+   Location: Remote - India
+   Score: 85/100
+   Apply: https://job-boards.greenhouse.io/twilio/jobs/8079801
+
+3. Coursera - LLMops Engineer
+   Location: India
+   Score: 80/100
+   Apply: https://job-boards.greenhouse.io/coursera/jobs/6212857004
+
+4. Elastic - Agentic AI Engineer
+   Location: Bangalore, India
+   Score: 70/100
+   Apply: https://jobs.elastic.co/jobs?gh_jid=8247206&gh_jid=8247206
+
+5. Slikk - Backend Engineer
+   Location: Bangalore
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-445578-backend-engineer-at-slikk-bangalore/
+
+6. Big Assets Infra - Backend SDE
+   Location: Mumbai
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-445758-backend-sde-at-big-assets-infra-mumbai/
+
+7. Accenture - Java Full Stack Developer - Agentai / RAG
+   Location: Bangalore,Chennai,Delhi
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-445596-java-full-stack-developer-agentai-rag-at-accenture-2-bangalore-chennai-delhi/
+
+8. The Walt Disney Company - Software Development Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-437783-software-development-engineer-at-the-walt-disney-company-bangalore/
+
+9. ALLEN Digital - Software Development Engineer 2
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-329337-software-development-engineer-2-at-allen-digital-bangalore/
+
+10. Commvault - Software Engineer (AI with Gen AI)
+   Location: Bangalore, India; Hyderbad, India; Pune, India
+   Score: 35/100
+   Apply: https://job-boards.greenhouse.io/commvault/jobs/5425593008
+
+11. PhonePe - SDET
+   Location: Mumbai
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-426092-sdet-at-phonepe-mumbai/
+
+12. EPAM Systems - MLOps Engineer
+   Location: Bangalore,Hyderabad,Pune
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-445691-mlops-engineer-at-epam-systems-bangalore-hyderabad-pune/
+
+13. Unacademy - Backend Developer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-436208-backend-developer-at-unacademy-bangalore/
+
+Generated at: 2026-10-06T09:15:56.960777
