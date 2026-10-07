@@ -1,0 +1,102 @@
+# Daily Job Report - 2026-10-07
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 19
+
+1. base14 - Forward Deployed Engineer
+   Location: Bangalore
+   Score: 90/100
+   Apply: https://www.instahyre.com/job-444301-forward-deployed-engineer-at-base14-bangalore/
+
+2. Rubrik - Software Engineer - Cloud: Azure
+   Location: Bangalore 
+   Score: 65/100
+   Apply: https://www.rubrik.com/company/careers/departments/job.8258200?gh_jid=8258200
+
+3. Rubrik - Software Engineer- SaaS O365
+   Location: Bangalore 
+   Score: 65/100
+   Apply: https://www.rubrik.com/company/careers/departments/job.8256407?gh_jid=8256407
+
+4. Kotak811 - Software Development Engineer II
+   Location: Bangalore
+   Score: 60/100
+   Apply: https://www.instahyre.com/job-357343-software-development-engineer-ii-at-kotak811-bangalore/
+
+5. R Systems International - Java Developer
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-431619-java-developer-at-r-systems-international-bangalore/
+
+6. Klimb.io - Junior Java Developer
+   Location: Noida
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-445597-junior-java-developer-at-klimb-noida/
+
+7. Meesho - SDE 4
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-399288-sde-4-at-meesho-bangalore/
+
+8. Knowl - Founding Engineer
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-445807-founding-engineer-at-knowl-bangalore/
+
+9. SingleInterface - Full Stack Developer
+   Location: Gurgaon
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-445870-full-stack-developer-at-singleinterface-gurgaon/
+
+10. WaayuPay - Software Development Engineer
+   Location: Gurgaon
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-407124-software-development-engineer-at-waayupay-gurgaon/
+
+11. Zimperium - Site Reliablity Engineer
+   Location: Bangalore,Work From Home
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-421698-site-reliablity-engineer-at-zimperium-bangalore-work-from-home/
+
+12. Rakuten - Fullstack Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-445912-fullstack-engineer-at-rakuten-2-bangalore/
+
+13. Skit AI - AI OPS Developer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-439265-ai-ops-developer-at-skit-ai-bangalore/
+
+14. EngiNeo Solutions - Software Engineer - Full Stack (. .NET)
+   Location: Gurgaon
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-439696-software-engineer-full-stack-net-at-engineo-solutions-gurgaon/
+
+15. Instahyre - SDE - 1 (Full - Stack)
+   Location: Noida
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-445850-sde-1-full-stack-at-instahyre-noida/
+
+16. Stratzi.ai - Backend Engineer
+   Location: Pune
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-445910-backend-engineer-at-stratzi-pune/
+
+17. WazirX - Backend Engineer
+   Location: Mumbai
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-445881-backend-engineer-at-wazirx-mumbai/
+
+18. EngiNeo Solutions - .NET Technical Consultant
+   Location: Gurgaon
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-445944-dot-net-technical-consultant-at-engineo-solutions-gurgaon/
+
+19. NuPlay AI - Platform Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-437787-platform-engineer-at-nuplay-ai-bangalore/
+
+Generated at: 2026-10-07T09:05:18.394984
