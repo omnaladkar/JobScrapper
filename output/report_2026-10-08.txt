@@ -1,0 +1,62 @@
+# Daily Job Report - 2026-10-08
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 11
+
+1. Databricks - Software Engineer (Backend - SDE 2)
+   Location: Bengaluru, India
+   Score: 80/100
+   Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=7955594002
+
+2. Cloudesign - Backend Developer - Java
+   Location: Mumbai
+   Score: 70/100
+   Apply: https://www.instahyre.com/job-446054-backend-developer-java-at-cloudesign-mumbai/
+
+3. Planview - Software Engineer II (Viz)
+   Location: Bangalore
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-446153-software-engineer-ii-viz-at-planview-bangalore/
+
+4. Amazon - Product Software Engineer II - 1047, 1048
+   Location: Bangalore
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-443900-product-software-engineer-ii-1047-1048-at-amazon-bangalore/
+
+5. Tesco - SDE 2 - Node.js
+   Location: Bangalore
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-429921-sde-2-node-js-at-tesco-bangalore/
+
+6. ZOOP - Backend Engineer - Golang
+   Location: Pune
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-435853-backend-engineer-golang-at-zoop-pune/
+
+7. Tesco - Fullstack Developer
+   Location: Bangalore
+   Score: 60/100
+   Apply: https://www.instahyre.com/job-446136-fullstack-developer-at-tesco-bangalore/
+
+8. Microsoft - Software Engineer II (DevOps)
+   Location: Telangana, Hyderabad, India
+   Score: 35/100
+   Apply: https://apply.careers.microsoft.com/careers/job/1970393557026234
+
+9. Keka HR - Software Engineer
+   Location: Hyderabad
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-446067-software-engineer-at-keka-hr-hyderabad/
+
+10. Schmersal Group - Fullstack Engineer
+   Location: Pune
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-446104-fullstack-engineer-at-schmersal-group-pune/
+
+11. Sarvam - Platform Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-445954-platform-engineer-at-sarvam-bangalore/
+
+Generated at: 2026-10-08T09:21:11.069705
