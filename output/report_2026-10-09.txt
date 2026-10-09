@@ -1,0 +1,57 @@
+# Daily Job Report - 2026-10-09
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 10
+
+1. CredAble - Fullstack Developer (Java + Angular)
+   Location: Noida
+   Score: 70/100
+   Apply: https://www.instahyre.com/job-437156-fullstack-developer-java-plus-angular-at-credable-noida/
+
+2. Arintra - SDE 3 - Agentic AI
+   Location: Bangalore
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-445927-sde-3-agentic-ai-at-arintra-bangalore/
+
+3. Point72 - Machine Learning Engineer
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-446292-machine-learning-engineer-at-point72-bangalore/
+
+4. Repurpose.io - Backend Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-446214-backend-engineer-at-repurpose-bangalore/
+
+5. Groww - Product Solution Engineer - 2
+   Location: Bengaluru, India
+   Score: 40/100
+   Apply: https://job-boards.eu.greenhouse.io/groww/jobs/4971575101
+
+6. Databricks - Forward Deployed Engineer
+   Location: Remote - India
+   Score: 40/100
+   Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=8771566002
+
+7. CapsLock - Backend Developer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-444283-backend-developer-at-capslock-bangalore/
+
+8. PocketFM - Backend Developer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-435135-backend-developer-at-pocketfm-bangalore/
+
+9. EPAM Systems - Java Full - Stack Developer
+   Location: Pune
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-445248-java-full-stack-developer-at-epam-systems-pune/
+
+10. BlueStone.com - Fullstack Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-446302-fullstack-engineer-at-bluestone-bangalore/
+
+Generated at: 2026-10-09T09:28:31.414425
