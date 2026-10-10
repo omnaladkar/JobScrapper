@@ -1,0 +1,35 @@
+[
+  {
+    "company": "Ditto Insurance",
+    "role": "Backend Developer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-446230-backend-developer-at-ditto-insurance-bangalore/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "AWS, celery, django, drf, postgresql, python, redis"
+  },
+  {
+    "company": "Codenatives",
+    "role": "Java Developer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-445166-java-developer-at-codenatives-bangalore/",
+    "source": "instahyre",
+    "match_score": 45,
+    "description": "CompletableFuture, Java, Spring, Spring Boot, Spring MVC, concurrency, locks, multithreading, synchronization"
+  },
+  {
+    "company": "Wipro",
+    "role": "Full Stack Developer - .NET",
+    "location": "Hyderabad",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-446375-full-stack-developer-net-at-wipro-hyderabad/",
+    "source": "instahyre",
+    "match_score": 60,
+    "description": ".NET Core, ASP.NET Core, C#, Docker, JavaScript, K8s, Kafka, Kubernetes, React, React.js, microservices"
+  }
+]

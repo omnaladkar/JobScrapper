@@ -1,0 +1,22 @@
+# Daily Job Report - 2026-10-10
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 3
+
+1. Wipro - Full Stack Developer - .NET
+   Location: Hyderabad
+   Score: 60/100
+   Apply: https://www.instahyre.com/job-446375-full-stack-developer-net-at-wipro-hyderabad/
+
+2. Codenatives - Java Developer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-445166-java-developer-at-codenatives-bangalore/
+
+3. Ditto Insurance - Backend Developer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-446230-backend-developer-at-ditto-insurance-bangalore/
+
+Generated at: 2026-10-10T08:49:52.719539
