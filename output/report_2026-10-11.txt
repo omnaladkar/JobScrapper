@@ -1,0 +1,22 @@
+# Daily Job Report - 2026-10-11
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 3
+
+1. Target in India - Java Developer
+   Location: Bangalore
+   Score: 95/100
+   Apply: https://www.instahyre.com/job-414655-java-developer-at-target-in-india-bangalore/
+
+2. PineGap.ai - AI Engineer
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-423568-ai-engineer-at-pinegap-bangalore/
+
+3. Big Assets Infra - Full Stack Engineer - AI
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-414998-full-stack-engineer-ai-at-big-assets-infra-bangalore/
+
+Generated at: 2026-10-11T09:11:52.543163
