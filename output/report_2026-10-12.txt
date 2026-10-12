@@ -1,0 +1,72 @@
+# Daily Job Report - 2026-10-12
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 13
+
+1. Lentra.ai - Java Developer
+   Location: Pune
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-446467-java-developer-at-lentra-pune/
+
+2. Meraki Labs - Backend Engineer
+   Location: Mumbai
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-446237-backend-engineer-at-meraki-labs-mumbai/
+
+3. Amazon - Software Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-446484-software-engineer-at-amazon-bangalore/
+
+4. BlueStone.com - Fullstack Developer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-445836-fullstack-developer-at-bluestone-bangalore/
+
+5. Kulfi - Software Developer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-445915-software-developer-at-kulfi-bangalore/
+
+6. Microsoft - Software Engineer II
+   Location: Telangana, Hyderabad, India
+   Score: 35/100
+   Apply: https://apply.careers.microsoft.com/careers/job/1970393557037829
+
+7. Microsoft - Software Engineer II
+   Location: Telangana, Hyderabad, India
+   Score: 35/100
+   Apply: https://apply.careers.microsoft.com/careers/job/1970393557026236
+
+8. Microsoft - Software Engineer II
+   Location: Telangana, Hyderabad, India
+   Score: 35/100
+   Apply: https://apply.careers.microsoft.com/careers/job/1970393557002362
+
+9. Microsoft - Software Engineer II
+   Location: Telangana, Hyderabad, India
+   Score: 35/100
+   Apply: https://apply.careers.microsoft.com/careers/job/1970393557007986
+
+10. Stratzi.ai - Backend Engineer
+   Location: Pune
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-446289-backend-engineer-at-stratzi-pune/
+
+11. Kulfi - Software Engineer
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-445794-software-engineer-at-kulfi-bangalore/
+
+12. Commvault - Technical Specialist - Tier 1 (Media Management)
+   Location: Bangalore, India
+   Score: 30/100
+   Apply: https://job-boards.greenhouse.io/commvault/jobs/5446397008
+
+13. ShopOS - QA Automation Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-442445-qa-automation-engineer-at-shopos-2-bangalore/
+
+Generated at: 2026-10-12T09:36:30.780340
