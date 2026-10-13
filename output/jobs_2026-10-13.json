@@ -1,0 +1,179 @@
+[
+  {
+    "company": "Sarvam AI",
+    "role": "Software Engineer - Model API Platform",
+    "location": "Bengaluru",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://jobs.ashbyhq.com/sarvam/0371342b-5cb8-487b-9310-4d0eb5b37f47/application",
+    "source": "ashby",
+    "match_score": 55,
+    "description": "About Sarvam Sarvam is building the bedrock of Sovereign AI for India. The company is developing India's full-stack sovereign AI platform, building across research, models, infrastructure and applications with a singular focus on making AI genuinely work for India. Sarvam works with leading enterprises and public institutions and is backed by Lightspeed, Peak XV and Khosla Ventures. Sarvam partners with India's leading brands, including Tata Capital, SBI Life, CRED, IDFC and LIC. About the role Sarvam's model APIs (ASR, TTS, Vision, LLM, Translate) are how developers and enterprises ship products on our foundation models. The platform handles tens of millions of API calls every day, over HTTP and WebSockets, with metering, billing, prepaid wallets and rate-limiting all part of the same stack. We are hiring a Software Engineer to own major parts of this platform end to end, working closely with the Staff Engineer who leads its architecture. You will take an area such as speech to text pipeline,or text to speech pipeline, and be accountable for its reliability, performance and end-to-end latencies. This role is for someone who is obsessed with latencies, optimizes services and network paths to shave off milliseconds, ships fast, reasons from first principles, and treats AI as the default way to get engineering work done. What you will do Own a platform area end to end • Own one or more major parts of the platform, such as the WebSocket streaming layer, a speech recognition pipeline, or text to speech pipeline: build, operate and improve them. • Turn loosely defined goals into RFCs, milestones and shipped results, and write down the decisions and trade-offs. • Be accountable after launch: on-call, incident response, root-cause analysis and follow-through on fixes. • Make the call when a decision is needed, and own the outcome. • Obsessed with latencies, dissecting existing services to understand the system, and tuning the right knobs to optimize performance. • Bring services across without regressions in customer-facing APIs, latency or reliability. Build real-time and model-serving pipelines • Build and operate streaming infrastructure: WebSocket connections, long-lived sessions queue-based batch processing, backpressure and low-latency model invocation. • Engineer audio pipelines: TTS chunking around model context limits, sample-rate conversion and format encoding, and VAD-based silence detection for ASR. • Hold your services to sub-100ms latency SLOs in a multi-tenant environment, and know where every millisecond goes. Think in systems and from first principles • Reasons from constraints: latency budgets per hop, throughput, cost per request, failure modes and tenant isolation. • Use back-of-the-envelope estimates to decide what to build, what to optimize and what to leave alone. • Prefer simple designs you can fully explain over clever ones you cannot. • Build in observability from day one: logging, metrics and tracing that let anyone debug production quickly. Raise the bar for the team • Strengthen the integration testing harness so the team can ship fast without breaking customer-facing APIs. • Partner with the Inference and MLOps teams on making model serving fast, reliable and operable. • Mentor junior engineers through RFC reviews, code review and pairing. • Practice design-first, documentation-first engineering: RFCs before code, no tribal knowledge. What we are looking for • 4–6 years of building and operating production backend systems. • At least one service you owned end to end under real load, including what broke and what you changed. • Strong distributed-systems fundamentals: concurrency, networking, queues, caching, consistency and failure modes. • Experience with low-latency or high-throughput services, and comfort reasoning about p95 and p99 latency. • Solid fundamentals with a relational database and a cache, such as PostgreSQL and Redis: schema design, query performance and caching strategy. • Fluency in at least one backend language and willingness to work in both Python and Golang. • Experience running services with containers, CI/CD and production monitoring. • Daily, hands-on use of AI tools in your engineering workflow, with concrete examples of what you automated or sped up. • A bias for action: fast on reversible decisions, careful on irreversible ones. • Clear writing, especially RFCs and design docs that others can act on. Good to have (not required) • Voice AI or real-time audio experience: WebSockets, WebRTC, streaming ASR or TTS, or audio processing with FFmpeg or pyav, codecs, sample rates and VAD. • Production experience in Go, or in Python with FastAPI. • Experience serving LLM, ASR, TTS or vision models in production. • Experience building metering, billing, wallet or payments infrastructure. • Running services on Kubernetes in production. • Time at an early- or growth-stage startup. Why Sarvam • A fast-moving, high talent-density team building full-stack AI for India, with real population-scale impact. • Researchers, engineers, builders and business leaders who move fast and hold each other to a very high bar. • High ownership and high impact from day one. • AI-first in everything, from how we build and ship to how we think about problems",
+    "posted_at": "2026-10-13T07:12:53.480+00:00"
+  },
+  {
+    "company": "Credilio",
+    "role": "Backend Engineer",
+    "location": "Mumbai",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-444790-backend-engineer-at-credilio-mumbai/",
+    "source": "instahyre",
+    "match_score": 75,
+    "description": "Java, Spring Boot, Kafka, Microservices, MySQL, PostgreSQL, Spring"
+  },
+  {
+    "company": "OneShot AI",
+    "role": "SDE 1",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-423273-sde-1-at-oneshot-ai-bangalore/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "Go, Golang, NoSQL, REST, SQL, backend, microservices"
+  },
+  {
+    "company": "InMobi",
+    "role": "SDE 4",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-406524-sde-4-at-inmobi-bangalore/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "Architecture, Java, React.js, Algorithms, Angular, AWS, AWS IAM, CI / CD, Data Structures, Python, Spring"
+  },
+  {
+    "company": "Target in India",
+    "role": "Development Engineer - Mid Ops Java + AI",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-446716-development-engineer-mid-ops-java-plus-ai-at-target-in-india-bangalore/",
+    "source": "instahyre",
+    "match_score": 60,
+    "description": "Java, Spring Boot, Python, Microservices, Django, Flask, Kafka"
+  },
+  {
+    "company": "Amazon",
+    "role": "Backend Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-417161-backend-engineer-at-amazon-bangalore/",
+    "source": "instahyre",
+    "match_score": 85,
+    "description": "aws, backend, Distributed system, Fraud Intelligence, Golang, Java, Microservices, Node.js, Python, ruby, Ruby on Rails, Spring Boot"
+  },
+  {
+    "company": "Credilio",
+    "role": "Software Development Engineer - Backend (Java)",
+    "location": "Mumbai",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-446077-software-development-engineer-backend-java-at-credilio-mumbai/",
+    "source": "instahyre",
+    "match_score": 100,
+    "description": "Java, Spring Boot, Microservices, SQL, AWS, Redis, Kafka, Docker, Kubernetes, GraphQL, PostgreSQL"
+  },
+  {
+    "company": "Kulfi",
+    "role": "SDE II",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-446050-sde-ii-at-kulfi-bangalore/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "API, APIs, Flutter, backend, cache, concurrency, idempotency, migrations, queues"
+  },
+  {
+    "company": "Vutto",
+    "role": "Software Engineer 2",
+    "location": "Gurgaon",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-446583-software-engineer-2-at-vutto-gurgaon/",
+    "source": "instahyre",
+    "match_score": 55,
+    "description": "Angular, Go, Java, JavaScript, Node, Node.js, Python, React, TypeScript, Vue"
+  },
+  {
+    "company": "Kulfi",
+    "role": "Software Development Engineer II",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-446596-software-development-engineer-ii-at-kulfi-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "api, backend, dart, database, flutter, go, node.js, python, sql"
+  },
+  {
+    "company": "Alora Advisors",
+    "role": "Software Engineer",
+    "location": "Chennai",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-446631-software-engineer-at-alora-advisors-chennai/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "Java, React, React.js, Spring Boot"
+  },
+  {
+    "company": "OneShot AI",
+    "role": "Backend Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-383095-backend-engineer-at-oneshot-ai-bangalore/",
+    "source": "instahyre",
+    "match_score": 45,
+    "description": "Java, LLM, LLMs, backend, large language model, large language models"
+  },
+  {
+    "company": "Target in India",
+    "role": "Development Engineer - Mid Ops Java + AI",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-446668-development-engineer-mid-ops-java-plus-ai-at-target-in-india-bangalore/",
+    "source": "instahyre",
+    "match_score": 60,
+    "description": "Java, Spring Boot, Agentic AI, LLMs, Generative AI, Kafka, Microservices"
+  },
+  {
+    "company": "Point72",
+    "role": "SDLC Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-429056-sdlc-engineer-at-point72-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "AWS, AWS CloudFormation, CI / CD, Cloud Computing, Containers, DevOps, Docker, GitLab, Golang, Jenkins, Python, Terraform"
+  },
+  {
+    "company": "Axiamatic",
+    "role": "Software Engineer - Discovery",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-446555-software-engineer-discovery-at-axiamatic-2-bangalore/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "Django, FastAPI, Flask, Python, REST API, microservices"
+  },
+  {
+    "company": "Oolka",
+    "role": "AI Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-435162-ai-engineer-at-oolka-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "AI, Kafka, LLM, Redis, SSE, WebSocket, async, caching, event-driven"
+  }
+]

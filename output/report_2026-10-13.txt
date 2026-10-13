@@ -1,0 +1,87 @@
+# Daily Job Report - 2026-10-13
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 16
+
+1. Credilio - Software Development Engineer - Backend (Java)
+   Location: Mumbai
+   Score: 100/100
+   Apply: https://www.instahyre.com/job-446077-software-development-engineer-backend-java-at-credilio-mumbai/
+
+2. Amazon - Backend Engineer
+   Location: Bangalore
+   Score: 85/100
+   Apply: https://www.instahyre.com/job-417161-backend-engineer-at-amazon-bangalore/
+
+3. Credilio - Backend Engineer
+   Location: Mumbai
+   Score: 75/100
+   Apply: https://www.instahyre.com/job-444790-backend-engineer-at-credilio-mumbai/
+
+4. Target in India - Development Engineer - Mid Ops Java + AI
+   Location: Bangalore
+   Score: 60/100
+   Apply: https://www.instahyre.com/job-446716-development-engineer-mid-ops-java-plus-ai-at-target-in-india-bangalore/
+
+5. Target in India - Development Engineer - Mid Ops Java + AI
+   Location: Bangalore
+   Score: 60/100
+   Apply: https://www.instahyre.com/job-446668-development-engineer-mid-ops-java-plus-ai-at-target-in-india-bangalore/
+
+6. Sarvam AI - Software Engineer - Model API Platform
+   Location: Bengaluru
+   Score: 55/100
+   Apply: https://jobs.ashbyhq.com/sarvam/0371342b-5cb8-487b-9310-4d0eb5b37f47/application
+
+7. Vutto - Software Engineer 2
+   Location: Gurgaon
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-446583-software-engineer-2-at-vutto-gurgaon/
+
+8. OneShot AI - Backend Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-383095-backend-engineer-at-oneshot-ai-bangalore/
+
+9. OneShot AI - SDE 1
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-423273-sde-1-at-oneshot-ai-bangalore/
+
+10. InMobi - SDE 4
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-406524-sde-4-at-inmobi-bangalore/
+
+11. Kulfi - SDE II
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-446050-sde-ii-at-kulfi-bangalore/
+
+12. Alora Advisors - Software Engineer
+   Location: Chennai
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-446631-software-engineer-at-alora-advisors-chennai/
+
+13. Axiamatic - Software Engineer - Discovery
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-446555-software-engineer-discovery-at-axiamatic-2-bangalore/
+
+14. Kulfi - Software Development Engineer II
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-446596-software-development-engineer-ii-at-kulfi-bangalore/
+
+15. Point72 - SDLC Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-429056-sdlc-engineer-at-point72-bangalore/
+
+16. Oolka - AI Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-435162-ai-engineer-at-oolka-bangalore/
+
+Generated at: 2026-10-13T09:41:39.377141
