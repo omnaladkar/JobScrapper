@@ -1,0 +1,146 @@
+[
+  {
+    "company": "Elastic",
+    "role": "Marketing AI Engineer",
+    "location": "Bangalore, India",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://jobs.elastic.co/jobs?gh_jid=8265123&gh_jid=8265123",
+    "source": "greenhouse",
+    "match_score": 40,
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data — securing and protecting private information more effectively — Elastic’s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.&lt;/p&gt;&lt;/div&gt;&lt;h3&gt;&lt;strong&gt;What is The Role&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Elastic, makers of the hugely popular open source products Elasticsearch, Kibana, Logstash, and Beats, is growing very fast and so is our marketing team. As a key member of the Marketing AI, Operations and Automation team, you will play a hands-on, critical role in designing and building the automation infrastructure that powers marketing at scale. From connecting systems via APIs and webhooks to calling AI models for reasoning within live workflows, you will be the technical builder behind how marketing teams work smarter and move faster.&lt;/p&gt; &lt;p&gt;Elastic is looking for a flexible and adaptable person with the ability to manage a variety of integration and automation challenges across a modern marketing tech stack. This is an ideal position for a self-motivated individual who has hands-on experience with no-code platforms and system integrations, is comfortable working directly with APIs and LLMs, and has the ability to work in a fast-paced, distributed environment.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;What You Will Be Doing&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Design and build automated marketing workflows using no-code and low-code platforms, connecting tools across the marketing tech stack so data flows reliably between systems without manual intervention.&lt;/li&gt; &lt;li&gt;Integrate marketing platforms, AI content tools, and third-party services via APIs and webhooks, handling authentication, error states, and data formatting across each connection.&lt;/li&gt; &lt;li&gt;Work with AI models and generative AI platforms to build structured, repeatable workflows that produce consistent outputs at scale, configuring prompts and agent behaviour at the system level.&lt;/li&gt; &lt;li&gt;Call LLM APIs to trigger AI reasoning within workflows, constructing prompts programmatically, handling model responses, and routing outputs back to connected systems&lt;/li&gt; &lt;li&gt;Gather requirements from marketing teams across functions and translate them into workflow specifications, identifying opportunities for reuse and cross-team impact over single-team solutions.&lt;/li&gt; &lt;li&gt;Own the reliability and maintainability of the workflows you build, writing documentation clear enough for non-technical stakeholders to understand what runs, why, and how.&lt;/li&gt; &lt;li&gt;Evaluate new tools and integration patterns as the marketing tech stack evolves, recommending additions based on technical fit and organisational need.&lt;/li&gt; &lt;li&gt;Collaborate with operations, regional marketing, content, demand generation, and other marketing teams to understand where automation removes friction and build accordingly.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;What You Bring&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;4+ years in marketing operations, marketing technology engineering, or a closely adjacent technical role focused on integrations and automation.&lt;/li&gt; &lt;li&gt;Hands-on experience building multi-step workflows using no-code or low-code platforms such as Workfront Fusion, Zapier, Make, or n8n in a production environment.&lt;/li&gt; &lt;li&gt;Practical experience working with APIs and webhooks: constructing authenticated requests, reading API documentation, handling errors, and passing data between systems reliably.&lt;/li&gt; &lt;li&gt;Experience connecting marketing platforms (Workfront, Marketo, Google Workspace, or similar) to external tools and services through system-level integrations.&lt;/li&gt; &lt;li&gt;Experience working with at least one AI model or generative AI platform in a workflow or integration context, including configuring system-level prompts and handling structured outputs.&lt;/li&gt; &lt;li&gt;Experience calling LLM APIs to trigger AI reasoning within a workflow, including constructing prompts programmatically, handling responses, and routing outputs back to connected systems.&lt;/li&gt; &lt;li&gt;Ability to gather requirements from non-technical stakeholders and convert them into buildable workflow specifications.&lt;/li&gt; &lt;li&gt;Strong written documentation habits, with the ability to make complex automation logic understandable to others.&lt;/li&gt; &lt;li&gt;Experience working across globally distributed teams spanning multiple time zones.&lt;/li&gt; &lt;li&gt;Preferred experience with Workfront, Zapier, Marketo, Adobe Fusion, Google Suite.&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;Bonus Points&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Google Apps Script, JavaScript, or Python for cases where no-code tools reach their limits.&lt;/li&gt; &lt;/ul&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h2&gt;&lt;strong&gt;Additional Information - We Take Care of Our People&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As a distributed company, diversity drives our identity. Whether you’re looking to launch a new career or grow an existing one, Elastic is the type of company where you can balance great work with great life. Your age is only a number. It doesn’t matter if you’re just out of college or your children are; we need you for what you can do.&lt;/p&gt; &lt;p&gt;We strive to have parity of benefits across regions and while regulations differ from place to place, we believe taking care of our people is the right thing to do.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Competitive pay based on the work you do here and not your previous salary&lt;/li&gt; &lt;li&gt;Health coverage for you and your family in many locations&lt;/li&gt; &lt;li&gt;Ability to craft your calendar with flexible locations and schedules for many roles&lt;/li&gt; &lt;li&gt;Generous number of vacation days each year&lt;/li&gt; &lt;li&gt;Increase your impact - We match up to $2000 (or local currency equivalent) for financial donations and service&lt;/li&gt; &lt;li&gt;Up to 40 hours each year to use toward volunteer projects you love&lt;/li&gt; &lt;li&gt;Embracing parenthood with minimum of 16 weeks of parental leave&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Different people approach problems differently. We need that. Elastic is an equal opportunity employer and is committed to creating an inclusive culture that celebrates different perspectives, experiences, and backgrounds. Qualified applicants will receive consideration for employment without regard to race, ethnicity, color, religion, sex, pregnancy, sexual orientation, gender perception or identity, national origin, age, marital status, protected veteran status, disability status, or any other basis protected by federal, state or local law, ordinance or regulation.&lt;/p&gt; &lt;p&gt;We welcome individuals with disabilities and strive to create an accessible and inclusive experience for all individuals. To request an accommodation during the application or the recruiting process, please email &lt;a href=&quot;mailto:candidate_accessibility@elastic.co&quot; target=&quot;_blank&quot;&gt;candidate_accessibility@elastic.co&lt;/a&gt;&lt;span class=&quot;gmail_default&quot;&gt;.&lt;/span&gt;&amp;nbsp;We will reply to your request within 24 business hours of submission.&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Applicants have rights under Federal Employment Laws, view posters linked below:&lt;/span&gt; &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/fmlaen.pdf&quot; target=&quot;_blank&quot;&gt;Family and Medical Leave Act (FMLA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster;&lt;/span&gt;&lt;span style=&quot;color: #000000;&quot;&gt;&amp;nbsp;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/ofccp/pdf/pay-transp_%20English_formattedESQA508c.pdf&quot; target=&quot;_blank&quot;&gt;Pay Transparency Nondiscrimination Provision&lt;/a&gt; Poster; &lt;/span&gt;&lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/WHD/legacy/files/eppabw.pdf&quot; target=&quot;_blank&quot;&gt;Employee Polygraph Protection Act (EPPA)&lt;/a&gt; &lt;span style=&quot;color: #000000;&quot;&gt;Poster and &lt;a href=&quot;https://www.dol.gov/sites/dolgov/files/OFCCP/regs/compliance/posters/pdf/22-088_EEOC_KnowYourRights.pdf&quot; target=&quot;_blank&quot;&gt;Know Your Rights&lt;/a&gt; (Poster)&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;color: #000000;&quot;&gt;Elasticsearch develops and distributes technology and information that is subject to U.S. and other countries’ export controls and licensing requirements for individuals who are located in or are nationals of the following sanctioned countries and regions: Belarus, Cuba, Iran, North Korea, Syria, or Russia, including the Ukrainian territories annexed by Russia (The Crimea region of Ukraine, The Donetsk People&#39;s Republic (DNR), The Luhansk People&#39;s Republic (LNR), Kherson or Zaporizhzhia). If you are located in or are a national of one of the listed countries or regions, an export license may be required as a condition of your employment in this role. Please note that national origin and/or nationality do not affect eligibility for employment with Elastic.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Please see&amp;nbsp;&lt;a href=&quot;https://www.elastic.co/legal/applicant-privacy-statement&quot; target=&quot;_blank&quot; data-saferedirecturl=&quot;https://www.google.com/url?q=https://www.elastic.co/legal/applicant-privacy-statement&amp;amp;source=gmail&amp;amp;ust=1611068262479000&amp;amp;usg=AFQjCNG3orAPk5sJIr9WVm0ZDxYw82c5DA&quot;&gt;here&lt;/a&gt;&amp;nbsp;for our Privacy Statement.&lt;/p&gt;&lt;/div&gt;"
+  },
+  {
+    "company": "Airbnb",
+    "role": "Operations Engineer, Tech Foundations",
+    "location": "Remote - India",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://careers.airbnb.com/positions/8083137?gh_jid=8083137",
+    "source": "greenhouse",
+    "match_score": 50,
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Community You Will Join:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;BizTech fosters culture and connection at Airbnb by providing reliable corporate tools, innovative products, and technical support for all teams. We drive technical breakthroughs and strategies that redefine what it means to belong anywhere, delivering greater value for the business and our people. The Global Operations team at BizTech manages production services across Airbnb’s corporate environment, delivering reliable operations through Observability, Incident Management, Core Operations, and AI-enabled automation. We partner across BizTech to scale service quality, efficiency, and resilience.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;The Difference You Will Make:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;As an Operations Engineer, you&#39;ll apply AI at the forefront of BizTech&#39;s operational health: using LLM-powered triage and intelligent automation to resolve tickets, speed up incident response, and build self-healing observability that catches problems before they escalate. AI fluency is core to this role, not an add-on. You&#39;ll prototype agentic workflows, embed AI into runbooks and diagnostics, and continuously look for repetitive work automation can take over. Success looks like a shrinking backlog of recurring ticket categories through AI-assisted automation, faster MTTR powered by intelligent alerting and root-cause suggestions, and dashboards/reporting enhanced with AI-driven insights that give stakeholders clear, trustworthy visibility into service health and data quality.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;A Typical Day:&amp;nbsp;&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Manage the ticket queue prioritizing and resolving requests while identifying recurring categories to automate or deflect&lt;/li&gt; &lt;li&gt;Participate in a rotating on-call and incident response schedule, including weekends, troubleshooting and documenting issues in real time&lt;/li&gt; &lt;li&gt;Build and maintain monitoring dashboards (Tableau, Superset, Grafana) that track service health, availability, and data quality, flagging gaps as they emerge&lt;/li&gt; &lt;li&gt;Use AI-assisted tools (e.g., Claude, Copilot) to speed up triage, root-cause analysis, scripting, and documentation — while knowing when a problem needs hands-on judgment instead&lt;/li&gt; &lt;li&gt;Write and maintain code in general-purpose languages (Python, Go, JavaScript, TypeScript, Bash) to automate operational workflows&lt;/li&gt; &lt;li&gt;Partner with global stakeholder teams to drive issues to resolution&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Your Expertise:&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;3+ years of experience with observability and metrics tooling (e.g., Prometheus, Grafana, Datadog, ElasticSearch)&lt;/li&gt; &lt;li&gt;3+ years working with data querying and pipelines (e.g., SQL, Airflow, Trino, SQS)&lt;/li&gt; &lt;li&gt;Working knowledge of network fundamentals and hardware (e.g., Cisco, Palo Alto)&lt;/li&gt; &lt;li&gt;Experience with Infrastructure as Code&lt;/li&gt; &lt;li&gt;Hands-on experience with CI/CD and automation tooling (e.g., Jenkins, ArgoCD, GitHub Actions) across AWS, GCP, or Oracle Cloud&lt;/li&gt; &lt;li&gt;Comfort working in ticket/workflow-driven environments using Jira and Confluence&lt;/li&gt; &lt;li&gt;Experience supporting enterprise SaaS tools (e.g., Salesforce, Workday) and SSO/identity integration (e.g., Okta) is a plus&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Your Location:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;This position is India - Remote (Eligible anywhere within India). The role may include occasional work at an Airbnb office or attendance at offsites, as agreed to with your manager.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Our Commitment To Inclusion &amp;amp; Belonging:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Airbnb is committed to working with the broadest talent pool possible. We believe diverse ideas foster innovation and engagement, and allow us to attract creatively-led people, and to develop the best products, services and solutions. All qualified individuals are encouraged to apply.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;&lt;strong&gt;Reasonable Accommodations:&lt;/strong&gt; We are committed to providing reasonable accommodations throughout the recruitment process for applicants with disabilities. If you need assistance, or an accommodation, please let your recruiter know once you are contacted about a role.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif; font-size: 12pt;&quot;&gt;&lt;strong&gt;A Note on Recruiting Scams:&lt;/strong&gt; Scammers sometimes pose as Airbnb recruiters to get money or personal information from candidates. A few things that will always be true for Airbnb’s hiring process: our open roles are posted on Airbnb’s Career’s Page at careers.airbnb.com, and our recruiters correspond only from @&lt;a href=&quot;http://airbnb.com&quot;&gt;airbnb.com&lt;/a&gt; or @&lt;a href=&quot;http://ext.airbnb.com&quot;&gt;ext.airbnb.com&lt;/a&gt; email addresses. Our recruiters will never ask for your Social Security number, bank account details, passport, or payment app information while you are interviewing.&amp;nbsp; We’ll also never ask you to pay a fee, send money, deposit or cash a check, or purchase work-related equipment (such as a company laptop) during the interview process. We encourage candidates to remain vigilant of these recruiting scams and not share sensitive information if you do not believe an individual is actually affiliated with Airbnb.&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;"
+  },
+  {
+    "company": "SigNoz",
+    "role": "Technical Account Executive",
+    "location": "India or EU",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://jobs.ashbyhq.com/SigNoz/f8df4096-204a-41f7-a79c-5cf71ef79cd8/application",
+    "source": "ashby",
+    "match_score": 30,
+    "description": "About SigNoz SigNoz is an open-source observability platform that helps developers monitor, trace, and debug their applications fast. Today we serve users in 30+ countries , have 25k+ GitHub stars , a 7,000-member Slack community , and 180+ OSS contributors —all while operating as a fully remote, globally distributed team. We’re YC-backed and supported by leading Bay-Area VCs. About the Role This isn’t your typical Sales role. If you’re looking for a role where you loop in a Sales Engineer and then pass it on to CS to manage, you should stop reading now. You'll own deals from first conversation to making the customer successful — running discovery, delivering demos, addressing technical queries, helping with instrumentation/dashboards, navigating security/finance/legal evaluations. We're looking for someone who is: Technical enough to help customers with observability - you'll work directly with customer engineering teams to design their OpenTelemetry instrumentation strategy, customize dashboards, and optimize for their specific use cases. Product-minded to feed intelligence back to teams - you'll identify patterns in customer engagements and work with product teams to build better defaults, templates, and tooling. Someone who can scale Sales/CS function - you will build the foundation for Sales/CS function and grow into leadership as we scale. Who would be a good fit 2-6 years experience in customer-facing technical role - Sales Engineer, Solutions Architects, Technical Account Manager, Technical Customer Success Manager or similar. Good understanding of modern technical systems - Cloud providers (AWS/GCP/Azure), Containers, Kubernetes and similar. Good understanding of observability platforms - SigNoz, Grafana/Prometheus, DataDog, or similar platforms Excellent written and verbal communication - can speak and write in a clear and actionable way to deliver clarity to both customers and internal teams. Who may not be a good fit People who prefer taking someone with you to every customer meeting. People who struggle with technical writing or documentation",
+    "posted_at": "2026-10-13T14:56:46.605+00:00"
+  },
+  {
+    "company": "Axiamatic",
+    "role": "Software Engineer - Platform",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-446348-software-engineer-platform-at-axiamatic-2-bangalore/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "AWS, Amazon Web Services, DevOps, Java, Platform, Python"
+  },
+  {
+    "company": "MyBillBook (FloBiz)",
+    "role": "SDE 2",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-425709-sde-2-at-mybillbook-flobiz-bangalore/",
+    "source": "instahyre",
+    "match_score": 45,
+    "description": "Java, Kafka, Golang, Python, Redis, Ruby, Ruby on Rails"
+  },
+  {
+    "company": "Groww",
+    "role": "Software Development Engineer II",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-442044-software-development-engineer-ii-at-groww-2-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "RESTful, SOAP, java, microservices, spring"
+  },
+  {
+    "company": "Kulfi",
+    "role": "Software Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-446029-software-engineer-at-kulfi-bangalore/",
+    "source": "instahyre",
+    "match_score": 45,
+    "description": "API, APIs, flutter, Go, Java, Node.js, React Native, React.js, Spring Boot"
+  },
+  {
+    "company": "Adagrad AI",
+    "role": "Backend Developer - Java",
+    "location": "Mumbai",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-446789-backend-developer-java-at-adagrad-ai-mumbai/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "Cassandra, Hibernate, JDBC, JPA, Java, MongoDB, SQL, Servlets, Spring"
+  },
+  {
+    "company": "Upstox",
+    "role": "Golang Developer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-446825-golang-developer-at-upstox-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "API, APIs, Go, Golang, Golang Developer, REST, backend, microservices"
+  },
+  {
+    "company": "Increff",
+    "role": "SDE 2 - Full - Stack",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-446772-sde-2-full-stack-at-increff-bangalore/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "java, react, relational, spring boot, sql"
+  },
+  {
+    "company": "Mishipay",
+    "role": "Backend Payments Engineer - Python",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-430424-backend-payments-engineer-python-at-mishipay-2-bangalore/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "Adyen, Django, FastAPI, Node.js, NodeJS, Python, Stripe, fintech, payment gateways, payments"
+  },
+  {
+    "company": "EPAM Systems",
+    "role": "Full - Stack Developer - Java",
+    "location": "Bangalore,Hyderabad,Pune",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-446818-full-stack-developer-java-at-epam-systems-bangalore-hyderabad-pune/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "Angular, Java, React, Spring, Spring Boot"
+  },
+  {
+    "company": "GreyOrange",
+    "role": "SDE 2",
+    "location": "Gurgaon",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-416739-sde-2-at-greyorange-2-gurgaon/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "Java, Python, REST, microservices, system design"
+  }
+]

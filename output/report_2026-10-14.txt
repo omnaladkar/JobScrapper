@@ -1,0 +1,72 @@
+# Daily Job Report - 2026-10-14
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 13
+
+1. Airbnb - Operations Engineer, Tech Foundations
+   Location: Remote - India
+   Score: 50/100
+   Apply: https://careers.airbnb.com/positions/8083137?gh_jid=8083137
+
+2. MyBillBook (FloBiz) - SDE 2
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-425709-sde-2-at-mybillbook-flobiz-bangalore/
+
+3. Kulfi - Software Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-446029-software-engineer-at-kulfi-bangalore/
+
+4. Elastic - Marketing AI Engineer
+   Location: Bangalore, India
+   Score: 40/100
+   Apply: https://jobs.elastic.co/jobs?gh_jid=8265123&gh_jid=8265123
+
+5. Adagrad AI - Backend Developer - Java
+   Location: Mumbai
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-446789-backend-developer-java-at-adagrad-ai-mumbai/
+
+6. Mishipay - Backend Payments Engineer - Python
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-430424-backend-payments-engineer-python-at-mishipay-2-bangalore/
+
+7. EPAM Systems - Full - Stack Developer - Java
+   Location: Bangalore,Hyderabad,Pune
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-446818-full-stack-developer-java-at-epam-systems-bangalore-hyderabad-pune/
+
+8. Axiamatic - Software Engineer - Platform
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-446348-software-engineer-platform-at-axiamatic-2-bangalore/
+
+9. Increff - SDE 2 - Full - Stack
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-446772-sde-2-full-stack-at-increff-bangalore/
+
+10. GreyOrange - SDE 2
+   Location: Gurgaon
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-416739-sde-2-at-greyorange-2-gurgaon/
+
+11. SigNoz - Technical Account Executive
+   Location: India or EU
+   Score: 30/100
+   Apply: https://jobs.ashbyhq.com/SigNoz/f8df4096-204a-41f7-a79c-5cf71ef79cd8/application
+
+12. Groww - Software Development Engineer II
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-442044-software-development-engineer-ii-at-groww-2-bangalore/
+
+13. Upstox - Golang Developer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-446825-golang-developer-at-upstox-bangalore/
+
+Generated at: 2026-10-14T07:56:27.110862
