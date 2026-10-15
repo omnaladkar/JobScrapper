@@ -1,0 +1,62 @@
+# Daily Job Report - 2026-10-15
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 11
+
+1. GitLab - Intermediate Backend Engineer, Cells Infrastructure
+   Location: Bangalore, India
+   Score: 85/100
+   Apply: https://job-boards.greenhouse.io/gitlab/jobs/8881474002
+
+2. Zscaler - Software Development Engineer - Java + Distributed Systems
+   Location: Hyderabad, IND
+   Score: 60/100
+   Apply: https://job-boards.greenhouse.io/zscaler/jobs/5261571007
+
+3. GoDaddy - Network Security Automation Engineer
+   Location: India
+   Score: 40/100
+   Apply: https://careers.godaddy/jobs?gh_jid=7728661003
+
+4. Incepteo - Fullstack Developer - AI Native
+   Location: Hyderabad
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-446899-fullstack-developer-ai-native-at-incepteo-hyderabad/
+
+5. Hexaware Technologies - Full - Stack Developer - Java
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-444687-full-stack-developer-java-at-hexaware-technologies-bangalore/
+
+6. Microsoft - Software Engineer II
+   Location: Telangana, Hyderabad, India
+   Score: 35/100
+   Apply: https://apply.careers.microsoft.com/careers/job/1970393557039032
+
+7. Groww - SDE - 2
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-446785-sde-2-at-groww-2-bangalore/
+
+8. InMobi - SDE 3
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-386457-sde-3-at-inmobi-bangalore/
+
+9. MyNaksh - ML Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-447072-ml-engineer-at-mynaksh-bangalore/
+
+10. Robustrade FZCO - Data Platform Engineer
+   Location: Pune
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-447039-data-platform-engineer-at-robustrade-fzco-pune/
+
+11. Hyperface - Software Development Engineer in Test - 1
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-442108-software-development-engineer-in-test-1-at-hyperface-bangalore/
+
+Generated at: 2026-10-15T07:41:44.216748
