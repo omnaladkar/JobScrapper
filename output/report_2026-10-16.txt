@@ -1,0 +1,62 @@
+# Daily Job Report - 2026-10-16
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 11
+
+1. Shiprocket - Backend Engineer
+   Location: Delhi
+   Score: 75/100
+   Apply: https://www.instahyre.com/job-447097-backend-engineer-at-shiprocket-delhi/
+
+2. Star Health and Allied Insurance - Backend Engineer (Java)
+   Location: Pune
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-447055-backend-engineer-java-at-star-health-and-allied-insurance-pune/
+
+3. Star Health and Allied Insurance - Backend Engineer (Java)
+   Location: Gurgaon,Pune
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-446268-backend-engineer-java-at-star-health-and-allied-insurance-gurgaon-pune/
+
+4. StackBox - Node.js Developer
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-443092-node-js-developer-at-stackbox-bangalore/
+
+5. Nineleaps - Software Engineer - Python
+   Location: Mumbai,Navi Mumbai
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-447015-software-engineer-python-at-nineleaps-2-mumbai-navi-mumbai/
+
+6. Cashfree - SDE - 3
+   Location: Bangalore,Gurgaon
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-337046-sde-3-at-cashfree-bangalore-gurgaon/
+
+7. Neufin - Fullstack Developer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-444480-fullstack-developer-at-neufin-bangalore/
+
+8. The Walt Disney Company - Database Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-446545-database-engineer-at-the-walt-disney-company-bangalore/
+
+9. Komprise - SSE - Backend
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-405599-sse-backend-at-komprise-bangalore/
+
+10. Incubyte - TypeScript Developer
+   Location: Bangalore,Gurgaon,Work From Home
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-447177-typescript-developer-at-incubyte-2-bangalore-gurgaon-work-from-home/
+
+11. Inflection - Software Development Engineer 2
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-377957-software-development-engineer-2-at-inflection-bangalore/
+
+Generated at: 2026-10-16T07:28:08.804124
