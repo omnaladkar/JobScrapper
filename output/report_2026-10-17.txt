@@ -1,0 +1,72 @@
+# Daily Job Report - 2026-10-17
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 13
+
+1. Physarum - Backend Engineer
+   Location: Bangalore
+   Score: 75/100
+   Apply: https://www.instahyre.com/job-158231-backend-engineer-at-physarum-bangalore/
+
+2. GitLab - Intermediate Backend Engineer - Code Security
+   Location: Bangalore, India
+   Score: 65/100
+   Apply: https://job-boards.greenhouse.io/gitlab/jobs/8894531002
+
+3. Star Health and Allied Insurance - Backend Engineer (Java Kafka)
+   Location: Pune
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-447237-backend-engineer-java-kafka-at-star-health-and-allied-insurance-pune/
+
+4. Arctic Wolf - Backend Developer
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-366843-backend-developer-at-arctic-wolf-bangalore/
+
+5. Meta - Software Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-447246-software-engineer-at-meta-bangalore/
+
+6. Samsung - Fullstack Developer
+   Location: Delhi,Gurgaon,Pune
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-447233-fullstack-developer-at-samsung-delhi-gurgaon-pune/
+
+7. Bupa - Full Stack Developer (Java)
+   Location: Gurgaon
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-446982-full-stack-developer-java-at-bupa-gurgaon/
+
+8. Synapsewave Innovations - Backend Developer II (Python / Go)
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-444992-backend-developer-ii-python-go-at-synapsewave-innovations-bangalore/
+
+9. Bupa - Full - Stack Developer - Java
+   Location: Gurgaon
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-446984-full-stack-developer-java-at-bupa-gurgaon/
+
+10. Bupa - Software Engineer
+   Location: Gurgaon
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-446983-software-engineer-at-bupa-gurgaon/
+
+11. The Walt Disney Company - Software Engineer
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-420288-software-engineer-at-the-walt-disney-company-bangalore/
+
+12. Medanta - Software Engineer
+   Location: Noida
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-447017-software-engineer-at-medanta-noida/
+
+13. Softility - Akka & Scala Engineer
+   Location: Hyderabad
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-446969-akka-scala-engineer-at-softility-hyderabad/
+
+Generated at: 2026-10-17T07:10:04.869661
