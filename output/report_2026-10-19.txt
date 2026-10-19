@@ -1,0 +1,77 @@
+# Daily Job Report - 2026-10-19
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 14
+
+1. Amazon - Backend Engineer
+   Location: Bangalore
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-447326-backend-engineer-at-amazon-bangalore/
+
+2. Bupa - Full - Stack Developer
+   Location: Gurgaon
+   Score: 60/100
+   Apply: https://www.instahyre.com/job-447331-full-stack-developer-at-bupa-gurgaon/
+
+3. Amazon - Backend Engineer
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-447381-backend-engineer-at-amazon-bangalore/
+
+4. Skit AI - SDE - 2 (Backend)
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-438828-sde-2-backend-at-skit-ai-bangalore/
+
+5. ConverseNow.AI - Software Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-447131-software-engineer-at-conversenow-2-bangalore/
+
+6. Medanta - Software Engineer
+   Location: Noida
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-447184-software-engineer-at-medanta-noida/
+
+7. Viven - Backend Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-395159-backend-engineer-at-viven-bangalore/
+
+8. Arcana - Backend Engineer - AI
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-425908-backend-engineer-ai-at-arcana-bangalore/
+
+9. Databricks - Forward Deployed Engineer, FDE (L4)
+   Location: Remote - India
+   Score: 40/100
+   Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=8876613002
+
+10. CapsLock - Backend Developer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-447350-backend-developer-at-capslock-bangalore/
+
+11. Microsoft - Software Engineer II
+   Location: Karnataka, Bangalore, India
+   Score: 35/100
+   Apply: https://apply.careers.microsoft.com/careers/job/1970393556876286
+
+12. Urban Harvest - Software Engineer - I (Backend)
+   Location: Noida
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-426709-software-engineer-i-backend-at-urban-harvest-noida/
+
+13. Accenture - Custom Software Engineer - ML
+   Location: Bangalore,Chennai,Hyderabad
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-439323-custom-software-engineer-ml-at-accenture-2-bangalore-chennai-hyderabad/
+
+14. Bupa - Fullstack Developer
+   Location: Gurgaon
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-447404-fullstack-developer-at-bupa-gurgaon/
+
+Generated at: 2026-10-19T08:02:51.975399
