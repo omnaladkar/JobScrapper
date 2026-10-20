@@ -1,0 +1,62 @@
+# Daily Job Report - 2026-10-20
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 11
+
+1. Deutsche Telekom Digital Labs - Backend Java Developer
+   Location: Gurgaon
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-442728-backend-java-developer-at-deutsche-telekom-digital-labs-gurgaon/
+
+2. Tekion - Software Engineer 2
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-447188-software-engineer-2-at-tekion-bangalore/
+
+3. ZOOP - Fullstack Engineer
+   Location: Pune
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-447465-fullstack-engineer-at-zoop-pune/
+
+4. Amazon - Product Software Engineer II - 476
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-447419-product-software-engineer-ii-476-at-amazon-bangalore/
+
+5. Observe.AI - Software Development Engineer II - Backend
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-447201-software-development-engineer-ii-backend-at-observe-bangalore/
+
+6. Samsung - Full - Stack Developer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-446888-full-stack-developer-at-samsung-bangalore/
+
+7. Clarisights - Software Engineer - Fullstack (Backend)
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-388288-software-engineer-fullstack-backend-at-clarisights-bangalore/
+
+8. Bupa - Software Engineer
+   Location: Gurgaon
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-447410-software-engineer-at-bupa-gurgaon/
+
+9. Bupa - Software Engineer
+   Location: Gurgaon
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-447411-software-engineer-at-bupa-gurgaon/
+
+10. Bupa - Software Engineer
+   Location: Gurgaon
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-447412-software-engineer-at-bupa-gurgaon/
+
+11. IGT Solutions - Fullstack Developer
+   Location: Chennai
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-447429-fullstack-developer-at-igt-solutions-chennai/
+
+Generated at: 2026-10-20T07:52:56.208841
