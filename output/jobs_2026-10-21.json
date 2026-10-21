@@ -1,0 +1,101 @@
+[
+  {
+    "company": "Stripe",
+    "role": "Software Engineer, Payin",
+    "location": "Bengaluru",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://stripe.com/jobs/search?gh_jid=8185012",
+    "source": "greenhouse",
+    "match_score": 75,
+    "description": "&lt;h2&gt;&lt;strong&gt;Who we are&lt;/strong&gt;&lt;/h2&gt; &lt;h3&gt;&lt;strong&gt;About Stripe&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue and accelerate new business opportunities. Our mission is to increase the GDP of the internet and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone&#39;s reach while doing the most important work of your career.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About the Organization&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Payments is at the core of Stripe’s mission to increase the GDP of the internet. We are expanding our payments footprint in India and we are looking for Backend Engineers to own the technical architecture behind our next generation of payment offerings in India.&amp;nbsp;&lt;/p&gt; &lt;p&gt;As part of the India Payments team, you will build on top of Stripe’s robust foundational platforms, driving complex integrations and contributing to the architectural evolution of the critical services that handle money movement every millisecond. You will engineer the entire horizontal payments stack, driving every phase of a transaction&#39;s journey: integrating with local payment rails, managing initiation and intelligent routing, ensuring reliable completion and automating reconciliation and payouts.&amp;nbsp;&lt;/p&gt; &lt;p&gt;Partnering with cross-functional engineering hubs globally, you will tackle high-stakes technical challenges requiring low-latency execution, strict transactional idempotency, zero-downtime migrations and resilient distributed state management at scale.&lt;/p&gt; &lt;p&gt;If you thrive on taking ambiguous product mandates and turning them into fault-tolerant, self-healing distributed systems, you will feel right at home here.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;What You’ll Do (Core Responsibilities)&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Architect and operate low-latency, fault-tolerant backend microservices that integrate with Indian payment methods&lt;/li&gt; &lt;li&gt;Map complex, India-specific payment flows into Stripe’s global, unified API platforms, ensuring a seamless integration experience for developers worldwide&lt;/li&gt; &lt;li&gt;Design highly reliable adapter layers that interact with domestic banking partners and payment networks, building systems that gracefully handle external API latency and asynchronous callbacks&lt;/li&gt; &lt;li&gt;Own end-to-end service health, implementing shadow rollouts, distributed tracing, automated failovers and proactive alerting for 99.99% uptime&lt;/li&gt; &lt;li&gt;Collaborate with Product, Regulatory/Legal, Risk and Partner Integration teams across global engineering hubs while delivering seamless developer-facing APIs&lt;/li&gt; &lt;li&gt;Mentor and empower engineers to contribute independently through ongoing technical guidance and actionable feedback&lt;/li&gt; &lt;/ul&gt; &lt;h3&gt;&lt;strong&gt;Other Responsibilities&lt;/strong&gt;&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;Independently scope, build and ship medium-to-large projects from ambiguous requirements to production&lt;/li&gt; &lt;li&gt;Build robust APIs that hide the extreme complexity of Indian payment rails behind simple, elegant developer experiences&lt;/li&gt; &lt;li&gt;Partner with product and data teams to proactively identify, size and solve the most impactful problems for our users&lt;/li&gt; &lt;li&gt;Engineer highly reliable, scalable infrastructure that consistently meets strict SLAs for all internal and external systems&lt;/li&gt; &lt;li&gt;Debug production issues across services and multiple levels of the stack with an eye towards improving maintainability over the long term&lt;/li&gt; &lt;li&gt;Improve engineering standards, tooling and processes&lt;/li&gt; &lt;li&gt;Accelerate team velocity through high-quality code reviews and architectural collaboration&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Who you are&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Minimum requirements&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;&lt;strong&gt;8+ years of experience &lt;/strong&gt;designing, implementing and operating large-scale, high-performance APIs and services&lt;/li&gt; &lt;li&gt;You have implemented server-side APIs in languages like Ruby, Java, or Go, working with document and relational datastores (especially Mongo and MySQL)&lt;/li&gt; &lt;li&gt;Empathetic, collaborative and user-first mindset in everything you build and have excellent oral and written communication&lt;/li&gt; &lt;li&gt;Experience proactively seeking feedback from users, teammates and subject matter experts&lt;/li&gt; &lt;li&gt;The ability to balance speed, complexity, and scope in service of user needs&lt;/li&gt; &lt;li&gt;Excellent oral and written communication&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&lt;strong&gt;Preferred qualifications&lt;/strong&gt;&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Experience building large-scale financial systems, payments infrastructure or working in the broader fintech industry is a plus&lt;/li&gt; &lt;li&gt;Experience building distributed systems or operating within a complex microservices architecture&lt;/li&gt; &lt;li&gt;Proficiency in Ruby, Java, or Go, with deep experience modeling data in relational and document databases (e.g., MySQL, Mongo)&lt;/li&gt; &lt;li&gt;Experience driving technical alignment across global, cross-functional teams&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;In-office expectations&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Office-assigned Stripes in most of our locations are currently expected to spend at least 50% of the time in a given month in their local office or with users. This expectation may vary depending on role, team and location. For example, Stripes in Stripe Delivery Center roles in Mexico City, Mexico, Bengaluru, India and Dublin, Ireland work 100% from the office. Also, some teams have greater in-office attendance requirements, to appropriately support our users and workflows, which the hiring manager will discuss. This approach helps strike a balance between bringing people together for in-person collaboration and learning from each other, while supporting flexibility when possible.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;Pay and benefits&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Stripe does not yet include pay ranges in job postings in every country. Stripe strongly values pay transparency and is working toward pay transparency globally.&lt;/p&gt; &lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;"
+  },
+  {
+    "company": "New Relic",
+    "role": "Software Engineer 1",
+    "location": "Bangalore, India",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://job-boards.greenhouse.io/newrelic/jobs/5444781008",
+    "source": "greenhouse",
+    "match_score": 100,
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;We are a global team of innovators and pioneers dedicated to shaping the future of observability. At New Relic, we build an intelligent platform that empowers companies to thrive in an AI-first world by giving them unparalleled insight into their complex systems. As we continue to expand our global footprint, we&#39;re looking for passionate people to join our mission. If you&#39;re ready to help the world&#39;s best companies optimize their digital applications, we invite you to explore a career with us!&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;strong&gt;The Opportunity&lt;/strong&gt;&lt;br&gt;We are looking for a Full Stack Software Engineer to join our product engineering&amp;nbsp;organization. In this role, you will help design, build, and scale features across our unified&amp;nbsp;platform—from highly responsive React user interfaces down to core data processing backends&amp;nbsp;built on Java and Python.This role is exceptional for an engineer looking to combine traditional full-stack development&amp;nbsp;with cutting-edge AI-native engineering, specifically working with custom instrumentation&amp;nbsp;agents and the emerging Model Context Protocol (MCP) ecosystem.&lt;br&gt;&lt;strong&gt;What You&#39;ll Do&lt;/strong&gt;&lt;br&gt;● End-to-End Ownership: Feature delivery from UI wireframes to backend&lt;br&gt;implementation, database migrations, and production deployments.&lt;br&gt;● UI/UX Development: Build, maintain, and optimize elegant, data-dense web&lt;br&gt;experiences and custom charts/dashboards using React, JavaScript, and HTML.&lt;br&gt;● Scalable Backend Services: Write high-quality, production-ready backend logic utilizing&lt;br&gt;Java (Spring Boot) and Python for processing heavy telemetry workloads.&lt;br&gt;● Database Management: Model data for high-throughput, low-latency systems across&lt;br&gt;structured SQL and unstructured NoSQL databases.&lt;br&gt;● DevOps &amp;amp; Observability Culture: Actively leverage New Relic’s own platform to&lt;br&gt;monitor app health, troubleshoot production latency, and improve system reliability.&lt;br&gt;&lt;strong&gt;This Role Requires&lt;/strong&gt;&lt;br&gt;● Experience: 3 + years of professional software engineering experience in a&lt;br&gt;collaborative, agile team environment.&lt;br&gt;● Front End Craftsmanship: Strong proficiency in React, vanilla JavaScript, and&lt;br&gt;HTML. Solid understanding of state management and modern CSS.&lt;br&gt;● Backend Skills: Deep hands-on experience in Java (JVM tuning and microservices&lt;br&gt;framework experience preferred) combined with professional exposure to Python for&lt;br&gt;scripts, data pipelines, or web services.&lt;br&gt;● Database Proficiency: Solid understanding of data modeling, schema design, and&lt;br&gt;query optimization (e.g., PostgreSQL, MySQL, MongoDB, or Redis).&lt;br&gt;● Software Hygiene: Strong mastery of Git workflows, unit/integration testing (e.g., JUnit,&lt;br&gt;Jest, PyTest), and continuous integration/continuous deployment (CI/CD) pipelines.&lt;br&gt;&lt;strong&gt;Bonus Points (Added Advantages)&lt;/strong&gt;&lt;br&gt;● Telemetry &amp;amp; Agent Development: Experience writing or customizing monitoring&lt;br&gt;agents, eBPF probes, or open-source collection daemons (like OpenTelemetry).&lt;br&gt;● AI Tools &amp;amp; MCP Servers: Experience developing or connecting to Model Context&lt;br&gt;Protocol (MCP) servers, creating developer tools, or designing custom AI agent&lt;br&gt;integrations to enhance engineering productivity.&lt;br&gt;● Distributed Systems: Familiarity with high-throughput messaging structures like&lt;br&gt;Apache Kafka or AWS Kinesis.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;p&gt;Fostering a diverse, welcoming and inclusive environment is important to us. We work hard to make everyone feel comfortable bringing their best, most authentic selves to work every day. We celebrate our talented Relics’ different backgrounds and abilities, and recognize the different paths they took to reach us – including nontraditional ones. Their experiences and perspectives inspire us to make our products and company the best they can be. We’re looking for people who feel connected to our mission and values, not just candidates who check off all the boxes.&amp;nbsp;&lt;/p&gt; &lt;p&gt;If you require a reasonable accommodation to complete any part of the application or recruiting process, please reach out to &lt;a href=&quot;mailto:resume@newrelic.com&quot; target=&quot;_blank&quot;&gt;resume@newrelic.com&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;We believe in empowering all Relics to achieve professional and business success through a flexible workforce model. This model allows us to work in a variety of workplaces that best support our success, including fully office-based, fully remote, or hybrid.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Our hiring process&lt;/strong&gt;&lt;br&gt;&lt;br&gt;In compliance with applicable law, all persons hired will be required to verify identity and eligibility to work and to complete employment eligibility verification. Note: Our stewardship of the data of thousands of customers means that a criminal background check is required to join New Relic.&lt;br&gt;&lt;br&gt;We will consider qualified applicants with arrest and conviction records based on individual circumstances and in accordance with applicable law including, but not limited to, the&amp;nbsp;&lt;a href=&quot;https://sfgov.org/olse/sites/default/files/FCO%20poster2020.pdf&quot; target=&quot;_blank&quot;&gt;San Francisco Fair Chance Ordinance&lt;/a&gt;.&lt;br&gt;&lt;br&gt;Headhunters and recruitment agencies may not submit resumes/CVs through this website or directly to managers. New Relic does not accept unsolicited headhunter and agency resumes, and will not pay fees to any third-party agency or company that does not have a signed agreement with New Relic.&lt;/p&gt; &lt;p&gt;New Relic develops and distributes encryption software and technology that complies with U.S. export controls and licensing requirements. Certain New Relic roles require candidates to pass an export compliance assessment as a condition of employment in any global location. If relevant, we will provide more information later in the application process.&lt;/p&gt; &lt;p&gt;Candidates are evaluated based on qualifications, regardless of race, religion, ethnicity, national origin, sex, sexual orientation, gender expression or identity, age, disability, neurodiversity, veteran or marital status, political viewpoint, or other legally protected characteristics.&amp;nbsp;&lt;/p&gt; &lt;p&gt;Review our Applicant Privacy Notice at&amp;nbsp;&lt;a href=&quot;https://newrelic.com/termsandconditions/applicant-privacy-policy&quot; target=&quot;_blank&quot;&gt;https://newrelic.com/termsandconditions/applicant-privacy-policy&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;"
+  },
+  {
+    "company": "Star Health and Allied Insurance",
+    "role": "Backend Engineer (Java)",
+    "location": "Gurgaon",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-446268-backend-engineer-java-at-star-health-and-allied-insurance-gurgaon/",
+    "source": "instahyre",
+    "match_score": 65,
+    "description": "Java, Kafka, Spring, Spring Boot, Spring MVC"
+  },
+  {
+    "company": "Manifest",
+    "role": "Platform Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-447508-platform-engineer-at-manifest-2-bangalore/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "Kubernetes, Prometheus, Grafana, Python, Containers, DevOps, CI / CD, Cloud Computing, Linux, Monitoring, Shell Scripting, Helm, Docker, Datadog, Terraform, GitLab, GitHub Actions, Jenkins, Azure, Google Cloud (GCP), AWS"
+  },
+  {
+    "company": "Coforge",
+    "role": "Full - Stack Developer - Java",
+    "location": "Delhi,Greater Noida,Gurgaon",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-447537-full-stack-developer-java-at-coforge-delhi-greater-noida-gurgaon/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "AWS, Java, React, React.js"
+  },
+  {
+    "company": "Pathnovo",
+    "role": "AI Harness Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-446124-ai-harness-engineer-at-pathnovo-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "AI Engineer, LLMs, agentic ai, applied ai, embeddings, genai, javascript, multi-agent, python, rag, typescript"
+  },
+  {
+    "company": "InMobi",
+    "role": "Product Development Engineer II",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-442238-product-development-engineer-ii-at-inmobi-bangalore/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "Dashboard, AWS, JAVA, Node.js, Python, React.js"
+  },
+  {
+    "company": "Dextr AI",
+    "role": "Forward Deployed Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-435263-forward-deployed-engineer-at-dextr-ai-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "APIs, LLMs, Python, Agentic AI, Golang, JavaScript, JSON, TypeScript"
+  },
+  {
+    "company": "Oolka",
+    "role": "Backend Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-429893-backend-engineer-at-oolka-bangalore/",
+    "source": "instahyre",
+    "match_score": 55,
+    "description": "AWS, FastAPI, Java, PostgreSQL, Python, Redis"
+  }
+]

@@ -1,0 +1,52 @@
+# Daily Job Report - 2026-10-21
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 9
+
+1. New Relic - Software Engineer 1
+   Location: Bangalore, India
+   Score: 100/100
+   Apply: https://job-boards.greenhouse.io/newrelic/jobs/5444781008
+
+2. Stripe - Software Engineer, Payin
+   Location: Bengaluru
+   Score: 75/100
+   Apply: https://stripe.com/jobs/search?gh_jid=8185012
+
+3. Star Health and Allied Insurance - Backend Engineer (Java)
+   Location: Gurgaon
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-446268-backend-engineer-java-at-star-health-and-allied-insurance-gurgaon/
+
+4. Oolka - Backend Engineer
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-429893-backend-engineer-at-oolka-bangalore/
+
+5. Manifest - Platform Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-447508-platform-engineer-at-manifest-2-bangalore/
+
+6. Coforge - Full - Stack Developer - Java
+   Location: Delhi,Greater Noida,Gurgaon
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-447537-full-stack-developer-java-at-coforge-delhi-greater-noida-gurgaon/
+
+7. InMobi - Product Development Engineer II
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-442238-product-development-engineer-ii-at-inmobi-bangalore/
+
+8. Pathnovo - AI Harness Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-446124-ai-harness-engineer-at-pathnovo-bangalore/
+
+9. Dextr AI - Forward Deployed Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-435263-forward-deployed-engineer-at-dextr-ai-bangalore/
+
+Generated at: 2026-10-21T07:56:39.691965
