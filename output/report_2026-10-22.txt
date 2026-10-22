@@ -1,0 +1,57 @@
+# Daily Job Report - 2026-10-22
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 10
+
+1. Entain India - SDE II
+   Location: Hyderabad
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-441807-sde-ii-at-entain-india-hyderabad/
+
+2. Klimb.io - Chief Technology Officer
+   Location: Mumbai
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-441295-chief-technology-officer-at-klimb-mumbai/
+
+3. Increff - SDE II (Full - Stack)
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-446772-sde-ii-full-stack-at-increff-bangalore/
+
+4. Accenture - Full Stack Developer - Java
+   Location: Bangalore,Chennai,Kolkata
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-447632-full-stack-developer-java-at-accenture-2-bangalore-chennai-kolkata/
+
+5. Observe.AI - Software Development Engineer I - Backend
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-447203-software-development-engineer-i-backend-at-observe-bangalore/
+
+6. Kots - Data Platform Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-446219-data-platform-engineer-at-kots-bangalore/
+
+7. EPAM Systems - Full - Stack Developer - Java
+   Location: Bangalore,Pune
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-447647-full-stack-developer-java-at-epam-systems-bangalore-pune/
+
+8. Bluno - AI Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-447610-ai-engineer-at-bluno-bangalore/
+
+9. Amazon - SDET 2
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-447370-sdet-2-at-amazon-bangalore/
+
+10. GreyOrange - SDE 3
+   Location: Gurgaon
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-437729-sde-3-at-greyorange-2-gurgaon/
+
+Generated at: 2026-10-22T07:54:31.098004

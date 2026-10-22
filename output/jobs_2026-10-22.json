@@ -1,0 +1,112 @@
+[
+  {
+    "company": "Klimb.io",
+    "role": "Chief Technology Officer",
+    "location": "Mumbai",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-441295-chief-technology-officer-at-klimb-mumbai/",
+    "source": "instahyre",
+    "match_score": 50,
+    "description": "Engineering Management, Golang, Java, JavaScript, Node.js, Python, TypeScript"
+  },
+  {
+    "company": "Accenture",
+    "role": "Full Stack Developer - Java",
+    "location": "Bangalore,Chennai,Kolkata",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-447632-full-stack-developer-java-at-accenture-2-bangalore-chennai-kolkata/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "AI, Angular, GEN AI, Generative AI, Java, React, Spring Boot, Vue, Vue.js"
+  },
+  {
+    "company": "Observe.AI",
+    "role": "Software Development Engineer I - Backend",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-447203-software-development-engineer-i-backend-at-observe-bangalore/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "Cassandra, Java, MongoDB, NoSQL, Postgres, Redis, SQL, Spring"
+  },
+  {
+    "company": "Kots",
+    "role": "Data Platform Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-446219-data-platform-engineer-at-kots-bangalore/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "aws, docker, dynamodb, mongodb, mysql, postgresql, python"
+  },
+  {
+    "company": "Amazon",
+    "role": "SDET 2",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-447370-sdet-2-at-amazon-bangalore/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "automation, javascript, playwright, qa, sdet, testing, typescript"
+  },
+  {
+    "company": "GreyOrange",
+    "role": "SDE 3",
+    "location": "Gurgaon",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-437729-sde-3-at-greyorange-2-gurgaon/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "API, Erlang, Go, Golang, Java, Microservice, Microservices, Python, REST"
+  },
+  {
+    "company": "Increff",
+    "role": "SDE II (Full - Stack)",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-446772-sde-ii-full-stack-at-increff-bangalore/",
+    "source": "instahyre",
+    "match_score": 45,
+    "description": "Java, React, Spring Boot"
+  },
+  {
+    "company": "Entain India",
+    "role": "SDE II",
+    "location": "Hyderabad",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-441807-sde-ii-at-entain-india-hyderabad/",
+    "source": "instahyre",
+    "match_score": 55,
+    "description": "Docker, Java, Kubernetes, SQL"
+  },
+  {
+    "company": "EPAM Systems",
+    "role": "Full - Stack Developer - Java",
+    "location": "Bangalore,Pune",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-447647-full-stack-developer-java-at-epam-systems-bangalore-pune/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "Angular, Java, React, ReactJS, Spring Boot"
+  },
+  {
+    "company": "Bluno",
+    "role": "AI Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-447610-ai-engineer-at-bluno-bangalore/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "AWS, Azure, Docker, FastAPI, GCP, Kubernetes, LLM, LangChain, LangGraph, Python, RAG"
+  }
+]
