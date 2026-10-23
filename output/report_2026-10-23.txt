@@ -1,0 +1,67 @@
+# Daily Job Report - 2026-10-23
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 12
+
+1. Neoqubit - SDE II - Backend
+   Location: Bangalore
+   Score: 75/100
+   Apply: https://www.instahyre.com/job-447891-sde-ii-backend-at-neoqubit-bangalore/
+
+2. Shortlist Design - Backend Engineer
+   Location: Gurgaon
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-411090-backend-engineer-at-shortlist-design-gurgaon/
+
+3. Apollo 24|7 - AI Engineer
+   Location: Bangalore
+   Score: 60/100
+   Apply: https://www.instahyre.com/job-428744-ai-engineer-at-apollo-247-bangalore/
+
+4. Bluno - Backend Developer
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-447655-backend-developer-at-bluno-bangalore/
+
+5. Amazon - Full Stack Developer
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-415549-full-stack-developer-at-amazon-bangalore/
+
+6. Medanta - Software Engineer - Backend
+   Location: Greater Noida,Gurgaon,Noida
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-447208-software-engineer-backend-at-medanta-greater-noida-gurgaon-noida/
+
+7. Bupa - Fullstack Developer
+   Location: Gurgaon
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-447618-fullstack-developer-at-bupa-gurgaon/
+
+8. Nineleaps - Fullstack Developer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-447830-fullstack-developer-at-nineleaps-2-bangalore/
+
+9. Interview Kickstart - Software Engineer 2 , Applied AI
+   Location: Bengaluru, Remote - India
+   Score: 35/100
+   Apply: https://jobs.ashbyhq.com/interview-kickstart/d3f56f68-8831-452d-9d37-b4156fbac183/application
+
+10. Amazon - Customer Experience Engineer 2
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-447665-customer-experience-engineer-2-at-amazon-bangalore/
+
+11. AiSensy - AI Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-442753-ai-engineer-at-aisensy-bangalore/
+
+12. Tricog - Fullstack Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-447718-fullstack-engineer-at-tricog-bangalore/
+
+Generated at: 2026-10-23T07:51:58.619577
