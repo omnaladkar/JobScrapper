@@ -1,0 +1,42 @@
+# Daily Job Report - 2026-10-24
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 7
+
+1. Stripe - Software Engineer, Financial Business Insights
+   Location: Bengaluru, India
+   Score: 75/100
+   Apply: https://stripe.com/jobs/search?gh_jid=7543868
+
+2. Lentra.ai - Java Developer
+   Location: Pune
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-447845-java-developer-at-lentra-pune/
+
+3. Cognizant - Full Stack Developer - Java
+   Location: Bangalore,Gurgaon
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-447922-full-stack-developer-java-at-cognizant-bangalore-gurgaon/
+
+4. Manifest - QA Automation Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-447077-qa-automation-engineer-at-manifest-2-bangalore/
+
+5. SAP Labs - SDE 3 (Backend)
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-447909-sde-3-backend-at-sap-labs-bangalore/
+
+6. Praja App - Backend Engineer
+   Location: Hyderabad
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-408553-backend-engineer-at-praja-app-hyderabad/
+
+7. M-League - Software Development Engineer II (Full Stack, Back)
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-446044-software-development-engineer-ii-full-stack-back-at-m-league-bangalore/
+
+Generated at: 2026-10-24T07:33:45.426563
