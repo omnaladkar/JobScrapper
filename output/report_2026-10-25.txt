@@ -1,0 +1,12 @@
+# Daily Job Report - 2026-10-25
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 1
+
+1. Zepto - Backend Engineer - Golang
+   Location: Bangalore
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-447960-backend-engineer-golang-at-zepto-bangalore/
+
+Generated at: 2026-10-25T07:47:17.268790
