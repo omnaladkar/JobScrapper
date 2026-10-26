@@ -1,0 +1,52 @@
+# Daily Job Report - 2026-10-26
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 9
+
+1. SAP Labs - SDE 3 - Fullstack, Backend
+   Location: Bangalore,Noida
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-448007-sde-3-fullstack-backend-at-sap-labs-bangalore-noida/
+
+2. Bluno - Backend Engineer (SDE - 2)
+   Location: Bangalore
+   Score: 60/100
+   Apply: https://www.instahyre.com/job-441454-backend-engineer-sde-2-at-bluno-bangalore/
+
+3. Sarvam AI - Infrastructure Engineer
+   Location: Bengaluru
+   Score: 50/100
+   Apply: https://jobs.ashbyhq.com/sarvam/f09b6a35-e2d1-4833-8bc5-2b495991d882/application
+
+4. Zeta - Software Development Engineer in Test II
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-447938-software-development-engineer-in-test-ii-at-zeta-bangalore/
+
+5. Fractal Analytics - Fullstack Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-431252-fullstack-engineer-at-fractal-analytics-bangalore/
+
+6. Microsoft - Software Engineer II
+   Location: Karnataka, Bangalore, India
+   Score: 35/100
+   Apply: https://apply.careers.microsoft.com/careers/job/1970393557045704
+
+7. Microsoft - Software Engineer II
+   Location: Karnataka, Bangalore, India
+   Score: 35/100
+   Apply: https://apply.careers.microsoft.com/careers/job/1970393557026313
+
+8. Bluno - DevSecOps Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-441830-devsecops-engineer-at-bluno-bangalore/
+
+9. BookMyShow - Software Development Engineer - III
+   Location: Mumbai
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-446573-software-development-engineer-iii-at-bookmyshow-mumbai/
+
+Generated at: 2026-10-26T08:03:19.251609
