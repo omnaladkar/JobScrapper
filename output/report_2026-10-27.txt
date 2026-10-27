@@ -1,0 +1,62 @@
+# Daily Job Report - 2026-10-27
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 11
+
+1. Saviynt - Software Engineer (Java/Python)
+   Location: Bengaluru, India
+   Score: 100/100
+   Apply: https://jobs.lever.co/saviynt/b39f6fac-1a05-401a-83b7-831cffd35843/apply
+
+2. Blue Yonder - Software Engineer
+   Location: Bangalore,Hyderabad
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-446794-software-engineer-at-blue-yonder-bangalore-hyderabad/
+
+3. Weigandt Consulting - Java Developer (SDE 2)
+   Location: Bangalore
+   Score: 60/100
+   Apply: https://www.instahyre.com/job-448163-java-developer-sde-2-at-weigandt-consulting-bangalore/
+
+4. Deepsa AI Automation - Backend Engineer
+   Location: Hyderabad,Shillong
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-448029-backend-engineer-at-deepsa-ai-automation-hyderabad-shillong/
+
+5. Hoomanely - SDE II (Full - Stack)
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-447851-sde-ii-full-stack-at-hoomanely-bangalore/
+
+6. PhonePe - Backend Engineer
+   Location: Hyderabad
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-205689-backend-engineer-at-phonepe-hyderabad/
+
+7. RovorAI - Fullstack Developer
+   Location: Dehradun,Delhi,Noida
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-447330-fullstack-developer-at-rovorai-dehradun-delhi-noida/
+
+8. Bluno - DevSecOps Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-441438-devsecops-engineer-at-bluno-bangalore/
+
+9. WazirX - Backend Engineer
+   Location: Mumbai
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-446263-backend-engineer-at-wazirx-mumbai/
+
+10. Metaforms AI - Product Engineer
+   Location: Bengaluru
+   Score: 30/100
+   Apply: https://jobs.ashbyhq.com/metaforms/fbaa4289-1ec2-4e48-a83f-ddd090715cd6/application
+
+11. Bupa - Full - Stack Engineer
+   Location: Gurgaon
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-447753-full-stack-engineer-at-bupa-gurgaon/
+
+Generated at: 2026-10-27T08:13:35.162306

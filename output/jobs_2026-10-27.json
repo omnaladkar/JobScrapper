@@ -1,0 +1,125 @@
+[
+  {
+    "company": "Metaforms AI",
+    "role": "Product Engineer",
+    "location": "Bengaluru",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://jobs.ashbyhq.com/metaforms/fbaa4289-1ec2-4e48-a83f-ddd090715cd6/application",
+    "source": "ashby",
+    "match_score": 30,
+    "description": "About Metaforms At Metaforms, we’re redefining how market research gets done. We build AI agents for market research teams. Our platform empowers the world’s leading research agencies to scale 10x faster while maintaining quality, helping customers like Dynata, Savanta, and Borderless Access deliver more projects with less effort. 1,000+ surveys processed monthly Serving Fortune 500 companies Experiencing rapid month-over-month growth Backed by $9M in Series A funding to aggressively scale The Role We’re hiring a Product Engineer with 3+ years of software engineering experience who wants a say in what gets built, and can build it. In this role, you’ll work closely with customers to find the real friction in their workflows, shape solutions, and ship them across the stack, bringing AI into production workflows that research teams rely on every day. What You’ll Do Get close to customers. Watch how they work. Find the friction they’ve learned to live with. Pick a problem, shape the solution, and ship it across the stack. Build interfaces people understand and systems they can depend on. Bring AI into real workflows, with the evaluations and recovery paths to make it useful. Follow your work into production. Look at usage, listen to feedback, and keep improving it. Challenge a bad idea, including your own. What We’re Looking For Core Skills 3+ years of experience building and shipping software Strong full-stack skills. We work with React, TypeScript, Python, and AWS Evidence of things you’ve taken from idea to working product Good judgment about scope, speed, quality, and when to stop polishing Care for the small details that make software feel good The initiative to get context, make a decision, and move Bonus Points Experience with AI products Experience with enterprise workflows Experience on early-stage teams Why Join Metaforms? Have a real say in what gets built, not just how Ship AI into production workflows used by leading research agencies Work with a high-agency, motivated team of engineers, product thinkers, and designers Thrive in a zero-bureaucracy culture focused on speed, quality, and customer outcomes Be part of a Series A funded company scaling rapidly Benefits Full family health insurance $1,000 USD annual reimbursement for skill development Dedicated mentor/coach support Free lunch &amp; dinner at the office Monthly food/snacks allowance",
+    "posted_at": "2026-10-27T03:35:04.647+00:00"
+  },
+  {
+    "company": "Saviynt",
+    "role": "Software Engineer (Java/Python)",
+    "location": "Bengaluru, India",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://jobs.lever.co/saviynt/b39f6fac-1a05-401a-83b7-831cffd35843/apply",
+    "source": "lever",
+    "match_score": 100,
+    "description": "Saviynt is a leading company specializing in IAM and Identity Governance. We are committed to delivering innovative and high-quality solutions to our clients. We are looking for a talented and motivated Engineer II to join our dynamic team.\n \nWe are seeking an experienced engineer II with strong expertise in Java, Spring Boot, microservices architecture, Kubernetes, cloud platforms, and messaging services like RabbitMQ. Knowledge of Groovy/Grails is a plus. The ideal candidate will have a passion for developing high-quality software solutions and a keen interest in cutting-edge technologies\n Education: Bachelor’s degree in Computer Science, Engineering, or a related field. Experience: 3-5 years of experience in software development. &nbsp; Technical Skills : Proficient in Java and Spring Boot. Strong experience with microservices architecture. Hands-on experience with Kubernetes and cloud platforms (AWS, Azure, GCP). Knowledge of messaging services like RabbitMQ. Familiarity with Groovy/Grails is a plus. ○ Experience with version control systems (Git). Understanding of CI/CD pipelines. Familiarity with testing frameworks (JUnit, Mockito). Contribute to the design and implementation of multi-agent AI workflows. Work with foundation models (GPT, Claude, Llama) to build domain- &nbsp;specific AI features. Soft Skills: Strong problem-solving and analytical skills. Excellent verbal and written communication skills. Ability to work effectively in a collaborative team environment. Willingness to learn new technologies and adapt to changing requirements Software Development: Design, develop, and maintain applications using Java and Spring Boot. Implement microservices architecture to build scalable and resilient systems. Write clean, efficient, and maintainable code following best practices. System Design and Architecture: &nbsp; Contribute to the design and architecture of new and existing systems. Collaborate with architects and senior engineers to ensure the scalability and reliability of applications. Cloud and Containerization: &nbsp; Deploy and manage applications on cloud platforms (AWS, Azure, or GCP). Use Kubernetes for container orchestration and management. Messaging Services: &nbsp; Implement and manage messaging services like RabbitMQ to ensure reliable and efficient communication between microservices. Testing and Quality Assurance: &nbsp; Perform unit and integration testing to ensure the software meets requirements and is bug-free. Participate in code reviews to maintain code quality and share knowledge. Documentation: &nbsp; Document the design, architecture, and development processes. Write clear and concise technical documentation and user guides. Troubleshooting and Debugging: &nbsp; Identify and resolve software defects and performance issues. Debug and optimize the application for maximum speed and scalability. Continuous Improvement: &nbsp; Stay updated with the latest industry trends and technologies. Continuously improve the software development process and suggest improvements. Collaboration and Communication: &nbsp; Work closely with other engineers, product managers, and stakeholders to deliver high-quality products. Communicate effectively with team members and stakeholders to understand requirements and provide updates. Mentorship: Mentor junior developers and help them grow their skills",
+    "posted_at": "2026-01-19T16:09:28.971000"
+  },
+  {
+    "company": "Weigandt Consulting",
+    "role": "Java Developer (SDE 2)",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-448163-java-developer-sde-2-at-weigandt-consulting-bangalore/",
+    "source": "instahyre",
+    "match_score": 60,
+    "description": "Azure, Java, Microservices, Spring Boot"
+  },
+  {
+    "company": "RovorAI",
+    "role": "Fullstack Developer",
+    "location": "Dehradun,Delhi,Noida",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-447330-fullstack-developer-at-rovorai-dehradun-delhi-noida/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "API, APIs, JavaScript, Node, Node.js, REST, TypeScript"
+  },
+  {
+    "company": "Hoomanely",
+    "role": "SDE II (Full - Stack)",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-447851-sde-ii-full-stack-at-hoomanely-bangalore/",
+    "source": "instahyre",
+    "match_score": 45,
+    "description": "CI/CD, Flutter, Go, Golang, Node.js, NodeJS, Python, React, React.js"
+  },
+  {
+    "company": "Bluno",
+    "role": "DevSecOps Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-441438-devsecops-engineer-at-bluno-bangalore/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "AWS, Amazon Web Services, CI/CD, DevOps, DevSecOps, Docker, Kubernetes, Terraform"
+  },
+  {
+    "company": "WazirX",
+    "role": "Backend Engineer",
+    "location": "Mumbai",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-446263-backend-engineer-at-wazirx-mumbai/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "Golang, gin, Node.js, System Integration"
+  },
+  {
+    "company": "Bupa",
+    "role": "Full - Stack Engineer",
+    "location": "Gurgaon",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-447753-full-stack-engineer-at-bupa-gurgaon/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "Java, React, React.js, Spring Boot"
+  },
+  {
+    "company": "Deepsa AI Automation",
+    "role": "Backend Engineer",
+    "location": "Hyderabad,Shillong",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-448029-backend-engineer-at-deepsa-ai-automation-hyderabad-shillong/",
+    "source": "instahyre",
+    "match_score": 55,
+    "description": "Agentic AI, AI ENGINEER, AIML, backend, BACKEND ENGINEER, DATA SCIENTIST, distributed systems, LangChain, LLAMDAINDEX, LLM, Node, Node.js, Python, RAG, SOFTWARE ENGINEER"
+  },
+  {
+    "company": "PhonePe",
+    "role": "Backend Engineer",
+    "location": "Hyderabad",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-205689-backend-engineer-at-phonepe-hyderabad/",
+    "source": "instahyre",
+    "match_score": 45,
+    "description": "Data Structures, Java, Kafka, multithreading"
+  },
+  {
+    "company": "Blue Yonder",
+    "role": "Software Engineer",
+    "location": "Bangalore,Hyderabad",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-446794-software-engineer-at-blue-yonder-bangalore-hyderabad/",
+    "source": "instahyre",
+    "match_score": 65,
+    "description": "Docker, Java, Kubernetes, REST, SQL, Spring Boot, microservices"
+  }
+]
