@@ -1,0 +1,102 @@
+# Daily Job Report - 2026-10-28
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 19
+
+1. Kotak Mahindra Bank - SDE II - Backend
+   Location: Bangalore
+   Score: 85/100
+   Apply: https://www.instahyre.com/job-294203-sde-ii-backend-at-kotak-mahindra-bank-bangalore/
+
+2. Rubrik - Sr AI Engineer, Agentic Systems
+   Location: Bengaluru, India
+   Score: 70/100
+   Apply: https://www.rubrik.com/company/careers/departments/job.8318044?gh_jid=8318044
+
+3. GitLab - Software Engineer, Delivery : Release
+   Location: Bangalore, India
+   Score: 55/100
+   Apply: https://job-boards.greenhouse.io/gitlab/jobs/8916232002
+
+4. Wissen Technology - Java Developer
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-448316-java-developer-at-wissen-technology-bangalore/
+
+5. Consuma - Backend Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-448159-backend-engineer-at-consuma-bangalore/
+
+6. CapsLock - Backend Engineer - Golang
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-448322-backend-engineer-golang-at-capslock-bangalore/
+
+7. Aegion AI - Backend Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-448232-backend-engineer-at-aegion-ai-bangalore/
+
+8. GeoServe - Full Stack Developer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-383520-full-stack-developer-at-geoserve-bangalore/
+
+9. HUMBEE - Backend Software Developer
+   Location: Noida
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-447912-backend-software-developer-at-humbee-noida/
+
+10. Nationwide - Agentic AI Engineer
+   Location: Hyderabad
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-448260-agentic-ai-engineer-at-nationwide-hyderabad/
+
+11. Shamrock AI - Backend AI Engineer
+   Location: Hyderabad
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-448113-backend-ai-engineer-at-shamrock-ai-hyderabad/
+
+12. Robustrade FZCO - Platform Engineer
+   Location: Pune
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-435855-platform-engineer-at-robustrade-fzco-pune/
+
+13. New Relic - Software Engineer
+   Location: Bangalore, India
+   Score: 35/100
+   Apply: https://job-boards.greenhouse.io/newrelic/jobs/5459401008
+
+14. Zepto - Software Engineer 1 - Web
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-448344-software-engineer-1-web-at-zepto-bangalore/
+
+15. Fleetx - Software Engineer - Backend
+   Location: Gurgaon
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-448295-software-engineer-backend-at-fleetx-gurgaon/
+
+16. Loreal - Full - Stack Engineer
+   Location: Hyderabad
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-448349-full-stack-engineer-at-loreal-hyderabad/
+
+17. Tesco - Platform Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-448317-platform-engineer-at-tesco-bangalore/
+
+18. neuroGrid - Applied AI Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-410656-applied-ai-engineer-at-neurogrid-bangalore/
+
+19. Khatabook - Data Platform Engineer - II
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-448350-data-platform-engineer-ii-at-khatabook-bangalore/
+
+Generated at: 2026-10-28T08:52:47.935383
