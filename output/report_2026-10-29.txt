@@ -1,0 +1,92 @@
+# Daily Job Report - 2026-10-29
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 17
+
+1. Slikk - Backend Developer (SDE1)
+   Location: Bangalore
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-447352-backend-developer-sde1-at-slikk-bangalore/
+
+2. Sarvam AI - SDE2 - API Platform
+   Location: Bengaluru
+   Score: 55/100
+   Apply: https://jobs.ashbyhq.com/sarvam/fd9ca9f7-c546-4264-acc6-ee4e58c0e693/application
+
+3. Tekion - ML Engineer
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-407779-ml-engineer-at-tekion-bangalore/
+
+4. Rakuten - FullStack Engineer - Java
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-448374-fullstack-engineer-java-at-rakuten-2-bangalore/
+
+5. Stripe - Software Engineer, New Grad
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://stripe.com/jobs/search?gh_jid=8130876
+
+6. Commvault - Software Engineer (Python)
+   Location: Bangalore, India; Hyderbad, India; Pune, India
+   Score: 45/100
+   Apply: https://job-boards.greenhouse.io/commvault/jobs/5440365008
+
+7. Bright Money - SDET II
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-447607-sdet-ii-at-bright-money-bangalore/
+
+8. Graph AI - Full - Stack Developer
+   Location: Hyderabad
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-448275-full-stack-developer-at-graph-ai-hyderabad/
+
+9. OneShot AI - Founding Engineer - Backend
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-410673-founding-engineer-backend-at-oneshot-ai-bangalore/
+
+10. Microsoft - Software Engineer II
+   Location: Telangana, Hyderabad, India
+   Score: 35/100
+   Apply: https://apply.careers.microsoft.com/careers/job/1970393557047620
+
+11. Bright Money - SDE 3
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-447477-sde-3-at-bright-money-bangalore/
+
+12. Girmiti Software - SDET
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-448452-sdet-at-girmiti-software-bangalore/
+
+13. RapidClaims - Software Development Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-440311-software-development-engineer-at-rapidclaims-bangalore/
+
+14. Emergent - Backend Developer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-419077-backend-developer-at-emergent-bangalore/
+
+15. Robustrade FZCO - Data Platform Engineer
+   Location: Bangalore,Pune,Work From Home
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-448319-data-platform-engineer-at-robustrade-fzco-bangalore-pune-work-from-home/
+
+16. Amazon Entertainment - Software Developer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-448487-software-developer-at-amazon-entertainment-bangalore/
+
+17. BukuWarung - AI / ML Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-439641-ai-ml-engineer-at-bukuwarung-bangalore/
+
+Generated at: 2026-10-29T08:47:43.679064
