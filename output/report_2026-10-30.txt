@@ -1,0 +1,37 @@
+# Daily Job Report - 2026-10-30
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 6
+
+1. Rubrik - Software Engineer Product Infra: Core Services
+   Location: Bengaluru
+   Score: 65/100
+   Apply: https://www.rubrik.com/company/careers/departments/job.8282005?gh_jid=8282005
+
+2. Rubrik - Database Reliability Engineer/Database Engineer (Rubrik Security Cloud Platform)
+   Location: Bengaluru
+   Score: 40/100
+   Apply: https://www.rubrik.com/company/careers/departments/job.8161018?gh_jid=8161018
+
+3. Wissen Technology - Full - Stack Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-448532-full-stack-engineer-at-wissen-technology-bangalore/
+
+4. StackBox - Node.js Developer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-448104-node-js-developer-at-stackbox-bangalore/
+
+5. EPAM Systems - Full - Stack Developer - Java
+   Location: Bangalore,Chennai,Pune
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-447647-full-stack-developer-java-at-epam-systems-bangalore-chennai-pune/
+
+6. HackerRank - SDET II
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-435865-sdet-ii-at-hackerrank-bangalore/
+
+Generated at: 2026-10-30T08:53:48.562378
