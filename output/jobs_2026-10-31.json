@@ -1,0 +1,68 @@
+[
+  {
+    "company": "CBX1",
+    "role": "Backend Developer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-399198-backend-developer-at-cbx1-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "Java, Python, WebRTC, voice"
+  },
+  {
+    "company": "Samsung",
+    "role": "AI / ML Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-448307-ai-ml-engineer-at-samsung-bangalore/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "AWS, DVC, Docker, Kubernetes, ML Engineer, MLOps, MLflow, Python, SageMaker"
+  },
+  {
+    "company": "Wissen Technology",
+    "role": "Java Developer",
+    "location": "Pune",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-442633-java-developer-at-wissen-technology-pune/",
+    "source": "instahyre",
+    "match_score": 45,
+    "description": "BigQuery, Java, Oracle, Spring, Spring Boot"
+  },
+  {
+    "company": "Tesco",
+    "role": "Backend Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-448254-backend-engineer-at-tesco-bangalore/",
+    "source": "instahyre",
+    "match_score": 65,
+    "description": "Azure, Java, Microservices, OAuth 2.0, PostgreSQL, REST API, Spring Boot"
+  },
+  {
+    "company": "SCIKIQ",
+    "role": "Full Stack Developer",
+    "location": "Delhi,Gurgaon,Noida",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-434721-full-stack-developer-at-scikiq-delhi-gurgaon-noida/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "AWS, Azure, CI / CD, Django, Docker, FastAPI, JavaScript, Python, jQuery"
+  },
+  {
+    "company": "Klimb.io",
+    "role": "Chief Technology Officer",
+    "location": "Mumbai",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-448530-chief-technology-officer-at-klimb-mumbai/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "Django, Express, FastAPI, Flask, Gin, Go, Golang, Java, Node, Node.js, Python, Spring, Spring Boot"
+  }
+]

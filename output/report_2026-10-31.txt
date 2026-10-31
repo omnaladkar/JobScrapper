@@ -1,0 +1,37 @@
+# Daily Job Report - 2026-10-31
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 6
+
+1. Tesco - Backend Engineer
+   Location: Bangalore
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-448254-backend-engineer-at-tesco-bangalore/
+
+2. Wissen Technology - Java Developer
+   Location: Pune
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-442633-java-developer-at-wissen-technology-pune/
+
+3. Samsung - AI / ML Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-448307-ai-ml-engineer-at-samsung-bangalore/
+
+4. SCIKIQ - Full Stack Developer
+   Location: Delhi,Gurgaon,Noida
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-434721-full-stack-developer-at-scikiq-delhi-gurgaon-noida/
+
+5. Klimb.io - Chief Technology Officer
+   Location: Mumbai
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-448530-chief-technology-officer-at-klimb-mumbai/
+
+6. CBX1 - Backend Developer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-399198-backend-developer-at-cbx1-bangalore/
+
+Generated at: 2026-10-31T08:41:58.815826
