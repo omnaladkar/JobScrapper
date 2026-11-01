@@ -1,0 +1,22 @@
+# Daily Job Report - 2026-11-01
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 3
+
+1. Blue Machines AI - Forward Deployed Engineer
+   Location: Ahmedabad,Delhi,Mumbai
+   Score: 60/100
+   Apply: https://www.instahyre.com/job-436475-forward-deployed-engineer-at-blue-machines-ai-ahmedabad-delhi-mumbai/
+
+2. Merge - Golang Developer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-448716-golang-developer-at-merge-2-bangalore/
+
+3. Infosys BPM - Playwright Automation Engineer
+   Location: Bangalore,Chennai
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-448550-playwright-automation-engineer-at-infosys-bpm-bangalore-chennai/
+
+Generated at: 2026-11-01T09:32:58.687472

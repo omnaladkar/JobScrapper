@@ -1,0 +1,35 @@
+[
+  {
+    "company": "Merge",
+    "role": "Golang Developer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-448716-golang-developer-at-merge-2-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "Backend, Go, Golang, Microservices"
+  },
+  {
+    "company": "Blue Machines AI",
+    "role": "Forward Deployed Engineer",
+    "location": "Ahmedabad,Delhi,Mumbai",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-436475-forward-deployed-engineer-at-blue-machines-ai-ahmedabad-delhi-mumbai/",
+    "source": "instahyre",
+    "match_score": 60,
+    "description": "Asterisk, Backend Lead, C++, Call Platform, Exotel, FreeSWITCH, Golang, IVR, Java, Kafka, Lead Engineer, Microservices, Python, RTP, Redis, SIP, Software Architect, Staff SDE, Tech Lead, Telephony, Twilio, Voicebot, WebRTC, WebSockets, voice AI"
+  },
+  {
+    "company": "Infosys BPM",
+    "role": "Playwright Automation Engineer",
+    "location": "Bangalore,Chennai",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-448550-playwright-automation-engineer-at-infosys-bpm-bangalore-chennai/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "Playwright, JavaScript, TypeScript, UI Testing"
+  }
+]
