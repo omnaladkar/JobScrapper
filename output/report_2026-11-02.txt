@@ -1,0 +1,47 @@
+# Daily Job Report - 2026-11-02
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 8
+
+1. Different AI - Backend Engineer
+   Location: Bangalore
+   Score: 85/100
+   Apply: https://www.instahyre.com/job-448600-backend-engineer-at-different-ai-bangalore/
+
+2. KnackLabs - Forward Deployed Engineer
+   Location: Hyderabad
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-448084-forward-deployed-engineer-at-knacklabs-hyderabad/
+
+3. Tailored AI - SDE 2 / 3 - Python + Agentic AI
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-448042-sde-2-3-python-plus-agentic-ai-at-tailored-ai-bangalore/
+
+4. EPAM Systems - Full - Stack Developer - Java
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-445687-full-stack-developer-java-at-epam-systems-bangalore/
+
+5. Zavo - SDE - 1 (Backend)
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-444586-sde-1-backend-at-zavo-bangalore/
+
+6. Databricks - Evergreen - AI Engineer, AI FDE
+   Location: Bengaluru, India
+   Score: 30/100
+   Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=8878946002
+
+7. Meesho - AI Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-446978-ai-engineer-at-meesho-bangalore/
+
+8. Infosys - Playwright Engineer
+   Location: Bangalore,Chennai
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-448742-playwright-engineer-at-infosys-4-bangalore-chennai/
+
+Generated at: 2026-11-02T09:49:00.129340
