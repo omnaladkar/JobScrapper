@@ -1,0 +1,72 @@
+# Daily Job Report - 2026-11-03
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 13
+
+1. InMobi - SDE II (Backend)
+   Location: Bangalore
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-448970-sde-ii-backend-at-inmobi-bangalore/
+
+2. InMobi - Machine Learning Engineer II - Backend
+   Location: Bengaluru
+   Score: 60/100
+   Apply: https://job-boards.greenhouse.io/inmobi/jobs/6898755
+
+3. Commvault - Software Engineer – Automation & ServiceNow
+   Location: Bangalore, India; Hyderbad, India
+   Score: 55/100
+   Apply: https://job-boards.greenhouse.io/commvault/jobs/5275524008
+
+4. Meraki Labs - Backend Engineer
+   Location: Mumbai
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-449005-backend-engineer-at-meraki-labs-mumbai/
+
+5. Meesho - Software Engineer
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-448899-software-engineer-at-meesho-bangalore/
+
+6. Figma - Technical Quality Specialist (Bengaluru, India)
+   Location: Bengaluru, India
+   Score: 50/100
+   Apply: https://boards.greenhouse.io/figma/jobs/6230562004?gh_jid=6230562004
+
+7. Meraki Labs - Backend Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-427195-backend-engineer-at-meraki-labs-bangalore/
+
+8. Meesho - Backend Engineer
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-444534-backend-engineer-at-meesho-bangalore/
+
+9. Anaira AI - Full - Stack Engineer
+   Location: Bangalore,Mumbai
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-448983-full-stack-engineer-at-anaira-ai-bangalore-mumbai/
+
+10. MaxHome.AI - Machine Learning Engineer - voice / Document
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-448916-machine-learning-engineer-voice-document-at-maxhome-bangalore/
+
+11. Microsoft - Software Engineer II
+   Location: Telangana, Hyderabad + 1 more, India
+   Score: 35/100
+   Apply: https://apply.careers.microsoft.com/careers/job/1970393557051182
+
+12. Goldcast - AI Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-448842-ai-engineer-at-goldcast-bangalore/
+
+13. The Financialist - Software Development Engineer II (Full - Stack)
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-448790-software-development-engineer-ii-full-stack-at-the-financialist-bangalore/
+
+Generated at: 2026-11-03T09:53:24.962545
