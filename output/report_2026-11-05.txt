@@ -1,0 +1,77 @@
+# Daily Job Report - 2026-11-05
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 14
+
+1. MasterCard - SDE II (Fullstack)
+   Location: Mumbai
+   Score: 85/100
+   Apply: https://www.instahyre.com/job-448811-sde-ii-fullstack-at-mastercard-mumbai/
+
+2. Infosys - Java Developer
+   Location: Bangalore,Hyderabad,Pune
+   Score: 75/100
+   Apply: https://www.instahyre.com/job-414255-java-developer-at-infosys-4-bangalore-hyderabad-pune/
+
+3. Goldcast - Founding Platform Engineer
+   Location: Bangalore
+   Score: 70/100
+   Apply: https://www.instahyre.com/job-444376-founding-platform-engineer-at-goldcast-bangalore/
+
+4. GitLab - Intermediate Backend Engineer , Security Factory
+   Location: Bangalore, India
+   Score: 55/100
+   Apply: https://job-boards.greenhouse.io/gitlab/jobs/8890971002
+
+5. Weigandt Consulting - Java Developer
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-449119-java-developer-at-weigandt-consulting-bangalore/
+
+6. Swiggy - Golang Developer
+   Location: Bangalore,Work From Home
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-447092-golang-developer-at-swiggy-bangalore-work-from-home/
+
+7. GitLab - Intermediate Backend Engineer, Authorization
+   Location: Bangalore, India
+   Score: 45/100
+   Apply: https://job-boards.greenhouse.io/gitlab/jobs/8905402002
+
+8. FundApps - Full - Stack Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-449081-full-stack-engineer-at-fundapps-bangalore/
+
+9. Wissen Technology - Fullstack Developer - Java
+   Location: Pune
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-449253-fullstack-developer-java-at-wissen-technology-pune/
+
+10. KPI Partners - Gen AI Engineer
+   Location: Bangalore,Hyderabad,Pune
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-447884-gen-ai-engineer-at-kpi-partners-bangalore-hyderabad-pune/
+
+11. Swiggy - SDE 1 - Golang
+   Location: Bangalore,Work From Home
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-447043-sde-1-golang-at-swiggy-bangalore-work-from-home/
+
+12. Point72 - Cloud Compute Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-446233-cloud-compute-engineer-at-point72-bangalore/
+
+13. Myntra - Full - Stack Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-449102-full-stack-engineer-at-myntra-3-bangalore/
+
+14. NovaSignal - Full Stack Developer
+   Location: Bangalore,Work From Home
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-91666-full-stack-developer-at-novasignal-bangalore-work-from-home/
+
+Generated at: 2026-11-05T09:46:18.930562

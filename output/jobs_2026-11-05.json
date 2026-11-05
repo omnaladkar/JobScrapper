@@ -1,0 +1,156 @@
+[
+  {
+    "company": "GitLab",
+    "role": "Intermediate Backend Engineer, Authorization",
+    "location": "Bangalore, India",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8905402002",
+    "source": "greenhouse",
+    "match_score": 45,
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;An overview of this role&lt;/h2&gt; &lt;p&gt;As a Software Engineer on GitLab&#39;s Authorization team, you&#39;ll help build and maintain the system that decides what every user, token, and automated agent can access on GitLab.com, Self-Managed, and Dedicated. You&#39;ll work alongside experienced engineers who guide the larger design decisions, delivering well-scoped changes and growing into ownership of larger parts of the system.&lt;/p&gt; &lt;p&gt;Today, that work is Ruby on Rails. Roughly 400 policy classes and a catalog of about 1,900 permissions sit behind every application programming interface (API) request. You&#39;ll work on fine-grained token permissions, custom roles, and the GraphQL and representational state transfer (REST) APIs that enforce them. A single request can trigger hundreds of permission checks, so correctness and performance both matter.&lt;/p&gt; &lt;p&gt;You&#39;ll also contribute to moving the permission model to a new authorization stack that pairs the Rails monolith with a Rust policy engine. The engine represents access relationships and evaluates permission rules, and can run within the monolith&#39;s process or be reached through remote procedure calls using gRPC. You don&#39;t need prior Rust experience: several engineers on the team learned it for this work, and we&#39;ll support you doing the same.&lt;/p&gt; &lt;p&gt;Some examples of our projects:&lt;/p&gt; &lt;ul&gt; &lt;li value=&quot;1&quot;&gt;Refactoring GitLab&#39;s policy layer so the same permission definitions can be evaluated by the monolith and the new authorization service&lt;/li&gt; &lt;li value=&quot;2&quot;&gt;Extending fine-grained token permissions to more resources, with guidance from senior engineers on the design&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;What you&#39;ll do&lt;/h2&gt; &lt;ul&gt; &lt;li value=&quot;1&quot;&gt;Implement authorization changes in GitLab&#39;s Ruby on Rails monolith so permission checks allow intended access and deny unauthorized access.&lt;/li&gt; &lt;li value=&quot;2&quot;&gt;Deliver well-scoped workstreams from feature-flagged rollout through verifying that the old and new systems produce the same results, with review and guidance from senior engineers.&lt;/li&gt; &lt;li value=&quot;3&quot;&gt;Build and extend fine-grained permissions for tokens and roles so additional resources have permission coverage consistent with the established catalog.&lt;/li&gt; &lt;li value=&quot;4&quot;&gt;Extend and fix authorization enforcement so GraphQL and the REST API enforce the intended permissions consistently.&lt;/li&gt; &lt;li value=&quot;5&quot;&gt;Make incremental refactors to long-lived policy code without changing behavior for existing customers.&lt;/li&gt; &lt;li value=&quot;6&quot;&gt;Investigate and fix reliability, performance, and security issues so affected permission checks return the expected results without regressions.&lt;/li&gt; &lt;li value=&quot;7&quot;&gt;Work with the authentication, platform, and artificial intelligence (AI) teams to document interface contracts that keep permission checks consistent as authorization moves toward a shared service.&lt;/li&gt; &lt;li value=&quot;8&quot;&gt;Contribute to design documents, merge requests, and code reviews so proposed changes have a documented rationale and review feedback is addressed asynchronously.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;What you&#39;ll bring&lt;/h2&gt; &lt;ul&gt; &lt;li value=&quot;1&quot;&gt;Solid experience building and maintaining production Ruby on Rails applications, typically gained over 2 to 4 years or more.&lt;/li&gt; &lt;li value=&quot;2&quot;&gt;Hands-on experience with authorization concepts, such as role-based access control or fine-grained permissions, from work or projects.&lt;/li&gt; &lt;li value=&quot;3&quot;&gt;A security mindset: you treat a permission bug as a security bug and consider who a change could affect before choosing an implementation.&lt;/li&gt; &lt;li value=&quot;4&quot;&gt;Experience making careful changes to existing codebases, including incremental refactors and feature-flagged rollouts that preserve existing behavior.&lt;/li&gt; &lt;li value=&quot;5&quot;&gt;Familiarity with GraphQL or API authorization patterns.&lt;/li&gt; &lt;li value=&quot;6&quot;&gt;Awareness of performance, including how repeated permission checks can add up on every request.&lt;/li&gt; &lt;li value=&quot;7&quot;&gt;Strong written communication and the ability to work effectively when most decisions happen in a document or merge request rather than a meeting.&lt;/li&gt; &lt;li value=&quot;8&quot;&gt;Helpful, but not required: hands-on PostgreSQL experience, or experience with Rust, gRPC or Protocol Buffers, Cedar or other policy languages, Zanzibar-style authorization systems, Go, or service-oriented architecture.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;We welcome transferable experience from adjacent domains such as identity, policy engines, and platform security.&lt;/p&gt; &lt;h2&gt;About the team&lt;/h2&gt; &lt;p&gt;We work in a fully asynchronous organization, with most decisions made in documents or merge requests rather than meetings.&lt;/p&gt; &lt;p&gt;GitLab&#39;s mission is to enable everyone to contribute to and co-create the software that powers our world. Our values include collaboration, results, efficiency, diversity, inclusion and belonging, iteration, and transparency. We expect all GitLab team members to incorporate AI into their daily workflows to drive efficiency, innovation, and impact.&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;&lt;strong&gt;How GitLab Supports Full-Time Employees&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;&gt;Benefits to support your health, finances, and well-being&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto&quot;&gt;Flexible Paid Time Off&amp;nbsp;&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/&quot;&gt;Team Member Resource Groups&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/total-rewards/stock-options/&quot;&gt;Equity Compensation &amp;amp; Employee Stock Purchase Plan&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/&quot;&gt;Growth and Development Fund&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave&quot;&gt;Parental Leave&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from &lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups&quot;&gt;underrepresented groups&lt;/a&gt; are less likely to apply to a job unless they meet every single qualification. If you&#39;re excited about this role, please apply and allow our recruiters to assess your application.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;Country Hiring Guidelines: &lt;/strong&gt;GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.&amp;nbsp;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Privacy Policy: &lt;/strong&gt;Please review our &lt;a href=&quot;https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/&quot; target=&quot;_blank&quot;&gt;Recruitment Privacy Policy.&lt;/a&gt; Your privacy is important to us.&lt;/p&gt; &lt;p&gt;GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy&quot; target=&quot;_blank&quot;&gt;GitLab’s EEO Policy&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices&quot; target=&quot;_blank&quot;&gt;EEO is the Law&lt;/a&gt;. If you have a disability or special need that requires&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation&quot; target=&quot;_blank&quot;&gt;accommodation&lt;/a&gt;, please let us know during the&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process&quot; target=&quot;_blank&quot;&gt;recruiting process&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"
+  },
+  {
+    "company": "GitLab",
+    "role": "Intermediate Backend Engineer , Security Factory",
+    "location": "Bangalore, India",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://job-boards.greenhouse.io/gitlab/jobs/8890971002",
+    "source": "greenhouse",
+    "match_score": 55,
+    "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.&lt;/p&gt; &lt;p&gt;The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&amp;nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. &lt;a href=&quot;https://www.youtube.com/watch?v=OuZIb5zszQI&quot;&gt;Co-create the future with us&lt;/a&gt; as we build technology that transforms how the world develops software.&lt;/p&gt; &lt;p&gt;*&lt;em&gt;Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.&lt;/em&gt;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;An overview of this role&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As an Intermediate Backend Engineer on GitLab&#39;s Security Factory: Code Scanning team, you&#39;ll help developers find and fix security issues in their code by contributing to the static analysis engine that finds them.&lt;/p&gt; &lt;p&gt;Your work spans both the engine and the tools we use to evaluate it. You&#39;ll extend how the engine models programs, from parsing source code and resolving symbols to building call graphs and tracking tainted data across files and languages. You&#39;ll also build and apply tooling to test its findings against benchmark applications with known vulnerabilities, measuring both false positives and missed vulnerabilities.&lt;/p&gt; &lt;p&gt;We build the engine with artificial intelligence (AI) agents that write and review code from written specifications, under human direction. You&#39;ll implement component specifications within the team&#39;s architecture, working with engineers and AI agents. Good judgment about when to trust agent output, and when to bring it to human review, is central to the role.&lt;/p&gt; &lt;h2&gt;&lt;strong&gt;What you&#39;ll do&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Extend the program model, including parsing, symbol resolution, intermediate representations, call graphs, and taint and data-flow analysis, to support new languages and frameworks.&lt;/li&gt; &lt;li&gt;Build and apply AI-assisted tooling to implement, review, and validate engine changes and findings, in collaboration with the team&#39;s technical leadership. Measure detection quality against known vulnerabilities, judging changes primarily on false positive and false negative rates.&lt;/li&gt; &lt;li&gt;Develop static application security testing (SAST) rules mapped to Common Weakness Enumeration (CWE) and the Open Worldwide Application Security Project (OWASP), along with test fixtures that demonstrate they work.&lt;/li&gt; &lt;li&gt;Implement component specifications with engineers and AI agents through phased plans and small, reviewable changes. Keep specifications and code in sync.&lt;/li&gt; &lt;li&gt;Improve the harness, agent instructions, and skills that keep agent-written code trustworthy. Use separate coding and reviewing agents, performance checks, application programming interface (API) checks, and dependency checks, and escalate risky changes to human review.&lt;/li&gt; &lt;li&gt;Solve technical problems of moderate scope and complexity, and identify and address technical debt that slows the team down.&lt;/li&gt; &lt;li&gt;Write maintainable code that meets our internal standards, and help maintain those standards through code review.&lt;/li&gt; &lt;li&gt;Participate in on-call rotations to help troubleshoot product operations, security operations, and urgent engineering issues.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;What you&#39;ll bring&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;Experience using AI or large language model (LLM) tools to generate or evaluate technical content, with the judgment to assess when their output is trustworthy.&lt;/li&gt; &lt;li&gt;Solid professional experience writing and testing production code in a systems language, particularly Rust or Go. Our engine is written in Rust, the analyzer wrapper in Go, and the monolith integration in Ruby. You&#39;ll be willing to work across them.&lt;/li&gt; &lt;li&gt;An interest in static analysis and application security, including parsing, intermediate representations, taint and data-flow analysis, and how vulnerabilities arise in code. Deep expertise isn&#39;t required; we&#39;ll help you grow it.&lt;/li&gt; &lt;li&gt;Organize and progress your work independently in a remote, largely asynchronous environment.&lt;/li&gt; &lt;li&gt;The ability to communicate technical problems clearly and concisely and propose iterative solutions.&lt;/li&gt; &lt;li&gt;Helpful but not required: experience with performance optimization, Docker and continuous integration and continuous delivery (CI/CD), web or mobile frameworks, guardrails for agent-written code such as mutation testing and fuzzing, or program analysis and security research through publications or open source contributions. Willingness to learn performance optimization and containerized workflows is also welcome.&lt;/li&gt; &lt;/ul&gt; &lt;h2&gt;&lt;strong&gt;About the team&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;The Security Factory: Code Scanning team develops GitLab&#39;s SAST capabilities for customer software repositories. We work closely with the Code Security team on scanning rules and flows, with Composition Analysis on the broader software supply chain, and with other groups across the Sec section. We rely heavily on asynchronous work across time zones.&lt;/p&gt; &lt;p&gt;At GitLab, our mission is simple: to enable everyone to contribute to and co-create the software that powers our world.&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;div class=&quot;content-conclusion&quot;&gt;&lt;h4&gt;&lt;strong&gt;How GitLab Supports Full-Time Employees&lt;/strong&gt;&lt;/h4&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/&quot;&gt;Benefits to support your health, finances, and well-being&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/people-group/time-off-and-absence/time-off-types/#flexible-paid-time-off-pto&quot;&gt;Flexible Paid Time Off&amp;nbsp;&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/company/culture/inclusion/tmrg-tmag/&quot;&gt;Team Member Resource Groups&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/total-rewards/stock-options/&quot;&gt;Equity Compensation &amp;amp; Employee Stock Purchase Plan&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://handbook.gitlab.com/handbook/people-group/learning-and-development/growth-and-development/&quot;&gt;Growth and Development Fund&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/#parental-leave&quot;&gt;Parental Leave&lt;/a&gt;&amp;nbsp;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Please note that we welcome interest from candidates with varying levels of experience; many successful candidates do not meet every single requirement. Additionally, studies have shown that people from &lt;a href=&quot;https://about.gitlab.com/company/culture/inclusion/#examples-of-select-underrepresented-groups&quot;&gt;underrepresented groups&lt;/a&gt; are less likely to apply to a job unless they meet every single qualification. If you&#39;re excited about this role, please apply and allow our recruiters to assess your application.&lt;/p&gt; &lt;hr&gt; &lt;p&gt;&lt;strong&gt;Country Hiring Guidelines: &lt;/strong&gt;GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.&amp;nbsp;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;Privacy Policy: &lt;/strong&gt;Please review our &lt;a href=&quot;https://handbook.gitlab.com/handbook/hiring/candidate-faq/recruitment-privacy-policy/&quot; target=&quot;_blank&quot;&gt;Recruitment Privacy Policy.&lt;/a&gt; Your privacy is important to us.&lt;/p&gt; &lt;p&gt;GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy&quot; target=&quot;_blank&quot;&gt;GitLab’s EEO Policy&lt;/a&gt;&amp;nbsp;and&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices&quot; target=&quot;_blank&quot;&gt;EEO is the Law&lt;/a&gt;. If you have a disability or special need that requires&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation&quot; target=&quot;_blank&quot;&gt;accommodation&lt;/a&gt;, please let us know during the&amp;nbsp;&lt;a href=&quot;https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process&quot; target=&quot;_blank&quot;&gt;recruiting process&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"
+  },
+  {
+    "company": "FundApps",
+    "role": "Full - Stack Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-449081-full-stack-engineer-at-fundapps-bangalore/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "AWS, EC2, Fargate, FastAPI, Lambda, Lambdas, Python, React, React.js, Step Functions"
+  },
+  {
+    "company": "Wissen Technology",
+    "role": "Fullstack Developer - Java",
+    "location": "Pune",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-449253-fullstack-developer-java-at-wissen-technology-pune/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "Angular, Java, Spring Boot"
+  },
+  {
+    "company": "Swiggy",
+    "role": "Golang Developer",
+    "location": "Bangalore,Work From Home",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-447092-golang-developer-at-swiggy-bangalore-work-from-home/",
+    "source": "instahyre",
+    "match_score": 50,
+    "description": "APIs, Distributed Systems, Docker, Git, go, Golang, PostgreSQL, Redis, ai, HTTP, Kafka, Mapping, MySQL, Rollout"
+  },
+  {
+    "company": "Swiggy",
+    "role": "SDE 1 - Golang",
+    "location": "Bangalore,Work From Home",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-447043-sde-1-golang-at-swiggy-bangalore-work-from-home/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "Cassandra, Go, Golang, Microservices, MongoDB, MySQL, PostgreSQL"
+  },
+  {
+    "company": "Infosys",
+    "role": "Java Developer",
+    "location": "Bangalore,Hyderabad,Pune",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-414255-java-developer-at-infosys-4-bangalore-hyderabad-pune/",
+    "source": "instahyre",
+    "match_score": 75,
+    "description": "Docker, Hibernate, Java, Microservices, REST, Spring Boot, Spring Security"
+  },
+  {
+    "company": "Point72",
+    "role": "Cloud Compute Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-446233-cloud-compute-engineer-at-point72-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "AWS, Amazon EKS, EC2, ECS, Eks, Kubernetes, Terraform"
+  },
+  {
+    "company": "Myntra",
+    "role": "Full - Stack Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-449102-full-stack-engineer-at-myntra-3-bangalore/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "AWS, Azure, GCP, Node.js, React, React.js"
+  },
+  {
+    "company": "MasterCard",
+    "role": "SDE II (Fullstack)",
+    "location": "Mumbai",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-448811-sde-ii-fullstack-at-mastercard-mumbai/",
+    "source": "instahyre",
+    "match_score": 85,
+    "description": "ai, AWS, fullstack, Java, JavaScript, kafka, llm, PostGIS, rag, React, React.js, software engineer, Spring Boot, springboot, SQL"
+  },
+  {
+    "company": "KPI Partners",
+    "role": "Gen AI Engineer",
+    "location": "Bangalore,Hyderabad,Pune",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-447884-gen-ai-engineer-at-kpi-partners-bangalore-hyderabad-pune/",
+    "source": "instahyre",
+    "match_score": 40,
+    "description": "DataOps, Kafka, Kubeflow, Kubernetes, LangChain, LangGraph, MLflow, Microservices, Python, RAG, Vertex AI"
+  },
+  {
+    "company": "Goldcast",
+    "role": "Founding Platform Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-444376-founding-platform-engineer-at-goldcast-bangalore/",
+    "source": "instahyre",
+    "match_score": 70,
+    "description": "AWS, Api, Backend, Docker, Kafka, Microservices, PostgreSQL, Python, Redis, Services"
+  },
+  {
+    "company": "Weigandt Consulting",
+    "role": "Java Developer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-449119-java-developer-at-weigandt-consulting-bangalore/",
+    "source": "instahyre",
+    "match_score": 55,
+    "description": "Java, Microservices, OAuth, REST, Spring, Spring Boot"
+  },
+  {
+    "company": "NovaSignal",
+    "role": "Full Stack Developer",
+    "location": "Bangalore,Work From Home",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-91666-full-stack-developer-at-novasignal-bangalore-work-from-home/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "MERN, Node.js, TypeScript"
+  }
+]
