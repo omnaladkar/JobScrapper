@@ -1,0 +1,32 @@
+# Daily Job Report - 2026-11-07
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 5
+
+1. Target in India - Development Engineer (Midops)
+   Location: Bangalore
+   Score: 60/100
+   Apply: https://www.instahyre.com/job-448722-development-engineer-midops-at-target-in-india-bangalore/
+
+2. Wayfair - Software Engineer II
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-449053-software-engineer-ii-at-wayfair-bangalore/
+
+3. Twilio - Software Engineer (L3)
+   Location: Remote - India
+   Score: 45/100
+   Apply: https://job-boards.greenhouse.io/twilio/jobs/8319386
+
+4. Glomopay - Software Engineer - Infrastructure
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-450033-software-engineer-infrastructure-at-glomopay-bangalore/
+
+5. Riyom Technologies - QA Automation Engineer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-450040-qa-automation-engineer-at-riyom-technologies-bangalore/
+
+Generated at: 2026-11-07T09:05:00.532036
