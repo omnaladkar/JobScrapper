@@ -1,0 +1,12 @@
+# Daily Job Report - 2026-11-09
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 1
+
+1. Infosys - Automation Testing (Java + Selenium)
+   Location: Bangalore,Delhi,Pune
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-447355-automation-testing-java-plus-selenium-at-infosys-4-bangalore-delhi-pune/
+
+Generated at: 2026-11-09T10:05:39.722168
