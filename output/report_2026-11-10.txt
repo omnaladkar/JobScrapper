@@ -1,0 +1,22 @@
+# Daily Job Report - 2026-11-10
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 3
+
+1. Amazon - Backend Engineer
+   Location: Bangalore
+   Score: 85/100
+   Apply: https://www.instahyre.com/job-434599-backend-engineer-at-amazon-bangalore/
+
+2. Rocketlane - AI Engineer
+   Location: Chennai
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-449999-ai-engineer-at-rocketlane-chennai/
+
+3. Tennr - Implementation Engineer
+   Location: Gurgaon
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-449970-implementation-engineer-at-tennr-gurgaon/
+
+Generated at: 2026-11-10T10:15:50.647449

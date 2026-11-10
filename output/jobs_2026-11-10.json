@@ -1,0 +1,35 @@
+[
+  {
+    "company": "Rocketlane",
+    "role": "AI Engineer",
+    "location": "Chennai",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-449999-ai-engineer-at-rocketlane-chennai/",
+    "source": "instahyre",
+    "match_score": 50,
+    "description": "API, AWS, Docker, ETL, JavaScript, LLM, OAuth, Prompt Engineering, Python, REST, TypeScript, Webhooks"
+  },
+  {
+    "company": "Amazon",
+    "role": "Backend Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-434599-backend-engineer-at-amazon-bangalore/",
+    "source": "instahyre",
+    "match_score": 85,
+    "description": "\"Golang\", \"Java\", \"Spring Boot\", AWS, Distributed Systems, Microservices, Node, Node.js, NoSQL, Python, REST APIs, Ruby, Serverless, SQL"
+  },
+  {
+    "company": "Tennr",
+    "role": "Implementation Engineer",
+    "location": "Gurgaon",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-449970-implementation-engineer-at-tennr-gurgaon/",
+    "source": "instahyre",
+    "match_score": 30,
+    "description": "Java, Node.js, Python"
+  }
+]
