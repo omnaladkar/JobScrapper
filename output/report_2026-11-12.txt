@@ -1,0 +1,57 @@
+# Daily Job Report - 2026-11-12
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 10
+
+1. Rubrik - Software Engineer - Cloud: Azure
+   Location: Bangalore 
+   Score: 65/100
+   Apply: https://www.rubrik.com/company/careers/departments/job.8258201?gh_jid=8258201
+
+2. Rubrik - Software Engineer - Cloud Native Protection
+   Location: Bangalore 
+   Score: 65/100
+   Apply: https://www.rubrik.com/company/careers/departments/job.8327940?gh_jid=8327940
+
+3. Bluno - SDE - 1 (Backend)
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-458289-sde-1-backend-at-bluno-bangalore/
+
+4. Bluno - SDE - 1 (Backend)
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-441453-sde-1-backend-at-bluno-bangalore/
+
+5. DevRev - Solution Engineer : Bangalore
+   Location: Bangalore, India
+   Score: 50/100
+   Apply: https://job-boards.greenhouse.io/devrev/jobs/6166569004
+
+6. Bluno - SDE 1
+   Location: Bangalore
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-462609-sde-1-at-bluno-bangalore/
+
+7. Tessell - Platform Engineer
+   Location: Bangalore,Work From Home
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-435988-platform-engineer-at-tessell-2-bangalore-work-from-home/
+
+8. Ascendion - Fullstack Developer
+   Location: Hyderabad
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-440474-fullstack-developer-at-ascendion-hyderabad/
+
+9. Macromill - Machine Learning Engineer - Recommendation
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-448894-machine-learning-engineer-recommendation-at-macromill-bangalore/
+
+10. Sarvam AI - Design Engineer
+   Location: Bengaluru
+   Score: 30/100
+   Apply: https://jobs.ashbyhq.com/sarvam/b3c328f9-39b2-4b60-b7f2-76253d1ec481/application
+
+Generated at: 2026-11-12T10:05:41.667129
