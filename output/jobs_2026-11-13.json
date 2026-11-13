@@ -1,0 +1,79 @@
+[
+  {
+    "company": "Arintra",
+    "role": "Fullstack Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-462594-fullstack-engineer-at-arintra-bangalore/",
+    "source": "instahyre",
+    "match_score": 60,
+    "description": "API Integration, Backend, Go, Golang, Java, Microservices, Node.js, Python, REST API, React, React.js"
+  },
+  {
+    "company": "Subscribili",
+    "role": "Backend Developer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-462711-backend-developer-at-subscribili-bangalore/",
+    "source": "instahyre",
+    "match_score": 50,
+    "description": "Golang, API, APIs, AWS, CI / CD, Distributed Systems, Go, Java, Microservices, Python, REST, SQL"
+  },
+  {
+    "company": "Subscribili",
+    "role": "SDE 3",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-462727-sde-3-at-subscribili-bangalore/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "APIs, Go, Golang, Java, Microservices, Python, REST"
+  },
+  {
+    "company": "8byte",
+    "role": "L3 Software Engineer",
+    "location": "Bangalore",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-462745-l3-software-engineer-at-8byte-bangalore/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "Express.js, NestJS, Next.js, Node.js, React, React.js, TypeScript"
+  },
+  {
+    "company": "DataBahn.ai",
+    "role": "SDE 2",
+    "location": "Chennai",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-462720-sde-2-at-databahn-chennai/",
+    "source": "instahyre",
+    "match_score": 55,
+    "description": "Go, Golang, Docker, Kafka, Kubernetes, Microservices, REST, SQL"
+  },
+  {
+    "company": "Falkonry",
+    "role": "Software Engineer",
+    "location": "Mumbai",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-426818-software-engineer-at-falkonry-mumbai/",
+    "source": "instahyre",
+    "match_score": 35,
+    "description": "Backend, Distributed Systems, Java, Python, Scala"
+  },
+  {
+    "company": "Pendo",
+    "role": "Software Engineer",
+    "location": "Pune",
+    "experience": "",
+    "posted_date": "",
+    "apply_url": "https://www.instahyre.com/job-462575-software-engineer-at-pendo-pune/",
+    "source": "instahyre",
+    "match_score": 45,
+    "description": "APIs, AWS, Backend, C++, Distributed Systems, GCP, Go, Java, Python"
+  }
+]

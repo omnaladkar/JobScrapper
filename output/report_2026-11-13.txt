@@ -1,0 +1,42 @@
+# Daily Job Report - 2026-11-13
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 7
+
+1. Arintra - Fullstack Engineer
+   Location: Bangalore
+   Score: 60/100
+   Apply: https://www.instahyre.com/job-462594-fullstack-engineer-at-arintra-bangalore/
+
+2. DataBahn.ai - SDE 2
+   Location: Chennai
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-462720-sde-2-at-databahn-chennai/
+
+3. Subscribili - Backend Developer
+   Location: Bangalore
+   Score: 50/100
+   Apply: https://www.instahyre.com/job-462711-backend-developer-at-subscribili-bangalore/
+
+4. Pendo - Software Engineer
+   Location: Pune
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-462575-software-engineer-at-pendo-pune/
+
+5. Subscribili - SDE 3
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-462727-sde-3-at-subscribili-bangalore/
+
+6. 8byte - L3 Software Engineer
+   Location: Bangalore
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-462745-l3-software-engineer-at-8byte-bangalore/
+
+7. Falkonry - Software Engineer
+   Location: Mumbai
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-426818-software-engineer-at-falkonry-mumbai/
+
+Generated at: 2026-11-13T09:53:31.532550
