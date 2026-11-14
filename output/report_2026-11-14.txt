@@ -1,0 +1,27 @@
+# Daily Job Report - 2026-11-14
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 4
+
+1. Nomni - Full - Stack Engineer
+   Location: Bangalore,Chennai
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-462852-full-stack-engineer-at-nomni-bangalore-chennai/
+
+2. Google - Golang Developer
+   Location: Mumbai,Navi Mumbai
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-462750-golang-developer-at-google-2-mumbai-navi-mumbai/
+
+3. BlueOptima - Full Stack Developer
+   Location: Bangalore,Gurgaon
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-442042-full-stack-developer-at-blueoptima-bangalore-gurgaon/
+
+4. Snapmint - Full Stack Developer
+   Location: Bangalore
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-462826-full-stack-developer-at-snapmint-bangalore/
+
+Generated at: 2026-11-14T09:16:59.715141
