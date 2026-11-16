@@ -1,0 +1,37 @@
+# Daily Job Report - 2026-11-16
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 6
+
+1. Adobe - Software Engineer - Python
+   Location: Noida
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-441727-software-engineer-python-at-adobe-noida/
+
+2. MediBuddy - SDE 3
+   Location: Bangalore
+   Score: 65/100
+   Apply: https://www.instahyre.com/job-462677-sde-3-at-medibuddy-bangalore/
+
+3. Snapmint - SDE 2 - Backend Developer
+   Location: Bangalore
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-470152-sde-2-backend-developer-at-snapmint-bangalore/
+
+4. Twilio - Software Engineer (L1)
+   Location: Remote - India
+   Score: 45/100
+   Apply: https://job-boards.greenhouse.io/twilio/jobs/8319442
+
+5. Deepsa AI Automation - Backend Engineer - AI
+   Location: Hyderabad
+   Score: 45/100
+   Apply: https://www.instahyre.com/job-462784-backend-engineer-ai-at-deepsa-ai-automation-hyderabad/
+
+6. Lightup Data - Backend Developer - Python
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-354119-backend-developer-python-at-lightup-data-bangalore/
+
+Generated at: 2026-11-16T10:04:18.834447
