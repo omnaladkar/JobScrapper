@@ -1,0 +1,52 @@
+# Daily Job Report - 2026-11-18
+
+Looking back 3 days (score >= 30)
+
+Total new jobs found: 9
+
+1. Parspec - Software Engineer - 1 (Backend)
+   Location: Hybrid - Bangalore, India
+   Score: 95/100
+   Apply: https://jobs.ashbyhq.com/parspec/33854703-7d89-4bf1-9a08-9555f22cd21b/application
+
+2. Money Forward - Backend Engineer
+   Location: Chennai
+   Score: 55/100
+   Apply: https://www.instahyre.com/job-392426-backend-engineer-at-money-forward-chennai/
+
+3. MathCo - Full Stack Engineer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-448643-full-stack-engineer-at-mathco-bangalore/
+
+4. Anveshan - Full Stack Developer
+   Location: Gurgaon
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-458286-full-stack-developer-at-anveshan-gurgaon/
+
+5. Infosys - Java Full-Stack Developer
+   Location: Bangalore
+   Score: 40/100
+   Apply: https://www.instahyre.com/job-478197-java-full-stack-developer-at-infosys-4-bangalore/
+
+6. Paytm - SDET
+   Location: Mumbai
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-423660-sdet-at-paytm-mumbai/
+
+7. Snapmint - SDE 3 - Search
+   Location: Mumbai
+   Score: 35/100
+   Apply: https://www.instahyre.com/job-478196-sde-3-search-at-snapmint-mumbai/
+
+8. Commvault - Engineer- Dev
+   Location: Bangalore, India; Hyderbad, India
+   Score: 30/100
+   Apply: https://job-boards.greenhouse.io/commvault/jobs/5455201008
+
+9. Entain India - Software Development Engineer - 3
+   Location: Hyderabad
+   Score: 30/100
+   Apply: https://www.instahyre.com/job-437250-software-development-engineer-3-at-entain-india-hyderabad/
+
+Generated at: 2026-11-18T10:31:56.329775
